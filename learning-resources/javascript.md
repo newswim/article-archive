@@ -1,0 +1,23 @@
+### Resources for JavaScript education
+
+##### Intros / Beginning JS
+- [4h workshop for absolute beginners](https://github.com/OpenTechSchool/js-beginners-4h-workshop-1)
+- [Open Tech School's GH Organization](https://github.com/OpenTechSchool)
+- [Bitovi's JS training series](http://blog.bitovi.com/free-weekly-online-javascript-training/) - video lectures w/ slides
+
+##### Intermediate
+- [Eloquent Javascript](http://eloquentjavascript.net/)
+    - Significant leap in difficulty after chapter 3. Excellent resource! :star::star::star::star:
+- [Art of Node](https://github.com/maxogden/art-of-node) - a short intro
+- [Nodeschool.io](http://nodeschool.io/) - Awesome command line workshops
+- [Functional JavaScript (repo)](https://github.com/jkup/functional-javascript)
+
+##### Advanced
+- [Dr. Axel Rauschmayer's Blog (2ality)](http://www.2ality.com/)
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - Huge github repo
+
+### Apendices
+
+- [Mozilla's JavaScript Portal](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [CodePen](http://codepen.io/) - in-browser IDE, real-time preview and testing
+- [Open Tech School's blog](http://blog.opentechschool.org/)

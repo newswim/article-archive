@@ -28,7 +28,36 @@ Feb 09 2016
 - [http://bterlson.github.io/ecmarkup/](http://bterlson.github.io/ecmarkup/)
 - [Proposal for Roots v4](https://medium.com/@jescalan/eaa10c75eb22#.vip37pdlo)
 
+Feb 21 2016
+
+- [Stream Handbook](https://github.com/substack/stream-handbook)
+- [2016 The Year of Web Streams](https://jakearchibald.com/2016/streams-ftw/)
+- [VUE.js tags on StackOverflow](http://stackoverflow.com/questions/tagged/vue.js)
+- [VUE CLI](http://vuejs.org/2015/12/28/vue-cli/) (blog post, Dec 28, 2015)
+- [IcoMoon - free icons](https://icomoon.io/#preview-free)
+- [React Working DOM](http://web-perf.github.io/react-worker-dom/)
+- [Long article on ReactWorkingDOM](http://blog.nparashuram.com/2016/02/using-webworkers-to-make-react-faster.html?m=1)
+- [Parashuram's blog](http://blog.nparashuram.com/)
+- [Introducing React Refetch](https://engineering.heroku.com/blogs/2015-12-16-react-refetch/)
+- [Meteor + React Native integration](https://forums.meteor.com/t/meteor-react-native-integration/17697)
+- [jakiestfu/himawari.js](https://github.com/jakiestfu/himawari.js) (real-time images of Earth from the Himawari-8 satellite)
+- [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
+- [Selectors in Stylus](http://stylus-lang.com/docs/selectors.html)
+
+
+#### React
+- [Test Utilities](https://facebook.github.io/react/docs/test-utils.html)
+- [Multiple Components](https://facebook.github.io/react/docs/multiple-components.html)
+- [JSX In Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
+- [Getting Started](https://facebook.github.io/react/docs/getting-started.html)
+- [Event Stream](https://facebook.github.io/react/docs/events.html)
+
 ##### Politics
+
+(Denton)
+- [Annetta Ramsay: City attorney far too powerful in Denton](http://www.dentonrc.com/opinion/columns-headlines/20160220-annetta-ramsay-city-attorney-far-too-powerful-in-denton.ece)
+
+- [Apple's letter to customers about backdoor policy](https://www.apple.com/customer-letter/)
 
 ##### Nature
 
@@ -37,3 +66,6 @@ Feb 09 2016
 ##### Art
 
 ##### Writing
+
+- [Allen Ginsberg’s Handwritten Poem For Bernie Sanders, “Burlington Snow” (1986)](http://www.openculture.com/2015/07/allen-ginsbergs-handwritten-poem-for-bernie-sanders-burlington-snow-1986.html)
+- [Untransltable Works](http://www.thebookoflife.org/untranslatable-words/)

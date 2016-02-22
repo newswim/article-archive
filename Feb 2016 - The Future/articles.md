@@ -43,6 +43,12 @@ Feb 21 2016
 - [jakiestfu/himawari.js](https://github.com/jakiestfu/himawari.js) (real-time images of Earth from the Himawari-8 satellite)
 - [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
 - [Selectors in Stylus](http://stylus-lang.com/docs/selectors.html)
+- [PhotoSwipe](http://photoswipe.com/)(JavaScript gallery, no dependencies.)
+- [Riffyn](http://riffyn.com/)(Iterative process design and analytics software for R&D)
+
+Feb 22 2016
+
+- [Marshall's dotfiles](https://github.com/marshall/dotfiles)
 
 
 #### React
@@ -52,11 +58,16 @@ Feb 21 2016
 - [Getting Started](https://facebook.github.io/react/docs/getting-started.html)
 - [Event Stream](https://facebook.github.io/react/docs/events.html)
 
+
+#### Jade
+- [Jade API by example](http://naltatis.github.io/jade-syntax-docs/)
+- [Jade](http://jade-lang.com/) (official site)
+- [Compare jade/mustache/dust/more](https://strongloop.com/strongblog/compare-javascript-templates-jade-mustache-dust/)
+
 ##### Politics
 
 (Denton)
 - [Annetta Ramsay: City attorney far too powerful in Denton](http://www.dentonrc.com/opinion/columns-headlines/20160220-annetta-ramsay-city-attorney-far-too-powerful-in-denton.ece)
-
 - [Apple's letter to customers about backdoor policy](https://www.apple.com/customer-letter/)
 
 ##### Nature

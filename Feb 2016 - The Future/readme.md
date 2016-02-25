@@ -50,6 +50,18 @@ Feb 22 2016
 
 - [Marshall's dotfiles](https://github.com/marshall/dotfiles)
 
+Feb 24 2016
+
+- [Dockerizing a Node app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+- [GH: express-react-views](https://github.com/reactjs/express-react-views)
+- [hapijs/tutorials](http://hapijs.com/tutorials)
+- [draft.js website](https://facebook.github.io/draft-js/)
+- [What I Took Away from Creativity, Inc](https://medium.com/@zhangela/what-i-took-away-from-creativity-inc-5f8d7d8e46b7#.1i6fyn5kv)
+- [Using inkscape to convert scanned color drawings to svg](http://graphicdesign.stackexchange.com/questions/27892/using-inkscape-to-convert-scanned-color-drawings-to-svg-recommended-or-no)
+- [Export layers and artboards in Photoshop](https://helpx.adobe.com/photoshop/using/export-artboards-layers.html)
+- [An introduction to Promises - Just Meteor](http://justmeteor.com/blog/an-introduction-to-promises/)
+
+
 
 #### React
 - [Test Utilities](https://facebook.github.io/react/docs/test-utils.html)
@@ -72,9 +84,15 @@ Feb 22 2016
 
 ##### Nature
 
+- [Science Board Checks EPA on Fracking Water Study](https://www.earthworksaction.org/earthblog/detail/science_board_checks_epa_on_fracking_water_study#.Vs6PGpMrJE7)
+
 ##### Science
 
 ##### Art
+
+##### Music
+
+- [Mimisiku - The Thrill of Living (album review)](http://www.sputnikmusic.com/review/69854/Mimisiku-The-Thrill-of-Living/)
 
 ##### Writing
 

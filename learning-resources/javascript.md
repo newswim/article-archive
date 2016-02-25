@@ -11,6 +11,7 @@
 - [Art of Node](https://github.com/maxogden/art-of-node) - a short intro
 - [Nodeschool.io](http://nodeschool.io/) - Awesome command line workshops
 - [Functional JavaScript (repo)](https://github.com/jkup/functional-javascript)
+- [SO: How do closures actually work?](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
 
 ##### Advanced
 - [Dr. Axel Rauschmayer's Blog (2ality)](http://www.2ality.com/)

@@ -86,12 +86,30 @@ Feb 29th 2016
 - [SO: In Javascript is there equivalent to .apply that doesn't change the value of this?](http://stackoverflow.com/questions/5247060/in-javascript-is-there-equivalent-to-apply-that-doesnt-change-the-value-of-thi)
 - [Tree-shaking versus dead code elimination](https://medium.com/@Rich_Harris/tree-shaking-versus-dead-code-elimination-d3765df85c80#.ef809elez)
 
+Feb 29th 2016 (BONUS DAY)
+- [Zephyr Project: Minimal OS](https://www.zephyrproject.org)
+- [ThoughtBot](https://thoughtbot.com)
+- [Netlify CI](https://www.netlify.com/docs/continuous-deployment)
+
+March 2nd 2016
+- [Git Basics - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+- [Function pointers, Closures, and Lambda](http://stackoverflow.com/questions/208835/function-pointers-closures-and-lambda)
+- [Google Container Registry /docs](https://cloud.google.com/container-registry/docs/)
+- [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
+
+March 4th 2016
+- [Anonymous HTML Content (MDN)](https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XBL/XBL_1.0_Reference/Anonymous_Content)
+- [XBL - XML Binding Language (MDN)](https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XBL)
+- [jQuery Light Gallery](https://github.com/sachinchoolur/lightGallery)
+- [Kaleidoscope: Implementing a Language with LLVM](http://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
+
+
 
 #### Functional Programming
-- [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
+- [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 1](http://jrsinclair.com/articles/2016/gentle-introhttp://stackoverflow.com/questions/208835/function-pointers-closures-and-lambdaduction-to-functional-javascript-intro/)
 - [Descartes, Berkeley and Functional Reactive Programming](https://gist.github.com/dmvaldman/f957dd9a8ed3f6edf35d)
 
-#### Meteor / Mantra
+#### Meteor / Mantrater
 
 - [World of Mantra](https://voice.kadira.io/world-of-mantra-60c31d89f76c#.6z75lavn7)
 - [Mantra on Github](https://github.com/kadirahq/mantra)
@@ -105,11 +123,28 @@ Feb 29th 2016
 - [Getting Started](https://facebook.github.io/react/docs/getting-started.html)
 - [Event Stream](https://facebook.github.io/react/docs/events.html)
 - [Introducing React Refetch](https://engineering.heroku.com/blogs/2015-12-16-react-refetch/)
+- [React Up and Running (blog post, Kelly J. Andrews)](http://www.kellyjandrews.com/2015/03/30/react-up-and-running.html)
+- [Reach Widgets](http://jquense.github.io/react-widgets/docs/#/getting-started)
+- [Server-Side Rendering With React, Node And Express – Smashing Magazine](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
+- [A Better File Structure For React/Redux Applications](http://marmelab.com/blog/2015/12/17/react-directory-structure.html)
+
+
+#### Terminal / Bash
+
+- [Go Back to the Previous Directory via Command Line (cd -)](http://osxdaily.com/2010/02/09/go-back-to-the-previous-directory-via-command-line/)
+
+#### Docker
+- [Weird memory swapiness issue](https://github.com/docker/docker/issues/4250)
+- [Gist of the fix for ^]((https://gist.github.com/steakknife/9094991))
 
 #### Jade
 - [Jade API by example](http://naltatis.github.io/jade-syntax-docs/)
 - [Jade](http://jade-lang.com/) (official site)
 - [Compare jade/mustache/dust/more](https://strongloop.com/strongblog/compare-javascript-templates-jade-mustache-dust/)
+
+#### SVG
+- [Structured Grouping w/ <g> tag](https://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/)
+
 
 ##### Politics
 

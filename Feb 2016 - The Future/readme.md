@@ -41,8 +41,8 @@ Feb 21 2016
 - [Meteor + React Native integration](https://forums.meteor.com/t/meteor-react-native-integration/17697)
 - [jakiestfu/himawari.js](https://github.com/jakiestfu/himawari.js) (real-time images of Earth from the Himawari-8 satellite)
 - [Selectors in Stylus](http://stylus-lang.com/docs/selectors.html)
-- [PhotoSwipe](http://photoswipe.com/)(JavaScript gallery, no dependencies.)
-- [Riffyn](http://riffyn.com/)(Iterative process design and analytics software for R&D)
+- [PhotoSwipe](http://photoswipe.com/) (JavaScript gallery, no dependencies.)
+- [Riffyn](http://riffyn.com/) (Iterative process design and analytics software for R&D)
 
 
 Feb 22 2016
@@ -103,18 +103,39 @@ March 4th 2016
 - [jQuery Light Gallery](https://github.com/sachinchoolur/lightGallery)
 - [Kaleidoscope: Implementing a Language with LLVM](http://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
 
+March 9th 2016
+- [Meteor Galaxy Containerizes JavaScript Apps for Full-stack Management](http://thenewstack.io/meteor-galaxy-containerizes-javascript-apps-full-stack-management)
+- [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87#.1noqtf22x)
+- [git(1) Manual Page](https://www.kernel.org/pub/software/scm/git/docs/git.html)
+
+March 10th 2016
+- [Demos - beautiful, free math visualizations](https://www.desmos.com/)
+- [Composition vs. Inheritance: How to Choose?](https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose)
+- [Guest Tutorial: Connected Temperature Station](https://www.sparkfun.com/news/2051)
+- [Web Audio API (free eBook)](http://chimera.labs.oreilly.com/books/1234000001552)
+- [Nuclide](http://nuclide.io/)
+- [Facebook Open Source](https://code.facebook.com/projects/)
+- [Adventures in high-tech smuggery](http://smugdeveloper.com/)
+- [Smug Dev's article on his dad's COBOL experience](http://smugdeveloper.com/2016/01/08/x-powered-by-cobol/)
+- [Babel and CommonJS modules](http://www.2ality.com/2015/12/babel-commonjs.html)
+- [Typed Arrays in ECMAScript 6](http://www.2ality.com/2015/09/typed-arrays.html)
+- [Exploring ES6: Modules](http://exploringjs.com/es6/ch_modules.html#sec_cyclic-dependencies)
+
 
 
 #### Functional Programming
 - [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 1](http://jrsinclair.com/articles/2016/gentle-introhttp://stackoverflow.com/questions/208835/function-pointers-closures-and-lambdaduction-to-functional-javascript-intro/)
 - [Descartes, Berkeley and Functional Reactive Programming](https://gist.github.com/dmvaldman/f957dd9a8ed3f6edf35d)
 
-#### Meteor / Mantrater
+#### Meteor / Mantra
 
 - [World of Mantra](https://voice.kadira.io/world-of-mantra-60c31d89f76c#.6z75lavn7)
 - [Mantra on Github](https://github.com/kadirahq/mantra)
 - [Mantra Spec](https://kadirahq.github.io/mantra/)
 - [Mantra Tutor: Say Hello to ES2015](https://tutor.mantrajs.com/say-hello-to-ES2015)
+- [Adopting GraphQL](https://voice.kadira.io/adopting-graphql-2f00dfe0fda2#.bd1d40exz)
+- [Meteor 1.3 and React Composition with Reactive Data](https://thoughts.spacedojo.com/meteor-1-3-and-react-composition-with-reactive-data-b0bb3282fea#.nkownkm3j)
+- [Size Matters: Balancing Line Length And Font Size In Responsive Web Design](https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/)
 
 #### React
 - [Test Utilities](https://facebook.github.io/react/docs/test-utils.html)
@@ -127,6 +148,11 @@ March 4th 2016
 - [Reach Widgets](http://jquense.github.io/react-widgets/docs/#/getting-started)
 - [Server-Side Rendering With React, Node And Express – Smashing Magazine](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
 - [A Better File Structure For React/Redux Applications](http://marmelab.com/blog/2015/12/17/react-directory-structure.html)
+- [An opinionated guide to React.js best practices and conventions](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
+- [isMounted is an Antipattern](https://facebook.github.io/react/blog/2015/12/16/ismounted-antipattern.html)
+- [Component Specs and Lifecycle](https://facebook.github.io/react/docs/component-specs.html)
+- [React: Blog (official)](https://facebook.github.io/react/blog/)
+- [React Fundamentals (free course)](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 
 
 #### Terminal / Bash
@@ -160,6 +186,8 @@ March 4th 2016
 - [Science Board Checks EPA on Fracking Water Study](https://www.earthworksaction.org/earthblog/detail/science_board_checks_epa_on_fracking_water_study#.Vs6PGpMrJE7)
 
 ##### Science
+
+- [We Finally Know How Much the Dino-Killing Asteroid Reshaped Earth](http://www.smithsonianmag.com/science-nature/we-finally-know-how-much-dino-killing-asteroid-reshaped-earth-180958222/?no-ist)
 
 ##### Art
 

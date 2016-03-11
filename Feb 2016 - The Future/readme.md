@@ -121,6 +121,32 @@ March 10th 2016
 - [Typed Arrays in ECMAScript 6](http://www.2ality.com/2015/09/typed-arrays.html)
 - [Exploring ES6: Modules](http://exploringjs.com/es6/ch_modules.html#sec_cyclic-dependencies)
 
+March 11th 2016
+- [Docker is great - Tutum makes it awesome](http://willcodefor.beer/what-is-tutum/)
+- [Tagging in Tutum](http://willcodefor.beer/tagging-in-tutum/)
+- [Setup your own NPM cache server](http://willcodefor.beer/setup-your-own-npm-cache-server/)
+- [How to create a private npm.js repository (2012)](http://www.clock.co.uk/blog/how-to-create-a-private-npmjs-repository)
+- [CNPMJS](https://github.com/cnpm/cnpmjs.org)
+- [Sinopia-Cookbook](https://github.com/BarthV/sinopia-cookbook)
+- [Sinopia - Private npm repository server](https://github.com/rlidwka/sinopia)
+- [Microsoft has crafted a switch OS on Debian Linux.](http://www.theregister.co.uk/2016/03/09/microsoft_sonic_debian/)
+- [Sheetify - Modular CSS bundler for browserify](https://github.com/stackcss/sheetify)
+- [Database as a Value • Rich Hickey](https://youtu.be/EKdV1IgAaFc)
+- [What is polymorphism in Javascript? SO:27642239](http://stackoverflow.com/questions/27642239/what-is-polymorphism-in-javascript)
+- [dwyl / Learn API Design](https://github.com/dwyl/learn-api-design)
+- [dwyl - Learn Hapi.js](https://github.com/dwyl/learn-hapi)
+- [Autumn AI](http://autumnai.com/)
+- [autumnai/leaf - The Hacker's Machine Learning Engine](https://github.com/autumnai/leaf)
+- [HUG - Python driven RESTful API framework](https://github.com/timothycrosley/hug)
+- [Graphene - GraphQL in Python](http://graphene-python.org/)
+- [Let's Learn GraphQL - Kadira](https://learngraphql.com/)
+- [Crystal-Lang - fast as C, slick as Ruby](http://crystal-lang.org/)
+- [Elm Architecture Tutorial - from evancz](https://github.com/evancz/elm-architecture-tutorial/)
+- [Cycle.js - A functional and reactive JavaScript framework for cleaner code](http://cycle.js.org/)
+- [Cycle.js Fundamentals - egghead.io](https://egghead.io/series/cycle-js-fundamentals)
+- [Dan Abramov's blog](https://medium.com/@dan_abramov)
+- [Redux Docs - Reducers](http://redux.js.org/docs/basics/Reducers.html)
+
 
 
 #### Functional Programming
@@ -153,6 +179,8 @@ March 10th 2016
 - [Component Specs and Lifecycle](https://facebook.github.io/react/docs/component-specs.html)
 - [React: Blog (official)](https://facebook.github.io/react/blog/)
 - [React Fundamentals (free course)](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
+- [React testing with shallow rendering and skin-deep](http://willcodefor.beer/react-testing-with-shallow-rendering-and-skin-deep/)
+
 
 
 #### Terminal / Bash
@@ -176,6 +204,8 @@ March 10th 2016
 
 - [Another Oil Crash Is Coming, and There May Be No Recovery](http://www.bloomberg.com/news/articles/2016-02-24/another-oil-crash-is-coming-and-there-may-be-no-recovery)
 - [Antonin Scalia: The Billion-Dollar Supreme Court Justice](https://theintercept.com/2016/02/27/antonin-scalia-the-billion-dollar-supreme-court-justice/)
+- [10 Reasons Why Conservatives Should Start Supporting Bernie Sanders Immediately](https://medium.com/@kimballmortensen/10-reasons-why-conservatives-should-start-supporting-bernie-sanders-immediately-7eb700302a2a#.gujawfwqc)
+- [Sanders, Drumpf, and the American political earthquake](https://youtu.be/qjbFSnF1BHM)
 
 (Denton)
 - [Annetta Ramsay: City attorney far too powerful in Denton](http://www.dentonrc.com/opinion/columns-headlines/20160220-annetta-ramsay-city-attorney-far-too-powerful-in-denton.ece)

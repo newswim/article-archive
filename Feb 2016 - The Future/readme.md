@@ -135,6 +135,7 @@ March 11th 2016
 - [What is polymorphism in Javascript? SO:27642239](http://stackoverflow.com/questions/27642239/what-is-polymorphism-in-javascript)
 - [dwyl / Learn API Design](https://github.com/dwyl/learn-api-design)
 - [dwyl - Learn Hapi.js](https://github.com/dwyl/learn-hapi)
+- [Hapi: Serving Static Content (with Inert)](http://hapijs.com/tutorials/serving-files)
 - [Autumn AI](http://autumnai.com/)
 - [autumnai/leaf - The Hacker's Machine Learning Engine](https://github.com/autumnai/leaf)
 - [HUG - Python driven RESTful API framework](https://github.com/timothycrosley/hug)
@@ -146,7 +147,66 @@ March 11th 2016
 - [Cycle.js Fundamentals - egghead.io](https://egghead.io/series/cycle-js-fundamentals)
 - [Dan Abramov's blog](https://medium.com/@dan_abramov)
 - [Redux Docs - Reducers](http://redux.js.org/docs/basics/Reducers.html)
+- [Learn Python (the hard way) - Inheritance v. Composition](http://learnpythonthehardway.org/book/ex44.html)
+- [Learn X in Y minutes](https://learnxinyminutes.com)
+- [UTF-8: the key to languages, characters and glyphs on web pages](http://thenewcode.com/37/UTF8-the-key-to-languages-characters-and-glyphs-on-web-pages)
+- [SVG Fundamentals: XML and Versioning](http://thenewcode.com/605/SVG-Fundamentals-XML-and-Versioning)
+- [Launch a WordPress Website on EC2](https://aws.amazon.com/getting-started/launch-a-wordpress-website/)
+- [OM - Basic Tutorial](https://github.com/omcljs/om/wiki/Basic-Tutorial)
 
+March 13th 2016
+- [Code Winds](http://codewinds.com/)
+- [Idiomatic.JS - Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
+- [Multiple var statements in JavaScript, not superfluous](http://benalman.com/news/2012/05/multiple-var-statements-javascript/)
+- [A criticism of the Single Var Pattern in JavaScript, and a simple alternative](https://danhough.com/blog/single-var-pattern-rant/)
+- [Andrew Dupont: Everything is Permitted: Extending Built-ins](https://youtu.be/xL3xCO7CLNM)
+- [Prototype.js](http://prototypejs.org/)
+- [Terminal Cheatsheet for Mac ( basics )](https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-))
+- [The Do/While Loop](http://www.w3schools.com/js/js_loop_while.asp)
+- [Hapi 13.2.x API Reference](https://github.com/hapijs/hapi/blob/master/API.md)
+- [ES6 Spec](http://www.ecma-international.org/ecma-262/6.0)
+- [Video: ECMAScript 6: A Better JavaScript for the Ambient Computing Era](https://youtu.be/BnwFYJDes1c)
+- [SystemJS](https://github.com/systemjs/systemjs)
+- [StealJS - Streaming API](http://stealjs.com/docs/steal-tools.guides.streams.html)
+
+March 15th 2016
+- [Prezto - The configuration framework for Zsh](https://github.com/savetheclocktower/prezto)
+- [ZSH](http://www.zsh.org/)
+- [“Oh My ZSH!”](http://ohmyz.sh/)
+- [OH MY ZSH THEMES](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes)
+- [Webpack: Configuration : libraryTarget](https://webpack.github.io/docs/configuration.html#output-librarytarget)
+- [Webpack: Motivation](https://webpack.github.io/docs/motivation.html)
+- [Node : Assert](https://nodejs.org/api/assert.html)
+- [How do I host multiple Meteor apps on one DigitalOcean Droplet](http://julian.io/how-do-i-host-multiple-meteor-apps-on-one-digitalocean-droplet/)
+
+March 22nd 2016
+- [True believers mind-meld FreeBSD with Ubuntu to burn systemd](http://www.theregister.co.uk/2016/03/22/ubuntubsd_released/)
+- [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
+- [HTTP State Management Mechanism - http spec](http://tools.ietf.org/html/rfc6265)
+- [Hapi cookies](http://hapijs.com/tutorials/cookies)
+- [Google security blog - Securing the web, together](https://security.googleblog.com/2016/03/securing-web-together_15.html)
+- []()
+- []()
+- []()
+- []()
+
+
+
+#### Gitlab / Docker Engine | | HOWDOICI
+
+- [Using Dpl as deployment tool](http://doc.gitlab.com/ce/ci/deployment/README.html)
+- [Runners](http://doc.gitlab.com/ce/ci/runners/README.html)
+- [Configuration of your builds with .gitlab-ci.yml](http://doc.gitlab.com/ce/ci/yaml/README.html)
+- [Dpl - deploy tool](https://github.com/travis-ci/dpl#s3)
+- [Install Docker Engine](https://docs.docker.com/engine/installation/)
+- [Setting up GitLab Runner For Continuous Integration](https://about.gitlab.com/2016/03/01/gitlab-runner-with-docker/)
+- [issue: Can't install Docker Engine on clean Ubuntu 14.04](https://github.com/docker/docker/issues/20698)
+- [Gitlab CI Multi Runner Installation](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/blob/master/docs/install/docker.md)
+- [Gitlab - using SSH keys](http://doc.gitlab.com/ce/ci/ssh_keys/README.html)
+- [Gitlab - gitlab-ci.yml configuration](http://doc.gitlab.com/ce/ci/yaml/README.html)
+- [Gitlab - Using Docker Images](http://doc.gitlab.com/ce/ci/docker/using_docker_images.html)
+- [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
+- [Gitlab - reusing Docker containers between builds](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/issues/1107)
 
 
 #### Functional Programming
@@ -162,6 +222,8 @@ March 11th 2016
 - [Adopting GraphQL](https://voice.kadira.io/adopting-graphql-2f00dfe0fda2#.bd1d40exz)
 - [Meteor 1.3 and React Composition with Reactive Data](https://thoughts.spacedojo.com/meteor-1-3-and-react-composition-with-reactive-data-b0bb3282fea#.nkownkm3j)
 - [Size Matters: Balancing Line Length And Font Size In Responsive Web Design](https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/)
+- [Mantra: Are isomorphic methods considered bad?](https://forums.meteor.com/t/mantra-are-isomorphic-methods-considered-bad/19161)
+
 
 #### React
 - [Test Utilities](https://facebook.github.io/react/docs/test-utils.html)
@@ -181,7 +243,8 @@ March 11th 2016
 - [React Fundamentals (free course)](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 - [React testing with shallow rendering and skin-deep](http://willcodefor.beer/react-testing-with-shallow-rendering-and-skin-deep/)
 
-
+#### React Native
+- [React Native: Books](http://www.reactnative.com/books/)
 
 #### Terminal / Bash
 
@@ -206,10 +269,18 @@ March 11th 2016
 - [Antonin Scalia: The Billion-Dollar Supreme Court Justice](https://theintercept.com/2016/02/27/antonin-scalia-the-billion-dollar-supreme-court-justice/)
 - [10 Reasons Why Conservatives Should Start Supporting Bernie Sanders Immediately](https://medium.com/@kimballmortensen/10-reasons-why-conservatives-should-start-supporting-bernie-sanders-immediately-7eb700302a2a#.gujawfwqc)
 - [Sanders, Drumpf, and the American political earthquake](https://youtu.be/qjbFSnF1BHM)
+- [The Obama Doctrine (The Atlantic, March 2016)](http://www.theatlantic.com/magazine/archive/2016/04/the-obama-doctrine/471525/)
+- [More than 35,000 Rally for Bernie in Washington State](https://berniesanders.com/35000-rally-bernie-washington-state/)
+- [Hillary Clinton Email Archive](https://wikileaks.org/clinton-emails/)
 
 (Denton)
 - [Annetta Ramsay: City attorney far too powerful in Denton](http://www.dentonrc.com/opinion/columns-headlines/20160220-annetta-ramsay-city-attorney-far-too-powerful-in-denton.ece)
 - [Apple's letter to customers about backdoor policy](https://www.apple.com/customer-letter/)
+
+
+#### History
+- [Nueces massacre](https://en.wikipedia.org/wiki/Nueces_massacre)
+
 
 ##### Nature
 

@@ -185,12 +185,44 @@ March 22nd 2016
 - [HTTP State Management Mechanism - http spec](http://tools.ietf.org/html/rfc6265)
 - [Hapi cookies](http://hapijs.com/tutorials/cookies)
 - [Google security blog - Securing the web, together](https://security.googleblog.com/2016/03/securing-web-together_15.html)
-- []()
+- [Getting Started with Yeoman](http://yeoman.io/authoring/index.html)
+- [Serverless GraphQL](http://kevinold.com/2016/02/01/serverless-graphql.html)
+- [React.js Conf 2016 - Eric Florenzano - React, Meet Virtual Reality](https://youtu.be/ty2bFeOdGeI)
+
+March 23rd 2016
+- [Python Docs](https://docs.python.org/3/tutorial/index.html)
+- [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Examples for The Two Pillars of JavaScript: Prototypal OO - Object Composition](https://github.com/learn-javascript-courses/composition-examples#composition-examples)
+- [The Two Pillars of JavaScript — Pt 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.qw18votsr)
+- [Learn JavaScript Essentials(for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.rix6r9yut)
+- [Functional Programming in Javascript](http://reactivex.io/learnrx/)
+- [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+- [Lodash - String - Deburr](https://lodash.com/docs#deburr)
+- [React Suite | Yeoman Generator](https://github.com/track0x1/generator-react-suite)
+- [Backbone Fundamentals (by Addy Osmani)](https://addyosmani.com/backbone-fundamentals)
+- [Totally Tooling Tips](https://developers.google.com/web/shows/ttt/)
+- [Writing your own Yeoman generator](http://yeoman.io/authoring/index.html)
+- [Furbo.org - The Terminal](http://furbo.org/2014/09/03/the-terminal/)
+
+
+March 24th 2016
+- [Reapp Generator](https://github.com/marcopeg/generator-reapp)
+- [SpencerCDixon/Redux-CLI](https://github.com/SpencerCDixon/redux-cli)
+- [Spencer Dixon - Test Driven React Tutorial](http://spencerdixon.com/blog/test-driven-react-tutorial.html)
+- [The npm Blog - kik, left-pad, and npm](http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm)
+- [WebAssembly in Chrome Canary gives a glimpse at the future of the Web](http://thenextweb.com/dd/2016/03/15/webassembly-lands-chrome-canary-offering-glimpse-future-web/)
+- [How to not break the internet with this one weird trick (Rich Harris)](https://medium.com/@Rich_Harris/how-to-not-break-the-internet-with-this-one-weird-trick-e3e2d57fee28#.nk7yvbdqo)
+- [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)
 - []()
 - []()
 - []()
 
 
+#### GraphQL
+
+- [Building a GraphQL store from first principles](https://medium.com/apollo-stack/building-a-graphql-store-from-first-principles-413e19ea65b4#.qi1wyjs5f)
+- [I'm a contributor to React, Immutable.js, and GraphQL at Facebook. Ask Me Anything! (Lee Byron)](https://www.codementor.io/ama/1237952640/facebook-react-contributer-lee-byron)
+- [8. React, GraphQL, Immutable & Bow-Ties with Special Guest Lee Byron (React Podcast)](http://reactpodcast.com/2015/12/8-react-graphql-immutable-bow-ties-with-special-guest-lee-byron/)
 
 #### Gitlab / Docker Engine | | HOWDOICI
 
@@ -223,6 +255,7 @@ March 22nd 2016
 - [Meteor 1.3 and React Composition with Reactive Data](https://thoughts.spacedojo.com/meteor-1-3-and-react-composition-with-reactive-data-b0bb3282fea#.nkownkm3j)
 - [Size Matters: Balancing Line Length And Font Size In Responsive Web Design](https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/)
 - [Mantra: Are isomorphic methods considered bad?](https://forums.meteor.com/t/mantra-are-isomorphic-methods-considered-bad/19161)
+- [Building Apollo Stack (on medium.com)](https://medium.com/apollo-stack)
 
 
 #### React
@@ -242,6 +275,11 @@ March 22nd 2016
 - [React: Blog (official)](https://facebook.github.io/react/blog/)
 - [React Fundamentals (free course)](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 - [React testing with shallow rendering and skin-deep](http://willcodefor.beer/react-testing-with-shallow-rendering-and-skin-deep/)
+- [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+- [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
+- [Baby’s First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd#.yg25dppzs)
+- [Test Driven React Tutorial](http://spencerdixon.com/blog/test-driven-react-tutorial.html)
+
 
 #### React Native
 - [React Native: Books](http://www.reactnative.com/books/)
@@ -289,6 +327,7 @@ March 22nd 2016
 ##### Science
 
 - [We Finally Know How Much the Dino-Killing Asteroid Reshaped Earth](http://www.smithsonianmag.com/science-nature/we-finally-know-how-much-dino-killing-asteroid-reshaped-earth-180958222/?no-ist)
+- [For the First Time, Witness the Shockwave of an Exploding Star](http://motherboard.vice.com/read/exploding-star-video-for-the-first-time-witness-the-shockwave-of-an-exploding-star?utm_source=mbfb)
 
 ##### Art
 

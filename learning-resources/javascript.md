@@ -4,6 +4,7 @@
 - [4h workshop for absolute beginners](https://github.com/OpenTechSchool/js-beginners-4h-workshop-1)
 - [Open Tech School's GH Organization](https://github.com/OpenTechSchool)
 - [Bitovi's JS training series](http://blog.bitovi.com/free-weekly-online-javascript-training/) - video lectures w/ slides
+- [JS for cats](http://jsforcats.com)
 
 ##### Intermediate
 - [Eloquent Javascript](http://eloquentjavascript.net/)

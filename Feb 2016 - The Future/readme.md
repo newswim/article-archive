@@ -213,7 +213,7 @@ March 24th 2016
 - [WebAssembly in Chrome Canary gives a glimpse at the future of the Web](http://thenextweb.com/dd/2016/03/15/webassembly-lands-chrome-canary-offering-glimpse-future-web/)
 - [How to not break the internet with this one weird trick (Rich Harris)](https://medium.com/@Rich_Harris/how-to-not-break-the-internet-with-this-one-weird-trick-e3e2d57fee28#.nk7yvbdqo)
 - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)
-- []()
+- [Object.observe is dead, long live ES6 Proxies](http://blog.bitovi.com/long-live-es6-proxies/)
 - []()
 - []()
 
@@ -244,6 +244,7 @@ March 24th 2016
 #### Functional Programming
 - [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 1](http://jrsinclair.com/articles/2016/gentle-introhttp://stackoverflow.com/questions/208835/function-pointers-closures-and-lambdaduction-to-functional-javascript-intro/)
 - [Descartes, Berkeley and Functional Reactive Programming](https://gist.github.com/dmvaldman/f957dd9a8ed3f6edf35d)
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 
 #### Meteor / Mantra
 
@@ -299,6 +300,15 @@ March 24th 2016
 
 #### SVG
 - [Structured Grouping w/ <g> tag](https://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/)
+
+#### MDN Hot Links
+
+- [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this#As_an_object_method)
+- [WindowTimers.setTimeout()](https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/setTimeout)
+- [Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+- [EventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+- []()
+- []()
 
 
 ##### Politics

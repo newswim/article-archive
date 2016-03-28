@@ -214,7 +214,16 @@ March 24th 2016
 - [How to not break the internet with this one weird trick (Rich Harris)](https://medium.com/@Rich_Harris/how-to-not-break-the-internet-with-this-one-weird-trick-e3e2d57fee28#.nk7yvbdqo)
 - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)
 - [Object.observe is dead, long live ES6 Proxies](http://blog.bitovi.com/long-live-es6-proxies/)
-- []()
+
+March 27th 2016
+- [Processing IDE](https://processing.org/reference/environment/)
+- [ThemeShaper - shaping WordPress themes](http://themeshaper.com/)
+- [ESLint](http://eslint.org/)
+- [ESLint - Node API](http://eslint.org/docs/developer-guide/nodejs-api)
+- [Espree - An Esprima-compatible JavaScript parser](https://github.com/eslint/espree)
+- [Welcome to Future of Web Application Delivery](https://medium.com/@ryanflorence/welcome-to-future-of-web-application-delivery-9750b7564d9f#.ofgbl12p2)
+- [localForage - local storage from MDN](https://github.com/mozilla/localForage)
+- [Lint Like It’s 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.crhtb9smy)
 - []()
 
 
@@ -223,6 +232,11 @@ March 24th 2016
 - [Building a GraphQL store from first principles](https://medium.com/apollo-stack/building-a-graphql-store-from-first-principles-413e19ea65b4#.qi1wyjs5f)
 - [I'm a contributor to React, Immutable.js, and GraphQL at Facebook. Ask Me Anything! (Lee Byron)](https://www.codementor.io/ama/1237952640/facebook-react-contributer-lee-byron)
 - [8. React, GraphQL, Immutable & Bow-Ties with Special Guest Lee Byron (React Podcast)](http://reactpodcast.com/2015/12/8-react-graphql-immutable-bow-ties-with-special-guest-lee-byron/)
+- [Quick Look at the Relay Store](http://hueypetersen.com/posts/2015/09/30/quick-look-at-the-relay-store/)
+- [GraphQL vs. Falcor](https://medium.com/apollo-stack/graphql-vs-falcor-4f1e9cbf7504#.mjciabb64)
+- [Querying GraphQL with Falcor](http://hueypetersen.com/posts/2015/10/26/querying-graphql-with-falcor/)
+- [What is the difference between Falcor and GraphQL?](http://stackoverflow.com/questions/32057785/what-is-the-difference-between-falcor-and-graphql)
+- [What is Falcor?](https://netflix.github.io/falcor/starter/what-is-falcor.html)
 
 #### Gitlab / Docker Engine | | HOWDOICI
 
@@ -245,6 +259,19 @@ March 24th 2016
 - [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 1](http://jrsinclair.com/articles/2016/gentle-introhttp://stackoverflow.com/questions/208835/function-pointers-closures-and-lambdaduction-to-functional-javascript-intro/)
 - [Descartes, Berkeley and Functional Reactive Programming](https://gist.github.com/dmvaldman/f957dd9a8ed3f6edf35d)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+- [ML (programming language)](https://en.wikipedia.org/wiki/ML_(programming_language))
+- [Learn You Haskell (For Great Good!)](http://learnyouahaskell.com/)
+
+
+##### Elm Language
+- [Learn by Example](http://elm-lang.org/examples)
+- [Share-Elm](http://www.share-elm.com/)
+- [DreamWriter - Streamlined long-form writing software. Written in Elm.](https://github.com/rtfeldman/dreamwriter)
+- [Elm Discussion Forum](https://groups.google.com/forum/#!forum/elm-discuss)
+- [Elm for live arts (discussion)](https://groups.google.com/forum/#!topic/elm-discuss/v7s9xpGCUtw)
+- [The Elm Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial/)
+- [elm-svg](https://github.com/evancz/elm-svg)
+
 
 #### Meteor / Mantra
 
@@ -280,6 +307,8 @@ March 24th 2016
 - [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
 - [Baby’s First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd#.yg25dppzs)
 - [Test Driven React Tutorial](http://spencerdixon.com/blog/test-driven-react-tutorial.html)
+- [React Router Tutorial](https://github.com/reactjs/react-router-tutorial)
+- [React Training (reactjs-training.com)](https://reactjs-training.com/)
 
 
 #### React Native
@@ -307,8 +336,8 @@ March 24th 2016
 - [WindowTimers.setTimeout()](https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/setTimeout)
 - [Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 - [EventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
-- []()
-- []()
+- [Element.getAttribute()](https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttribute)
+- [Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
 
 
 ##### Politics
@@ -320,10 +349,16 @@ March 24th 2016
 - [The Obama Doctrine (The Atlantic, March 2016)](http://www.theatlantic.com/magazine/archive/2016/04/the-obama-doctrine/471525/)
 - [More than 35,000 Rally for Bernie in Washington State](https://berniesanders.com/35000-rally-bernie-washington-state/)
 - [Hillary Clinton Email Archive](https://wikileaks.org/clinton-emails/)
+- [These 6 Corporations Control 90% Of The Media In America](http://www.businessinsider.com/these-6-corporations-control-90-of-the-media-in-america-2012-6)
+- [Ralph Nader: Why Bernie Sanders was right to run as a Democrat](https://www.washingtonpost.com/posteverything/wp/2016/03/25/ralph-nader-why-bernie-sanders-was-right-to-run-as-a-democrat/)
+- [Barney Frank takes on Bernie Sanders and the ‘too big to fail’ argument](http://www.pbs.org/newshour/bb/barney-frank-takes-on-bernie-sanders-and-the-too-big-to-fail-argument/)
+
 
 (Denton)
 - [Annetta Ramsay: City attorney far too powerful in Denton](http://www.dentonrc.com/opinion/columns-headlines/20160220-annetta-ramsay-city-attorney-far-too-powerful-in-denton.ece)
 - [Apple's letter to customers about backdoor policy](https://www.apple.com/customer-letter/)
+- [Expert says renewable energy in reach](http://www.dentonrc.com/local-news/local-news-headlines/20160325-expert-says-renewable-energy-in-reach.ece)
+- [How Denton Can Afford 100% Renewable Energy](http://adambriggle.com/2016/03/27/how-denton-can-afford-100-renewable-energy/)
 
 
 #### History
@@ -344,8 +379,11 @@ March 24th 2016
 ##### Music
 
 - [Mimisiku - The Thrill of Living (album review)](http://www.sputnikmusic.com/review/69854/Mimisiku-The-Thrill-of-Living/)
+- [Download 30GB of lost cassettes from the 80s underground](http://www.factmag.com/2015/11/30/download-30-gigs-80s-cassette-underground/)
 
 ##### Writing
 
 - [Allen Ginsberg’s Handwritten Poem For Bernie Sanders, “Burlington Snow” (1986)](http://www.openculture.com/2015/07/allen-ginsbergs-handwritten-poem-for-bernie-sanders-burlington-snow-1986.html)
 - [Untransltable Works](http://www.thebookoflife.org/untranslatable-words/)
+- [The Believer - Not Numb](http://logger.believermag.com/post/141644634521/not-numb)
+- [This Legendary Parisian Bookshop Published James Joyce When No One Else Would](http://historybuff.com/this-legendary-parisian-bookshop-published-james-joyce-when-no-one-else-would-rbGZdaoRDj23)

@@ -185,7 +185,6 @@ March 22nd 2016
 - [HTTP State Management Mechanism - http spec](http://tools.ietf.org/html/rfc6265)
 - [Hapi cookies](http://hapijs.com/tutorials/cookies)
 - [Google security blog - Securing the web, together](https://security.googleblog.com/2016/03/securing-web-together_15.html)
-- [Getting Started with Yeoman](http://yeoman.io/authoring/index.html)
 - [Serverless GraphQL](http://kevinold.com/2016/02/01/serverless-graphql.html)
 - [React.js Conf 2016 - Eric Florenzano - React, Meet Virtual Reality](https://youtu.be/ty2bFeOdGeI)
 
@@ -198,10 +197,8 @@ March 23rd 2016
 - [Functional Programming in Javascript](http://reactivex.io/learnrx/)
 - [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 - [Lodash - String - Deburr](https://lodash.com/docs#deburr)
-- [React Suite | Yeoman Generator](https://github.com/track0x1/generator-react-suite)
 - [Backbone Fundamentals (by Addy Osmani)](https://addyosmani.com/backbone-fundamentals)
 - [Totally Tooling Tips](https://developers.google.com/web/shows/ttt/)
-- [Writing your own Yeoman generator](http://yeoman.io/authoring/index.html)
 - [Furbo.org - The Terminal](http://furbo.org/2014/09/03/the-terminal/)
 
 
@@ -224,12 +221,31 @@ March 27th 2016
 - [Welcome to Future of Web Application Delivery](https://medium.com/@ryanflorence/welcome-to-future-of-web-application-delivery-9750b7564d9f#.ofgbl12p2)
 - [localForage - local storage from MDN](https://github.com/mozilla/localForage)
 - [Lint Like It’s 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.crhtb9smy)
-- []()
+- [RegexOne - Learn Regular Expressions](http://regexone.com/)
+- [Array.prototype.push.apply vs concat](https://jsperf.com/array-prototype-push-apply-vs-concat/5)
+
+March 31st
+- [The Rise of "Worse is Better"](https://www.jwz.org/doc/worse-is-better.html)
+- [Understanding ECMAScript 6 - Nicholas C. Zakas](https://github.com/nzakas/understandinges6)
+- [Asynchronous JavaScript with Q](https://deductivelabs.com/en/2016/04/asynchronous-javascript/)
+- [Mr. Data Converter (.xls to .json)](https://shancarter.github.io/mr-data-converter/)
+
+April 1st
+- [Moving to ES6 from CoffeeScript](https://gist.github.com/danielgtaylor/0b60c2ed1f069f118562)
+
+
+
+#### Yeoman
+- [Getting Started with Yeoman](http://yeoman.io/authoring/index.html)
+- [Testing Generators](http://yeoman.io/authoring/testing.html)
+- [Create A Custom Yeoman Generator in 4 Easy Steps](https://scotch.io/tutorials/create-a-custom-yeoman-generator-in-4-easy-steps)
+- [Full API](http://yeoman.io/generator/)
+- [Blog](http://yeoman.io/blog/)
+- [React Suite | Yeoman Generator](https://github.com/track0x1/generator-react-suite)
 
 
 #### GraphQL
 
-- [Building a GraphQL store from first principles](https://medium.com/apollo-stack/building-a-graphql-store-from-first-principles-413e19ea65b4#.qi1wyjs5f)
 - [I'm a contributor to React, Immutable.js, and GraphQL at Facebook. Ask Me Anything! (Lee Byron)](https://www.codementor.io/ama/1237952640/facebook-react-contributer-lee-byron)
 - [8. React, GraphQL, Immutable & Bow-Ties with Special Guest Lee Byron (React Podcast)](http://reactpodcast.com/2015/12/8-react-graphql-immutable-bow-ties-with-special-guest-lee-byron/)
 - [Quick Look at the Relay Store](http://hueypetersen.com/posts/2015/09/30/quick-look-at-the-relay-store/)
@@ -237,6 +253,14 @@ March 27th 2016
 - [Querying GraphQL with Falcor](http://hueypetersen.com/posts/2015/10/26/querying-graphql-with-falcor/)
 - [What is the difference between Falcor and GraphQL?](http://stackoverflow.com/questions/32057785/what-is-the-difference-between-falcor-and-graphql)
 - [What is Falcor?](https://netflix.github.io/falcor/starter/what-is-falcor.html)
+- [Learning GraphQL - Nodeschool-style workshopper](https://github.com/helfer/learning-graphql)
+- [Adopting GraphQL - Kadira blog post](https://voice.kadira.io/adopting-graphql-2f00dfe0fda2#.qnq5ienn7)
+- [GraphQLHub](https://www.graphqlhub.com/)
+
+#### Apollo Stack
+
+- [Building a GraphQL store from first principles](https://medium.com/apollo-stack/building-a-graphql-store-from-first-principles-413e19ea65b4#.qi1wyjs5f)
+- [JavaScript code quality with free tools](https://medium.com/apollo-stack/javascript-code-quality-with-free-tools-9a6d80e29f2d#.s7pxy5o87)
 
 #### Gitlab / Docker Engine | | HOWDOICI
 
@@ -261,16 +285,33 @@ March 27th 2016
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - [ML (programming language)](https://en.wikipedia.org/wiki/ML_(programming_language))
 - [Learn You Haskell (For Great Good!)](http://learnyouahaskell.com/)
+- [Learning FP the hard way: Experiences on the Elm language](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
 
 
 ##### Elm Language
 - [Learn by Example](http://elm-lang.org/examples)
 - [Share-Elm](http://www.share-elm.com/)
+- [Elm-Lang website](http://elm-lang.org/)
+- [Elm-Lang - Get Started](http://elm-lang.org/get-started)
+- [Elm-Lang - Model The Problem](http://elm-lang.org/guide/model-the-problem)
 - [DreamWriter - Streamlined long-form writing software. Written in Elm.](https://github.com/rtfeldman/dreamwriter)
 - [Elm Discussion Forum](https://groups.google.com/forum/#!forum/elm-discuss)
 - [Elm for live arts (discussion)](https://groups.google.com/forum/#!topic/elm-discuss/v7s9xpGCUtw)
 - [The Elm Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial/)
 - [elm-svg](https://github.com/evancz/elm-svg)
+- [Elm by Example: Soup to Nuts - Part 1](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
+- [Elm: Building Reactive Web Apps - video tutorial](https://pragmaticstudio.com/courses/elm)
+- [Elm Functions - Syntax, Piping, and Currying](https://dennisreimann.de/articles/elm-functions.html)
+- [Learning FP the hard way: Experiences on the Elm language](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
+- [Elm 0.12.1 - Fast, Immutable Arrays](http://elm-lang.org/blog/announce/0.12.1)
+- [RRB-Trees: Efficient Immutable Vectors](http://infoscience.epfl.ch/record/169879/files/RMTrees.pdf)
+- []()
+
+#### Testing
+
+- [Jasmine-Node](https://github.com/jasmine/jasmine-npm)
+- [Using Jasmine with Node (docs)](http://jasmine.github.io/2.1/node.html)
+
 
 
 #### Meteor / Mantra
@@ -284,6 +325,10 @@ March 27th 2016
 - [Size Matters: Balancing Line Length And Font Size In Responsive Web Design](https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/)
 - [Mantra: Are isomorphic methods considered bad?](https://forums.meteor.com/t/mantra-are-isomorphic-methods-considered-bad/19161)
 - [Building Apollo Stack (on medium.com)](https://medium.com/apollo-stack)
+- [(Slides) Mantra - an application architecture for Meteor](https://sungwoncho.github.io/presentations/20160330-mantra.html)
+- [A Study Plan For Meteor 1.3](https://www.discovermeteor.com/blog/study-plan-meteor-1-3/)
+- [Introducing React Storybook](https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.8e25ux7og)
+- [Metor 1.3 — To The Test](https://medium.com/@decker/metor-1-3-to-the-test-3cb269146bc1#.m0z46hr6v)
 
 
 #### React
@@ -309,6 +354,10 @@ March 27th 2016
 - [Test Driven React Tutorial](http://spencerdixon.com/blog/test-driven-react-tutorial.html)
 - [React Router Tutorial](https://github.com/reactjs/react-router-tutorial)
 - [React Training (reactjs-training.com)](https://reactjs-training.com/)
+- [React CSS Modules](https://github.com/gajus/react-css-modules)
+- [React DocGen](https://github.com/reactjs/react-docgen)
+- [React Redux Form](https://github.com/davidkpiano/react-redux-form)
+- []
 
 
 #### React Native

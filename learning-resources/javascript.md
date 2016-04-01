@@ -13,6 +13,8 @@
 - [Nodeschool.io](http://nodeschool.io/) - Awesome command line workshops
 - [Functional JavaScript (repo)](https://github.com/jkup/functional-javascript)
 - [SO: How do closures actually work?](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
+- [You Don't Know JS - ES6 and Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
+- [Understanding ECMAScript 6 - Nicholas C. Zakas](https://github.com/nzakas/understandinges6)
 
 ##### Advanced
 - [Dr. Axel Rauschmayer's Blog (2ality)](http://www.2ality.com/)

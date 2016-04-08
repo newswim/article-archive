@@ -233,6 +233,19 @@ March 31st
 April 1st
 - [Moving to ES6 from CoffeeScript](https://gist.github.com/danielgtaylor/0b60c2ed1f069f118562)
 
+April 8th
+- [A couple of alternatives to the hamburger menu](http://kyusuf.com/post/a-couple-of-alternatives-to-the-hamburger-menu)
+- [Eric Elliott's Blog](https://medium.com/@_ericelliott)
+- [Full app testing in Meteor](http://info.meteor.com/blog/full-app-testing-in-meteor)
+- [Build A Journaling App with Meteor 1.3 (Beta), React, React-Bootstrap, and Mantra](https://medium.com/@kenrogers/build-a-journaling-app-with-meteor-1-3-beta-react-react-bootstrap-and-mantra-7965d9e9fc23#.9i5wbsg16)
+- [tcomb-form - Forms library for React](https://gcanti.github.io/tcomb-form)
+- [tcomb-form - on github](https://github.com/gcanti/tcomb-form)
+- [tcomb-form - Guide](https://github.com/gcanti/tcomb-form/blob/master/GUIDE.md)
+- [Mongo - Perform Two Phase Commits](https://docs.mongodb.org/manual/tutorial/perform-two-phase-commits)
+- [Gagarin Guide](https://hackpad.com/Gagarin-Guide-RzdMvlwyYHV)
+- [Continuous Integration with Meteor, CircleCI, and Gagarin](https://forums.meteor.com/t/continuous-integration-with-meteor-circleci-and-gagarin/14192)
+- [React v15.0 release](https://facebook.github.io/react/blog/2016/04/07/react-v15.html)
+
 
 
 #### Yeoman
@@ -256,6 +269,8 @@ April 1st
 - [Learning GraphQL - Nodeschool-style workshopper](https://github.com/helfer/learning-graphql)
 - [Adopting GraphQL - Kadira blog post](https://voice.kadira.io/adopting-graphql-2f00dfe0fda2#.qnq5ienn7)
 - [GraphQLHub](https://www.graphqlhub.com/)
+- [Graffiti - a GraphQL ORM](https://github.com/RisingStack/graffiti)
+- [Release Notes](https://github.com/facebook/graphql/releases/tag/April2016)
 
 #### Apollo Stack
 
@@ -327,7 +342,7 @@ April 1st
 - [Building Apollo Stack (on medium.com)](https://medium.com/apollo-stack)
 - [(Slides) Mantra - an application architecture for Meteor](https://sungwoncho.github.io/presentations/20160330-mantra.html)
 - [A Study Plan For Meteor 1.3](https://www.discovermeteor.com/blog/study-plan-meteor-1-3/)
-- [Introducing React Storybook](https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.8e25ux7og)
+- [Introducing React ad](https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.8e25ux7og)
 - [Metor 1.3 — To The Test](https://medium.com/@decker/metor-1-3-to-the-test-3cb269146bc1#.m0z46hr6v)
 
 
@@ -357,7 +372,7 @@ April 1st
 - [React CSS Modules](https://github.com/gajus/react-css-modules)
 - [React DocGen](https://github.com/reactjs/react-docgen)
 - [React Redux Form](https://github.com/davidkpiano/react-redux-form)
-- []
+- [Awesome React :sunglasses:](https://github.com/enaqx/awesome-react)
 
 
 #### React Native
@@ -429,6 +444,7 @@ April 1st
 
 - [Mimisiku - The Thrill of Living (album review)](http://www.sputnikmusic.com/review/69854/Mimisiku-The-Thrill-of-Living/)
 - [Download 30GB of lost cassettes from the 80s underground](http://www.factmag.com/2015/11/30/download-30-gigs-80s-cassette-underground/)
+- [First Listen: Sturgill Simpson, 'A Sailor's Guide To Earth'](http://www.npr.org/2016/04/07/473237504/first-listen-sturgill-simpson-a-sailors-guide-to-earth)
 
 ##### Writing
 

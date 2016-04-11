@@ -19,6 +19,7 @@
 ##### Advanced
 - [Dr. Axel Rauschmayer's Blog (2ality)](http://www.2ality.com/)
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - Huge github repo
+- [Blog of Dr. Gleb Bahmutov, PhD](https://glebbahmutov.com/blog/index.html)
 
 ### Apendices
 

@@ -246,6 +246,18 @@ April 8th
 - [Continuous Integration with Meteor, CircleCI, and Gagarin](https://forums.meteor.com/t/continuous-integration-with-meteor-circleci-and-gagarin/14192)
 - [React v15.0 release](https://facebook.github.io/react/blog/2016/04/07/react-v15.html)
 
+April 11th
+- [Over API - collection of cheatsheets](http://overapi.com/)
+- [ProcessingJS.org / learning](http://processingjs.org/learning/)
+- [Meteor To-do's (React, Mantra)](https://github.com/sammkj/meteor-1.3-todo)
+- [Mantra, Meteor, Typescript Boilterplate](https://github.com/mantrajs/kickstart-mantrajs-webpack-typescript)
+- [React-Bootstrap](https://react-bootstrap.github.io/)
+- [Mantra - Client side filtering of collection](https://github.com/kadirahq/mantra/issues/147)
+- [audit-argument-checks (internal Meteor package)](https://atmospherejs.com/meteor/audit-argument-checks)
+- [Starting promises](https://glebbahmutov.com/blog/starting-promises/)
+- [Blog of Dr. Gleb Bahmutov, PhD](https://glebbahmutov.com/blog/index.html)
+- [Why are plain JS objects not iterable?](http://exploringjs.com/es6/ch_iteration.html#sec_plain-objects-not-iterable)
+- [Controlled Components in React's <Form />](http://facebook.github.io/react/docs/forms.html#controlled-components)
 
 
 #### Yeoman
@@ -266,11 +278,12 @@ April 8th
 - [Querying GraphQL with Falcor](http://hueypetersen.com/posts/2015/10/26/querying-graphql-with-falcor/)
 - [What is the difference between Falcor and GraphQL?](http://stackoverflow.com/questions/32057785/what-is-the-difference-between-falcor-and-graphql)
 - [What is Falcor?](https://netflix.github.io/falcor/starter/what-is-falcor.html)
-- [Learning GraphQL - Nodeschool-style workshopper](https://github.com/helfer/learning-graphql)
 - [Adopting GraphQL - Kadira blog post](https://voice.kadira.io/adopting-graphql-2f00dfe0fda2#.qnq5ienn7)
 - [GraphQLHub](https://www.graphqlhub.com/)
 - [Graffiti - a GraphQL ORM](https://github.com/RisingStack/graffiti)
 - [Release Notes](https://github.com/facebook/graphql/releases/tag/April2016)
+- [GraphQL Field Guide to Auth](https://medium.com/front-end-developers/graphql-field-guide-to-auth-ead84f657ab#.osol23uok)
+- ["An attempt to learn GraphQL" (Workshopper / gitbook)](https://github.com/mugli/learning-graphql)
 
 #### Apollo Stack
 
@@ -320,13 +333,12 @@ April 8th
 - [Learning FP the hard way: Experiences on the Elm language](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
 - [Elm 0.12.1 - Fast, Immutable Arrays](http://elm-lang.org/blog/announce/0.12.1)
 - [RRB-Trees: Efficient Immutable Vectors](http://infoscience.epfl.ch/record/169879/files/RMTrees.pdf)
-- []()
 
 #### Testing
 
 - [Jasmine-Node](https://github.com/jasmine/jasmine-npm)
 - [Using Jasmine with Node (docs)](http://jasmine.github.io/2.1/node.html)
-
+- [Mocha.js](https://mochajs.org)
 
 
 #### Meteor / Mantra
@@ -373,6 +385,10 @@ April 8th
 - [React DocGen](https://github.com/reactjs/react-docgen)
 - [React Redux Form](https://github.com/davidkpiano/react-redux-form)
 - [Awesome React :sunglasses:](https://github.com/enaqx/awesome-react)
+- [Learn React](https://github.com/dwyl/learn-react/tree/redux)
+- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.rxxgverxh)
+- [Thinking in React](http://facebook.github.io/react/docs/thinking-in-react.html)
+- [What happens to your open source project when it gets “Hunted”? (Feathers.js)](https://blog.feathersjs.com/what-happens-to-your-open-source-project-when-it-gets-hunted-c26e606398d5#.qncjjnc5h)
 
 
 #### React Native
@@ -437,6 +453,7 @@ April 8th
 
 - [We Finally Know How Much the Dino-Killing Asteroid Reshaped Earth](http://www.smithsonianmag.com/science-nature/we-finally-know-how-much-dino-killing-asteroid-reshaped-earth-180958222/?no-ist)
 - [For the First Time, Witness the Shockwave of an Exploding Star](http://motherboard.vice.com/read/exploding-star-video-for-the-first-time-witness-the-shockwave-of-an-exploding-star?utm_source=mbfb)
+- [The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins (book)](http://www.amazon.com/The-Mushroom-End-World-Possibility/dp/0691162751?ie=UTF8&dpID=511BmqDOGoL&dpSrc=sims&preST=_SL500_SR89%2C135_&refRID=BH8T33AB5ZKY8Q9CP0F1&ref_=pd_rhf_eetyp_s_cp_2)
 
 ##### Art
 

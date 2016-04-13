@@ -258,6 +258,23 @@ April 11th
 - [Blog of Dr. Gleb Bahmutov, PhD](https://glebbahmutov.com/blog/index.html)
 - [Why are plain JS objects not iterable?](http://exploringjs.com/es6/ch_iteration.html#sec_plain-objects-not-iterable)
 - [Controlled Components in React's <Form />](http://facebook.github.io/react/docs/forms.html#controlled-components)
+- [Live Editing JavaScript with Webpack (Part III)](http://jlongster.com/Backend-Apps-with-Webpack--Part-III)
+- [Hot Reloading in React](https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf#.4n059yav8)
+
+April 12
+- [New React v15 deprecations](https://facebook.github.io/react/blog/2016/04/07/react-v15.html#new-deprecations-introduced-with-a-warning)
+- [React Toolbox](http://react-toolbox.com)
+- [Elemental UI](http://elemental-ui.com/)
+- [Material UI](http://www.material-ui.com/)
+- [MUI CSS](https://www.muicss.com)
+- [React Native Material Design](http://react-native-material-design.github.io/)
+- [essence (material react components)](http://getessence.io/)
+- [React-JSS](https://github.com/jsstyles/react-jss)
+- [PostStylus](https://www.npmjs.com/package/poststylus)
+- [Meteor-React-Toolbox-Example (#1) - "SCSS changes require meteor reset"](https://github.com/nathantreid/meteor-react-toolbox-example/issues/1)
+- [Rich Hickey - "Simple Made Easy"](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy.md)
+- []()
+- []()
 
 
 #### Yeoman
@@ -389,6 +406,8 @@ April 11th
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.rxxgverxh)
 - [Thinking in React](http://facebook.github.io/react/docs/thinking-in-react.html)
 - [What happens to your open source project when it gets “Hunted”? (Feathers.js)](https://blog.feathersjs.com/what-happens-to-your-open-source-project-when-it-gets-hunted-c26e606398d5#.qncjjnc5h)
+- [React Component API](https://facebook.github.io/react/docs/component-api.html)
+- [Refs to Components](https://facebook.github.io/react/docs/more-about-refs.html)
 
 
 #### React Native

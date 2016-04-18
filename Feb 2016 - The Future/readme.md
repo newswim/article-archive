@@ -273,8 +273,24 @@ April 12
 - [PostStylus](https://www.npmjs.com/package/poststylus)
 - [Meteor-React-Toolbox-Example (#1) - "SCSS changes require meteor reset"](https://github.com/nathantreid/meteor-react-toolbox-example/issues/1)
 - [Rich Hickey - "Simple Made Easy"](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy.md)
-- []()
-- []()
+
+April 18th
+- [A gentle introduction to React Motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459#.dj7ahpy6p)
+- [React-Motion: Introduction to the Spring Component (egghead)](https://egghead.io/lessons/react-react-motion-introduction-to-the-spring-component?pl=react-react-animation-using-react-motion)
+- [React - Animation (facebook.io)](https://facebook.github.io/react/docs/animation.html)
+- [React - complimentary tools](https://github.com/facebook/react/wiki/Complementary-Tools)
+- [Data Loading In React: Four Techniques Compared](https://www.discovermeteor.com/blog/data-loading-react/)
+- [Refactoring React Components to ES6 Classes (includes BaseComponent)](http://www.newmediacampaigns.com/blog/refactoring-react-components-to-es6-classes)
+- [React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.br1odiril)
+- [Mastering Meteor + Redux — Syllabus](https://medium.com/modern-user-interfaces/mastering-meteor-redux-syllabus-9bf9e1515cbf#.8hh1kaw3e)
+- [Universal JavaScript (medium, Michael Jackson)](https://medium.com/@mjackson/universal-javascript-4761051b7ae9#.yizekod1x)
+- [Test for a Mantra container](https://github.com/mantrajs/mantra-sample-blog-app/blob/master/client/modules/core/containers/tests/post.js)
+- [Storing state of multiple instances of the same component](https://github.com/kadirahq/mantra/issues/141)
+- [Tracker Manual](https://github.com/meteor/meteor/wiki/Tracker-Manual)
+- [Meteor.Publish](http://docs.meteor.com/#/full/meteor_publish)
+- [Building the F8 2016 App: Part 1 - Planning The App](http://makeitopen.com/tutorials/building-the-f8-app/planning/)
+- [Introducing Parse Server and the Database Migration Tool](http://blog.parse.com/announcements/introducing-parse-server-and-the-database-migration-tool/)
+- [Tracker vs. Redux, Implicit vs. Explicit](https://medium.com/@faceyspacey/tracker-vs-redux-implicit-vs-explicit-df847abcc230#.c69rn2n4m)
 
 
 #### Yeoman

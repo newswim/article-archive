@@ -292,6 +292,19 @@ April 18th
 - [Introducing Parse Server and the Database Migration Tool](http://blog.parse.com/announcements/introducing-parse-server-and-the-database-migration-tool/)
 - [Tracker vs. Redux, Implicit vs. Explicit](https://medium.com/@faceyspacey/tracker-vs-redux-implicit-vs-explicit-df847abcc230#.c69rn2n4m)
 
+April 20th
+- [To React, Or Not To React (sideeffects.xyz)](https://sideeffects.xyz/2016/to-react-or-not-to-react/)
+- [Count Bayesie (a FP/math blog)](https://www.countbayesie.com/)
+- [React + Flux: Guide To Interview React.js Developers](https://medium.com/@chintan121/guide-to-interview-react-js-developers-6cdd7038fdc#.xmll1lvgo)
+- [Immutable JS - Redux Tutorial #2 - React.js Tutorial (#yt)](https://youtu.be/9M-r8p9ey8U)
+- [Front End Architecture Revolution (David Nolan, #yt)](https://youtu.be/nDNU2pmuJA8)
+- [Opus Spicatum (Herringbone Technique (wiki))](https://en.wikipedia.org/wiki/Opus_spicatum)
+- [Hot Reloading in React (Mar 8 2016, by Dan Abramov)](https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf#.75w38deh9)
+- [NodeUp - a podcast](http://nodeup.com/)
+- [Podcast that featured wearables (Media, Communication and Design Podcasts from MEDEA)](https://player.fm/series/media-communication-and-design-podcasts-from-medea)
+
+
+
 
 #### Yeoman
 - [Getting Started with Yeoman](http://yeoman.io/authoring/index.html)
@@ -317,11 +330,15 @@ April 18th
 - [Release Notes](https://github.com/facebook/graphql/releases/tag/April2016)
 - [GraphQL Field Guide to Auth](https://medium.com/front-end-developers/graphql-field-guide-to-auth-ead84f657ab#.osol23uok)
 - ["An attempt to learn GraphQL" (Workshopper / gitbook)](https://github.com/mugli/learning-graphql)
+- [Learning GraphQL (repo by @mugli)](https://github.com/mugli/learning-graphql)
+
 
 #### Apollo Stack
 
+- [Official Site](http://docs.apollostack.com/)
 - [Building a GraphQL store from first principles](https://medium.com/apollo-stack/building-a-graphql-store-from-first-principles-413e19ea65b4#.qi1wyjs5f)
 - [JavaScript code quality with free tools](https://medium.com/apollo-stack/javascript-code-quality-with-free-tools-9a6d80e29f2d#.s7pxy5o87)
+- [React Integration](http://docs.apollostack.com/apollo-client/react.html)
 
 #### Gitlab / Docker Engine | | HOWDOICI
 
@@ -347,6 +364,8 @@ April 18th
 - [ML (programming language)](https://en.wikipedia.org/wiki/ML_(programming_language))
 - [Learn You Haskell (For Great Good!)](http://learnyouahaskell.com/)
 - [Learning FP the hard way: Experiences on the Elm language](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
+- [Design Patterns in Functional programming by Scott Wlaschin (#yt)](https://youtu.be/4jusLF_Xz7Q)
+- [Why be functional? (by Rob Martin)](http://version2beta.com/articles/why_be_functional_post/)
 
 
 ##### Elm Language
@@ -429,9 +448,14 @@ April 18th
 #### React Native
 - [React Native: Books](http://www.reactnative.com/books/)
 
+#### Redux
+
+- [Redux-Tutorial (awesome annotated project)](https://github.com/happypoulp/redux-tutorial)
+
 #### Terminal / Bash
 
 - [Go Back to the Previous Directory via Command Line (cd -)](http://osxdaily.com/2010/02/09/go-back-to-the-previous-directory-via-command-line/)
+- [The Terminal (furbo)](http://furbo.org/2014/09/03/the-terminal/)
 
 #### Docker
 - [Weird memory swapiness issue](https://github.com/docker/docker/issues/4250)
@@ -467,6 +491,7 @@ April 18th
 - [These 6 Corporations Control 90% Of The Media In America](http://www.businessinsider.com/these-6-corporations-control-90-of-the-media-in-america-2012-6)
 - [Ralph Nader: Why Bernie Sanders was right to run as a Democrat](https://www.washingtonpost.com/posteverything/wp/2016/03/25/ralph-nader-why-bernie-sanders-was-right-to-run-as-a-democrat/)
 - [Barney Frank takes on Bernie Sanders and the ‘too big to fail’ argument](http://www.pbs.org/newshour/bb/barney-frank-takes-on-bernie-sanders-and-the-too-big-to-fail-argument/)
+- [How WikiLeaks opened our eyes to the illusion of freedom] (http://www.theguardian.com/commentisfree/2014/jun/19/hypocrisy-freedom-julian-assange-wikileaks)
 
 
 (Denton)
@@ -504,3 +529,8 @@ April 18th
 - [Untransltable Works](http://www.thebookoflife.org/untranslatable-words/)
 - [The Believer - Not Numb](http://logger.believermag.com/post/141644634521/not-numb)
 - [This Legendary Parisian Bookshop Published James Joyce When No One Else Would](http://historybuff.com/this-legendary-parisian-bookshop-published-james-joyce-when-no-one-else-would-rbGZdaoRDj23)
+
+
+##### Other
+
+- [You can trick your brain into not procrastinating](http://motherboard.vice.com/blog/you-can-trick-your-brain-into-not-procrastinating)

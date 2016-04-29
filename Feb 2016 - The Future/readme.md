@@ -303,6 +303,19 @@ April 20th
 - [NodeUp - a podcast](http://nodeup.com/)
 - [Podcast that featured wearables (Media, Communication and Design Podcasts from MEDEA)](https://player.fm/series/media-communication-and-design-podcasts-from-medea)
 
+April 29th
+- [Asymptotic Notation (learnxinyminutes.com)](https://learnxinyminutes.com/docs/asymptotic-notation/)
+- [C From Beginner To Expert Programming Tutorial (#yt)](https://youtu.be/YEOWWu2vkko)
+- [The road to hell is paved with SAML Assertions](http://www.economyofmechanism.com/office365-authbypass.html)
+- [Up-For-Grabs.net - Open Source projects seeking contributors](http://up-for-grabs.net/)
+- [Rest/Spread Properties for ECMAScript](https://github.com/sebmarkbage/ecmascript-rest-spread)
+- [Server-Side Rendering With React, Node And Express (March 2nd, 2016, Smashing Mag)](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
+- [How JavaScript Event Delegation Works (David Walsh)](https://davidwalsh.name/event-delegate)
+- [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
+- [Deploying a Meteor app to Galaxy – a step-by-step guide](http://coderchronicles.org/2016/03/15/deploying-a-meteor-app-to-galaxy/)
+- []()
+- []()
+
 
 
 
@@ -339,6 +352,7 @@ April 20th
 - [Building a GraphQL store from first principles](https://medium.com/apollo-stack/building-a-graphql-store-from-first-principles-413e19ea65b4#.qi1wyjs5f)
 - [JavaScript code quality with free tools](https://medium.com/apollo-stack/javascript-code-quality-with-free-tools-9a6d80e29f2d#.s7pxy5o87)
 - [React Integration](http://docs.apollostack.com/apollo-client/react.html)
+- [Pagination idea: type-specific refetching plugins](https://github.com/apollostack/apollo-client/issues/26)
 
 #### Gitlab / Docker Engine | | HOWDOICI
 
@@ -366,6 +380,7 @@ April 20th
 - [Learning FP the hard way: Experiences on the Elm language](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
 - [Design Patterns in Functional programming by Scott Wlaschin (#yt)](https://youtu.be/4jusLF_Xz7Q)
 - [Why be functional? (by Rob Martin)](http://version2beta.com/articles/why_be_functional_post/)
+- [Design Patterns in Functional programming by Scott Wlaschin (#yt)](https://youtu.be/4jusLF_Xz7Q)
 
 
 ##### Elm Language
@@ -443,6 +458,13 @@ April 20th
 - [What happens to your open source project when it gets “Hunted”? (Feathers.js)](https://blog.feathersjs.com/what-happens-to-your-open-source-project-when-it-gets-hunted-c26e606398d5#.qncjjnc5h)
 - [React Component API](https://facebook.github.io/react/docs/component-api.html)
 - [Refs to Components](https://facebook.github.io/react/docs/more-about-refs.html)
+- [Automated React Component Testing with Jest (distelli tutorial)](https://www.distelli.com/docs/tutorials/test-your-react-component-with-jest)
+- [Interactivity and Dynamic UIs](https://facebook.github.io/react/docs/interactivity-and-dynamic-uis.html)
+- [React CheatSheet](http://ricostacruz.com/cheatsheets/react.html)
+- [React Animation](http://facebook.github.io/react/docs/animation.html)
+- [React Composability Patterns](http://www.zhubert.com/blog/2016/02/05/react-composability-patterns/)
+- [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
+
 
 
 #### React Native
@@ -451,6 +473,7 @@ April 20th
 #### Redux
 
 - [Redux-Tutorial (awesome annotated project)](https://github.com/happypoulp/redux-tutorial)
+- [A Comprehensive Guide to Test-First Development with Redux, React, and Immutable](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 
 #### Terminal / Bash
 
@@ -492,6 +515,7 @@ April 20th
 - [Ralph Nader: Why Bernie Sanders was right to run as a Democrat](https://www.washingtonpost.com/posteverything/wp/2016/03/25/ralph-nader-why-bernie-sanders-was-right-to-run-as-a-democrat/)
 - [Barney Frank takes on Bernie Sanders and the ‘too big to fail’ argument](http://www.pbs.org/newshour/bb/barney-frank-takes-on-bernie-sanders-and-the-too-big-to-fail-argument/)
 - [How WikiLeaks opened our eyes to the illusion of freedom] (http://www.theguardian.com/commentisfree/2014/jun/19/hypocrisy-freedom-julian-assange-wikileaks)
+- [Dirty War (Process of National Reorganization)](https://en.wikipedia.org/wiki/Dirty_War)
 
 
 (Denton)
@@ -499,6 +523,7 @@ April 20th
 - [Apple's letter to customers about backdoor policy](https://www.apple.com/customer-letter/)
 - [Expert says renewable energy in reach](http://www.dentonrc.com/local-news/local-news-headlines/20160325-expert-says-renewable-energy-in-reach.ece)
 - [How Denton Can Afford 100% Renewable Energy](http://adambriggle.com/2016/03/27/how-denton-can-afford-100-renewable-energy/)
+- [You, Ma’am, Need Jesus](https://adambriggle.com/2016/04/26/you-maam-need-jesus/)
 
 
 #### History

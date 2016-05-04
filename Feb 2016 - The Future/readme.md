@@ -313,9 +313,16 @@ April 29th
 - [How JavaScript Event Delegation Works (David Walsh)](https://davidwalsh.name/event-delegate)
 - [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
 - [Deploying a Meteor app to Galaxy – a step-by-step guide](http://coderchronicles.org/2016/03/15/deploying-a-meteor-app-to-galaxy/)
-- []()
-- []()
 
+May 4th
+- [Four Semesters of Computer Science in Six Hours](http://btholt.github.io/four-semesters-of-cs/)
+- [Understanding the Imports Directory | The Meteor Chef](https://themeteorchef.com/snippets/understanding-the-imports-directory/#tmc-takeaways)
+- [Simple Data Associations in Meteor | The Meteor Chef](https://themeteorchef.com/snippets/simple-data-associations-in-meteor/)
+- [Using React Komposer | The Meteor Chef](https://themeteorchef.com/snippets/using-react-komposer/)
+- [Building Apps With Nova, React, and Meteor - Telescope](http://www.telescopeapp.org/blog/building-apps-with-nova-react-meteor/)
+- [React Composability Patterns • Zack Hubert](http://www.zhubert.com/blog/2016/02/05/react-composability-patterns/)
+- [Announcing Vue.js 2.0](https://medium.com/the-vue-point/announcing-vue-js-2-0-8af1bde7ab9#.dpa54b6pl)
+- [Domain State vs. UI State (on Meteor, Abhi Aiyer)](https://medium.com/@abhiaiyer/domain-state-vs-ui-state-768c1271a41d#.hvr7qjeri)
 
 
 
@@ -464,7 +471,7 @@ April 29th
 - [React Animation](http://facebook.github.io/react/docs/animation.html)
 - [React Composability Patterns](http://www.zhubert.com/blog/2016/02/05/react-composability-patterns/)
 - [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
-
+- [Build With React](http://buildwithreact.com/)
 
 
 #### React Native
@@ -516,6 +523,7 @@ April 29th
 - [Barney Frank takes on Bernie Sanders and the ‘too big to fail’ argument](http://www.pbs.org/newshour/bb/barney-frank-takes-on-bernie-sanders-and-the-too-big-to-fail-argument/)
 - [How WikiLeaks opened our eyes to the illusion of freedom] (http://www.theguardian.com/commentisfree/2014/jun/19/hypocrisy-freedom-julian-assange-wikileaks)
 - [Dirty War (Process of National Reorganization)](https://en.wikipedia.org/wiki/Dirty_War)
+- [Slavoj Žižek: 'Trump is really a centrist liberal' | Books | The Guardian](http://www.theguardian.com/books/2016/apr/28/slavoj-zizek-donald-trump-is-really-a-centrist-liberal)
 
 
 (Denton)
@@ -547,6 +555,7 @@ April 29th
 - [Mimisiku - The Thrill of Living (album review)](http://www.sputnikmusic.com/review/69854/Mimisiku-The-Thrill-of-Living/)
 - [Download 30GB of lost cassettes from the 80s underground](http://www.factmag.com/2015/11/30/download-30-gigs-80s-cassette-underground/)
 - [First Listen: Sturgill Simpson, 'A Sailor's Guide To Earth'](http://www.npr.org/2016/04/07/473237504/first-listen-sturgill-simpson-a-sailors-guide-to-earth)
+- [Yowie (band)](https://en.wikipedia.org/wiki/Yowie_(band))
 
 ##### Writing
 

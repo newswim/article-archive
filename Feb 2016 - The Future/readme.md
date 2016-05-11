@@ -324,6 +324,15 @@ May 4th
 - [Announcing Vue.js 2.0](https://medium.com/the-vue-point/announcing-vue-js-2-0-8af1bde7ab9#.dpa54b6pl)
 - [Domain State vs. UI State (on Meteor, Abhi Aiyer)](https://medium.com/@abhiaiyer/domain-state-vs-ui-state-768c1271a41d#.hvr7qjeri)
 
+May 11th
+- [What are some practical use cases of GraphQL? When should one choose GraphQL over REST?](https://hashnode.com/post/what-are-some-practical-use-cases-of-graphql-when-should-one-choose-graphql-over-rest-cinvtv3u100hsqq53g8eob9hh?utm_source=Invite%20to%20participate%20email&utm_medium=email&utm_campaign=Notification)
+- [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658#.on3o3nj6k)
+- [COLOR WANDER!](https://github.com/mattdesl/color-wander)
+- [Beautiful Jekyll - getting started](http://deanattali.com/beautiful-jekyll/getstarted/)
+- [Real-life Javascript Generators (#es6)](https://medium.com/developers-writing/real-life-javascript-generators-80c810f82c5c#.5ia578b3c)
+- [JavaScript Air | JavaScript Forward: ES6 and ES7](https://javascriptair.com/episodes/2016-02-10/)
+- [Brave Software | Building a Better Web (brenden eich)](https://brave.com/)
+- [What's new in Node v6? | @RisingStack](https://blog.risingstack.com/whats-new-in-node-v6/)
 
 
 #### Yeoman
@@ -351,6 +360,7 @@ May 4th
 - [GraphQL Field Guide to Auth](https://medium.com/front-end-developers/graphql-field-guide-to-auth-ead84f657ab#.osol23uok)
 - ["An attempt to learn GraphQL" (Workshopper / gitbook)](https://github.com/mugli/learning-graphql)
 - [Learning GraphQL (repo by @mugli)](https://github.com/mugli/learning-graphql)
+- [GraphQL Queries](http://graphql.org/docs/queries/)
 
 
 #### Apollo Stack
@@ -360,6 +370,7 @@ May 4th
 - [JavaScript code quality with free tools](https://medium.com/apollo-stack/javascript-code-quality-with-free-tools-9a6d80e29f2d#.s7pxy5o87)
 - [React Integration](http://docs.apollostack.com/apollo-client/react.html)
 - [Pagination idea: type-specific refetching plugins](https://github.com/apollostack/apollo-client/issues/26)
+- [How do I GraphQL?](https://medium.com/apollo-stack/how-do-i-graphql-2fcabfc94a01#.bbnc5ekgw)
 
 #### Gitlab / Docker Engine | | HOWDOICI
 

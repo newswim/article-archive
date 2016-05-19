@@ -334,6 +334,23 @@ May 11th
 - [Brave Software | Building a Better Web (brenden eich)](https://brave.com/)
 - [What's new in Node v6? | @RisingStack](https://blog.risingstack.com/whats-new-in-node-v6/)
 
+May 13th
+- [Octal numbers in babel](http://stackoverflow.com/questions/35944032/octal-numbers-in-babel)
+- [Meteor Astronomy](https://github.com/jagi/meteor-astronomy)
+- [JavaScript Code Smells (linting)](http://elijahmanor.com/javascript-smells/)
+- [You Don't Know JS: asyncquience](https://github.com/getify/You-Dont-Know-JS/blob/65947b653479afa38013d57ae82350c9b01732b5/async%20%26%20performance/apA.md)
+- [Hour of Code](https://hourofcode.com/us)
+- [JavaScriptOO.com (examples)](http://www.javascriptoo.com/examples)
+- [MDN: Reflect API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect)
+- [Zeplin.io](zeplin.io)
+
+May 19th
+- [React Router Transition](https://github.com/maisano/react-router-transition)
+- [Google's Tensor Processing Unit could advance Moore's Law 7 years into the future](http://www.pcworld.com/article/3072256/google-io/googles-tensor-processing-unit-said-to-advance-moores-law-seven-years-into-the-future.html)
+- [Introduction to Latency Compensation](https://meteorhacks.com/introduction-to-latency-compensation.html)
+- [What do we do with SMIL?](https://birtles.wordpress.com/2015/05/01/what-do-we-do-with-smil/)
+- [The State of SVG Animation](http://blogs.adobe.com/dreamweaver/2015/06/the-state-of-svg-animation.html)
+
 
 #### Yeoman
 - [Getting Started with Yeoman](http://yeoman.io/authoring/index.html)
@@ -366,6 +383,7 @@ May 11th
 #### Apollo Stack
 
 - [Official Site](http://docs.apollostack.com/)
+- [Official blog](https://medium.com/apollo-stack)
 - [Building a GraphQL store from first principles](https://medium.com/apollo-stack/building-a-graphql-store-from-first-principles-413e19ea65b4#.qi1wyjs5f)
 - [JavaScript code quality with free tools](https://medium.com/apollo-stack/javascript-code-quality-with-free-tools-9a6d80e29f2d#.s7pxy5o87)
 - [React Integration](http://docs.apollostack.com/apollo-client/react.html)
@@ -483,6 +501,8 @@ May 11th
 - [React Composability Patterns](http://www.zhubert.com/blog/2016/02/05/react-composability-patterns/)
 - [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
 - [Build With React](http://buildwithreact.com/)
+- [Why and how to bind methods in your React component classes?](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/)
+- [Future of React Panel - Forward 4 Web Summit (early 2016)](https://www.youtube.com/watch?v=QIawK6kuQxs&index=22&list=PLndbWGuLoHebKI8krCzJU88Rf3TwhNZvH)
 
 
 #### React Native

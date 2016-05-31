@@ -351,6 +351,16 @@ May 19th
 - [What do we do with SMIL?](https://birtles.wordpress.com/2015/05/01/what-do-we-do-with-smil/)
 - [The State of SVG Animation](http://blogs.adobe.com/dreamweaver/2015/06/the-state-of-svg-animation.html)
 
+May 26th
+- [GitHub AMA](https://github.com/sindresorhus/ama)
+- [service-workers-101 (graphic)](https://github.com/delapuente/service-workers-101/)
+- [How to deploy a Meteor app to Galaxy using CI (part 1)](https://www.okgrow.com/posts/meteor-galaxy-ci-deployment)
+- [JavaScript.com](https://www.javascript.com/)
+- [5 JavaScript “Bad” Parts That Are Fixed In ES6](https://medium.com/@rajaraodv/5-javascript-bad-parts-that-are-fixed-in-es6-c7c45d44fd81#.lrrsy5jsh)
+- [Computer Science: Algorithms (Khan Academy)](https://www.khanacademy.org/computing/computer-science/algorithms)
+- []()
+
+
 
 #### Yeoman
 - [Getting Started with Yeoman](http://yeoman.io/authoring/index.html)
@@ -363,6 +373,7 @@ May 19th
 
 #### GraphQL
 
+- [GraphQL Introduction](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 - [I'm a contributor to React, Immutable.js, and GraphQL at Facebook. Ask Me Anything! (Lee Byron)](https://www.codementor.io/ama/1237952640/facebook-react-contributer-lee-byron)
 - [8. React, GraphQL, Immutable & Bow-Ties with Special Guest Lee Byron (React Podcast)](http://reactpodcast.com/2015/12/8-react-graphql-immutable-bow-ties-with-special-guest-lee-byron/)
 - [Quick Look at the Relay Store](http://hueypetersen.com/posts/2015/09/30/quick-look-at-the-relay-store/)
@@ -378,7 +389,9 @@ May 19th
 - ["An attempt to learn GraphQL" (Workshopper / gitbook)](https://github.com/mugli/learning-graphql)
 - [Learning GraphQL (repo by @mugli)](https://github.com/mugli/learning-graphql)
 - [GraphQL Queries](http://graphql.org/docs/queries/)
-
+- [One weird trick to make your GraphQL-JS resolvers more concise](https://medium.com/@stubailo/one-weird-trick-to-make-your-graphql-js-resolvers-more-concise-8cab3072b80#.aheqo2rhc)
+- [Relate - GraphQL client connector for Redux/React](https://github.com/relax/relate)
+- [Relax - A CMS built on React/Redux/GraphQL](https://github.com/relax/relax)
 
 #### Apollo Stack
 
@@ -389,6 +402,9 @@ May 19th
 - [React Integration](http://docs.apollostack.com/apollo-client/react.html)
 - [Pagination idea: type-specific refetching plugins](https://github.com/apollostack/apollo-client/issues/26)
 - [How do I GraphQL?](https://medium.com/apollo-stack/how-do-i-graphql-2fcabfc94a01#.bbnc5ekgw)
+- [Apollo Client: GraphQL with React and Redux](https://medium.com/apollo-stack/apollo-client-graphql-with-react-and-redux-49b35d0f2641#.etxnqetum)
+- [GraphQL explained](https://medium.com/apollo-stack/graphql-explained-5844742f195e#.pr54w0zdk)
+- [Mocking your server with just one line of code](https://medium.com/apollo-stack/mocking-your-server-with-just-one-line-of-code-692feda6e9cd#.1utp7xw0y)
 
 #### Gitlab / Docker Engine | | HOWDOICI
 

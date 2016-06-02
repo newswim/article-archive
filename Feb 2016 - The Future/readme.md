@@ -286,7 +286,6 @@ April 18th
 - [Universal JavaScript (medium, Michael Jackson)](https://medium.com/@mjackson/universal-javascript-4761051b7ae9#.yizekod1x)
 - [Test for a Mantra container](https://github.com/mantrajs/mantra-sample-blog-app/blob/master/client/modules/core/containers/tests/post.js)
 - [Storing state of multiple instances of the same component](https://github.com/kadirahq/mantra/issues/141)
-- [Tracker Manual](https://github.com/meteor/meteor/wiki/Tracker-Manual)
 - [Meteor.Publish](http://docs.meteor.com/#/full/meteor_publish)
 - [Building the F8 2016 App: Part 1 - Planning The App](http://makeitopen.com/tutorials/building-the-f8-app/planning/)
 - [Introducing Parse Server and the Database Migration Tool](http://blog.parse.com/announcements/introducing-parse-server-and-the-database-migration-tool/)
@@ -358,8 +357,31 @@ May 26th
 - [JavaScript.com](https://www.javascript.com/)
 - [5 JavaScript “Bad” Parts That Are Fixed In ES6](https://medium.com/@rajaraodv/5-javascript-bad-parts-that-are-fixed-in-es6-c7c45d44fd81#.lrrsy5jsh)
 - [Computer Science: Algorithms (Khan Academy)](https://www.khanacademy.org/computing/computer-science/algorithms)
+
+June 2nd
+- [Atom Pair](https://atom.io/packages/atom-pair)
+- [Structor](https://helmetrex.com/)
+- [Data flow from the database to the UI: Three layers of Meteor](https://medium.com/meteor-js/data-flow-from-the-database-to-the-ui-three-layers-of-meteor-d5e208b466c3#.glcnasm42)
+- [V8 / optimizing for performance](https://developers.google.com/v8/)
+- [LEarn Redux](learnredux.com/)
+- [∆now API](https://zeit.co/now)
+- [Aerospike](http://www.aerospike.com/)
+- [Flow Router & React page transitions](https://forums.meteor.com/t/flow-router-and-react-page-transition-animations/18520)
+- [Meteor-Utilities: Smart Methods](https://github.com/meteor-utilities/smart-methods)
+- [Meteor-Utilities: Griddle](https://github.com/meteor-utilities/Meteor-Griddle)
+- [Meteor-Utilities: React List Container (+joins)](https://github.com/meteor-utilities/react-list-container)
+
+#### Functional Reactive Programmin'
+- [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [Mostly Adequate Guide to FP (in JS)](https://github.com/MostlyAdequate/mostly-adequate-guide)
+- []()
 - []()
 
+#### Mongo
+- [Robe (ODM)](https://github.com/hiddentao/robe)
+- [Mongorito (ODM)](https://github.com/vdemedes/mongorito)
+- [Data Modeling Introduction](https://docs.mongodb.com/manual/core/data-modeling-introduction/)
 
 
 #### Yeoman
@@ -392,6 +414,7 @@ May 26th
 - [One weird trick to make your GraphQL-JS resolvers more concise](https://medium.com/@stubailo/one-weird-trick-to-make-your-graphql-js-resolvers-more-concise-8cab3072b80#.aheqo2rhc)
 - [Relate - GraphQL client connector for Redux/React](https://github.com/relax/relate)
 - [Relax - A CMS built on React/Redux/GraphQL](https://github.com/relax/relax)
+- [Thinking In GraphQL (relay docs)](https://facebook.github.io/relay/docs/thinking-in-graphql.html)
 
 #### Apollo Stack
 
@@ -405,6 +428,7 @@ May 26th
 - [Apollo Client: GraphQL with React and Redux](https://medium.com/apollo-stack/apollo-client-graphql-with-react-and-redux-49b35d0f2641#.etxnqetum)
 - [GraphQL explained](https://medium.com/apollo-stack/graphql-explained-5844742f195e#.pr54w0zdk)
 - [Mocking your server with just one line of code](https://medium.com/apollo-stack/mocking-your-server-with-just-one-line-of-code-692feda6e9cd#.1utp7xw0y)
+- [Architecting for performance](https://github.com/apollostack/apollo-client/issues/128)
 
 #### Gitlab / Docker Engine | | HOWDOICI
 
@@ -475,6 +499,8 @@ May 26th
 - [A Study Plan For Meteor 1.3](https://www.discovermeteor.com/blog/study-plan-meteor-1-3/)
 - [Introducing React ad](https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.8e25ux7og)
 - [Metor 1.3 — To The Test](https://medium.com/@decker/metor-1-3-to-the-test-3cb269146bc1#.m0z46hr6v)
+- [Tracker Manual](https://github.com/meteor/meteor/wiki/Tracker-Manual)
+- [From Blaze to React 08: Component Hierarchy](https://www.discovermeteor.com/blog/blaze-to-react-08-component-hierarchy/)
 
 
 #### React

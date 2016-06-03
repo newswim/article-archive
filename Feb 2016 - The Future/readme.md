@@ -370,6 +370,13 @@ June 2nd
 - [Meteor-Utilities: Smart Methods](https://github.com/meteor-utilities/smart-methods)
 - [Meteor-Utilities: Griddle](https://github.com/meteor-utilities/Meteor-Griddle)
 - [Meteor-Utilities: React List Container (+joins)](https://github.com/meteor-utilities/react-list-container)
+- [JavaScript ES7 Function Bind Syntax](http://blog.jeremyfairbank.com/javascript/javascript-es7-function-bind-syntax/)
+
+June 3rd
+- [Flow-Router issue #184 (setQueryParams should have an option for a completely silent push)](https://github.com/kadirahq/flow-router/issues/184)
+- [ReactJS.NET](http://reactjs.net/getting-started/tutorial.html)
+- []()
+- []()
 
 #### Functional Reactive Programmin'
 - [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
@@ -501,6 +508,7 @@ June 2nd
 - [Metor 1.3 — To The Test](https://medium.com/@decker/metor-1-3-to-the-test-3cb269146bc1#.m0z46hr6v)
 - [Tracker Manual](https://github.com/meteor/meteor/wiki/Tracker-Manual)
 - [From Blaze to React 08: Component Hierarchy](https://www.discovermeteor.com/blog/blaze-to-react-08-component-hierarchy/)
+- [Deploying and Hosting Meteor on Heroku & MongoLab for Free](https://medium.com/meteor-js/deploying-and-hosting-meteor-on-heroku-mongolab-for-free-37050a3ebd7e#.oose8wyte)
 
 
 #### React

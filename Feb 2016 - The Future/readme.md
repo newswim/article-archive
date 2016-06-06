@@ -375,15 +375,25 @@ June 2nd
 June 3rd
 - [Flow-Router issue #184 (setQueryParams should have an option for a completely silent push)](https://github.com/kadirahq/flow-router/issues/184)
 - [ReactJS.NET](http://reactjs.net/getting-started/tutorial.html)
-- []()
-- []()
+
+June 6th
+- [iTerm 2 (Shell Integration)](https://iterm2.com/documentation-shell-integration.html)
+- [Let’s Learn JavaScript Closures (FCC)](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.gy0i927oy)
+- [An Ultimate Guide To CSS Pseudo-Classes And Pseudo-Elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
+- [Architecture of Node.js’ Internal Codebase](https://medium.com/yet-another-node-js-blog/architecture-of-node-js-internal-codebase-57cd8376b71f#.i3z859gpc)
+- [Koa API Docs](https://github.com/koajs/koa/blob/master/docs/api/index.md)
+- [NPM Compare](https://npmcompare.com/)
+- [Scientists Just Invented the Neural Lace](http://gizmodo.com/scientists-just-invented-the-neural-lace-1711540938)
+- [Future Studio - Articles tagged in: Hapi](https://futurestud.io/blog/tag/hapi)
+- [React CSS Themr](https://github.com/javivelasco/react-css-themr)
+- [Modeling the Performance and Cost of Lithium-Ion Batteries for Electric-Drive Vehicles (white paper)](http://www.ipd.anl.gov/anlpubs/2011/10/71302.pdf)
+- [Tracker-React - No-Config reactive React Components with Meteor](https://github.com/ultimatejs/tracker-react)
 
 #### Functional Reactive Programmin'
 - [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [Mostly Adequate Guide to FP (in JS)](https://github.com/MostlyAdequate/mostly-adequate-guide)
-- []()
-- []()
+- [Currying vs Partial Application](http://www.datchley.name/currying-vs-partial-application/)
 
 #### Mongo
 - [Robe (ODM)](https://github.com/hiddentao/robe)

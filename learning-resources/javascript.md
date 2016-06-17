@@ -5,6 +5,8 @@
 - [Open Tech School's GH Organization](https://github.com/OpenTechSchool)
 - [Bitovi's JS training series](http://blog.bitovi.com/free-weekly-online-javascript-training/) - video lectures w/ slides
 - [JS for cats](http://jsforcats.com)
+- [Let’s Learn JavaScript Closures](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.z5tpyh96k)
+- [Functions, Dave Atchley](Functions)
 
 ##### Intermediate
 - [Eloquent Javascript](http://eloquentjavascript.net/)
@@ -15,6 +17,7 @@
 - [SO: How do closures actually work?](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
 - [You Don't Know JS - ES6 and Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
 - [Understanding ECMAScript 6 - Nicholas C. Zakas](https://github.com/nzakas/understandinges6)
+- [Currying vs Partial Application, Dave Atchley](http://www.datchley.name/currying-vs-partial-application/)
 
 ##### Advanced
 - [Dr. Axel Rauschmayer's Blog (2ality)](http://www.2ality.com/)
@@ -26,3 +29,6 @@
 - [Mozilla's JavaScript Portal](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [CodePen](http://codepen.io/) - in-browser IDE, real-time preview and testing
 - [Open Tech School's blog](http://blog.opentechschool.org/)
+
+#### Blogs of JS Writes
+- [Nicholas C. Zakas](https://www.nczonline.net/)

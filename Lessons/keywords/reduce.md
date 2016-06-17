@@ -7,7 +7,7 @@
 
 
 
-#### 7. Pipline
+#### 7. Pipeline
 
 Let's say we have a task: Upon being given a value, that value should be
 incremented, then doubled, then decremented. An imperative style might look like this:
@@ -86,7 +86,7 @@ composability.
 
 The pipeline is an array, and therefore it can be programmatically generated.
 
-Imagine if the steps needed to change depending on user input, 
+Imagine if the steps needed to change depending on user input,
 
 
 

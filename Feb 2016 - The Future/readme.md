@@ -1,5 +1,7 @@
 #### ARTICLES
 
+Time is really not a great way to organize these articles...
+
 ##### Coding
 Feb 08 2016
 - [https://github.com/xolvio/whirlwind](https://github.com/xolvio/whirlwind)
@@ -389,6 +391,37 @@ June 6th
 - [Modeling the Performance and Cost of Lithium-Ion Batteries for Electric-Drive Vehicles (white paper)](http://www.ipd.anl.gov/anlpubs/2011/10/71302.pdf)
 - [Tracker-React - No-Config reactive React Components with Meteor](https://github.com/ultimatejs/tracker-react)
 
+June 16th
+- [JavaScript Modules (jsmodules.io)](http://jsmodules.io/)
+- [Advanced Bash-Scripting Guide: functions](http://www.tldp.org/LDP/abs/html/functions.html)
+- [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/html/index.html)
+- [ES6 Spread and Butter In Depth](https://ponyfoo.com/articles/es6-spread-and-butter-in-depth)
+- [Fetch API - David Walsh's blog](https://davidwalsh.name/fetch)
+- [The Artist-in-Consultance: Welcome to the New Management](http://www.e-flux.com/journal/the-artist-in-consultance-welcome-to-the-new-management/)
+- [Ima fix wolves (notes on Redux)](https://medium.com/@dan_abramov/ima-fix-wolves-9c2e89676fb6#.f2z07s7i9)
+- [What The JavaScript? (Kyle Simpson talk)](https://youtu.be/2pL28CcEijU)
+- [fxfactorial (GH acct for functional guru)](https://github.com/fxfactorial)
+- [wiredsister - (gh acct for ocaml sister)](https://github.com/wiredsister)
+- [Reason - a platform for ocaml-for-web by FB](http://facebook.github.io/reason/)
+- [FizzBuzz test](http://c2.com/cgi/wiki?FizzBuzzTest)
+- [a bunch of FizzBuzz solutions](https://gist.github.com/jaysonrowe/1592432)
+
+June 17th
+- [mysqli_real_escape_string](http://php.net/manual/en/mysqli.real-escape-string.php)
+- [How to get the invoices from the quickbook](https://intuitdeveloper.lc.intuit.com/questions/950439-how-to-get-the-invoices-from-the-quickbook-using-quickbook-api)
+- [Intuit API guide - Invoice](https://developer.intuit.com/docs/api/accounting/invoice)
+- [Intuit API reference](https://developer.intuit.com/docs/0020_customeraccountdata/0000_api/0020_api_documentation)
+- [Shopify API - retrieving products](https://help.shopify.com/api/sdks/js-buy-sdk/getting-started#retrieving-products)
+- [Shopify JS Buy SDK](http://shopify.github.io/js-buy-sdk/guide/)
+- [How to write pseudocode for Javascript](http://www.dreamincode.net/forums/topic/184280-how-to-write-pseudocode-for-javascript/)
+- [Vtiger Development Essentials](https://community.vtiger.com/help/vtigercrm/developers/extensions/essentials.html)
+- [MDN Docs - Constraint validation (with forms)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Constraint_validation)
+- [HTML Spec - Forms](https://html.spec.whatwg.org/multipage/forms.html)
+- [The C Programming Language (book solutions)](http://clc-wiki.net/wiki/K%26R2_solutions:Chapter_1)
+- []()
+- []()
+
+
 #### Functional Reactive Programmin'
 - [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
@@ -478,6 +511,7 @@ June 6th
 
 ##### Elm Language
 - [Learn by Example](http://elm-lang.org/examples)
+- [Elm Architecture](http://guide.elm-lang.org/architecture/index.html)
 - [Share-Elm](http://www.share-elm.com/)
 - [Elm-Lang website](http://elm-lang.org/)
 - [Elm-Lang - Get Started](http://elm-lang.org/get-started)
@@ -615,6 +649,7 @@ June 6th
 - [How WikiLeaks opened our eyes to the illusion of freedom] (http://www.theguardian.com/commentisfree/2014/jun/19/hypocrisy-freedom-julian-assange-wikileaks)
 - [Dirty War (Process of National Reorganization)](https://en.wikipedia.org/wiki/Dirty_War)
 - [Slavoj Žižek: 'Trump is really a centrist liberal' | Books | The Guardian](http://www.theguardian.com/books/2016/apr/28/slavoj-zizek-donald-trump-is-really-a-centrist-liberal)
+- [Former CIA Agent to Americans: Time to Talk About What’s Really Causing Terrorism](http://theantimedia.org/former-cia-really-causing-terrorism/)
 
 
 (Denton)

@@ -418,8 +418,40 @@ June 17th
 - [MDN Docs - Constraint validation (with forms)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Constraint_validation)
 - [HTML Spec - Forms](https://html.spec.whatwg.org/multipage/forms.html)
 - [The C Programming Language (book solutions)](http://clc-wiki.net/wiki/K%26R2_solutions:Chapter_1)
-- []()
-- []()
+- [HAPI Rest API tutorial](https://gist.github.com/newswim/2e6f129aa1815e3aa1f52e261fd024b7)
+
+June 20th
+- [Why don't computers store decimal numbers as a second whole number?](http://programmers.stackexchange.com/questions/167147/why-dont-computers-store-decimal-numbers-as-a-second-whole-number)
+- [Mantissa](https://en.wikipedia.org/wiki/Mantissa)
+- [QT application framework(http://www.qt.io/)
+- [QT API docs example (Abstract3dSeries QML Type)](http://doc.qt.io/qt-5/qml-qtdatavisualization-abstract3dseries.html)
+- [QT Docs](http://doc.qt.io/)
+- [Service Worker spec](https://slightlyoff.github.io/ServiceWorker/spec/service_worker/)
+- [Is Service Worker Ready?](https://jakearchibald.github.io/isserviceworkerready/index.html)
+- [Streaming Template Literals](https://jakearchibald.com/2016/streaming-template-literals/)
+- [RemoteData.js](https://github.com/jackfranklin/remote-data-js)
+- [Objection - An SQL-friendly ORM for Node.js](https://www.npmjs.com/package/objection)
+- [Everything You Need To Know About Async & Meteor](http://phucnguyen.info/blog/everything-you-need-to-know-about-async-meteor/)
+- [Battery Status API](https://www.w3.org/TR/battery-status/)
+
+June 22nd
+- [Recursion Exercises](https://roman01la.github.io/recursion-exercises/)
+- [Clojure By Example](https://kimh.github.io/clojure-by-example/#hello,-world!)
+- [Three-valued logic](https://en.wikipedia.org/wiki/Three-valued_logic)
+- [Codd's 12 rules](https://en.wikipedia.org/wiki/Codd%27s_12_rules)
+- [Go To Statement Considered Harmful](http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html)
+- [The Functional Final Frontier (transcript of talk by David Nolan)](https://github.com/matthiasn/talk-transcripts/blob/master/Nolen_David/FunctionalFinalFrontier.md)
+- [Trie](https://en.wikipedia.org/wiki/Trie)
+- [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation)
+- [Determining complexity for recursive functions (Big O notation)](http://stackoverflow.com/questions/13467674/determining-complexity-for-recursive-functions-big-o-notation)
+- [Tail call optimization in ECMAScript 6](http://www.2ality.com/2015/06/tail-call-optimization.html)
+- [A Beginner’s Guide to Currying in Functional JavaScript](https://www.sitepoint.com/currying-in-functional-javascript/)
+- [Object.freeze()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze)
+- [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch5.md)
+- [Currying (wiki)](https://en.wikipedia.org/wiki/Currying)
+- [Lambda calculus (wiki)](https://en.wikipedia.org/wiki/Lambda_calculus#Functions_that_operate_on_functions)
+- [What is 'Currying'?](http://stackoverflow.com/questions/36314/what-is-currying)
+- [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
 
 
 #### Functional Reactive Programmin'
@@ -527,6 +559,7 @@ June 17th
 - [Learning FP the hard way: Experiences on the Elm language](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
 - [Elm 0.12.1 - Fast, Immutable Arrays](http://elm-lang.org/blog/announce/0.12.1)
 - [RRB-Trees: Efficient Immutable Vectors](http://infoscience.epfl.ch/record/169879/files/RMTrees.pdf)
+- [Elm by Example - Soup To Nuts](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
 
 #### Testing
 
@@ -675,6 +708,13 @@ June 17th
 - [The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins (book)](http://www.amazon.com/The-Mushroom-End-World-Possibility/dp/0691162751?ie=UTF8&dpID=511BmqDOGoL&dpSrc=sims&preST=_SL500_SR89%2C135_&refRID=BH8T33AB5ZKY8Q9CP0F1&ref_=pd_rhf_eetyp_s_cp_2)
 
 ##### Art
+
+- [Shaye Saint John Forever (article from Vice)](http://www.vice.com/read/shaye-saint-john-is-forever-061)
+
+##### Somewhere in between
+
+- [Weird site on vortex-based mathematics](http://vbm.isteaching.com/)
+
 
 ##### Music
 

@@ -453,6 +453,21 @@ June 22nd
 - [What is 'Currying'?](http://stackoverflow.com/questions/36314/what-is-currying)
 - [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
 
+June 27th
+- [Reify - use ES6 Modules in any version of Node](https://www.npmjs.com/package/reify)
+- [Set - new ES6 collection type (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
+- [Debugging Node.js Nightlies with Chrome DevTools](-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27#.gfh1dy4ww)
+- [What do ES6 modules export?](http://www.2ality.com/2015/07/es6-module-exports.html)
+- [Right Action Starts with Right Thought](https://medium.com/right-action/right-action-starts-with-right-thought-a4ea94e676ba#.qjxdpwscl)
+- [Node added a debugger](https://nodejs.org/api/debugger.html)
+- [Best Practices for Node.js Development (heroku dev center)](https://devcenter.heroku.com/articles/node-best-practices#use-a-smart-npmrc)
+- [Uniforms - set of form packages for Meteor+React+Simple Schema](https://github.com/vazco/uniforms)
+- [Solving Towers of Hanoi with TLA+](http://matt-harrison.com/solving-towers-of-hanoi-with-tla/)
+- [Specifying Systems](http://research.microsoft.com/en-us/um/people/lamport/tla/book.html)
+- []()
+- []()
+- []()
+- []()
 
 #### Functional Reactive Programmin'
 - [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
@@ -706,6 +721,10 @@ June 22nd
 - [We Finally Know How Much the Dino-Killing Asteroid Reshaped Earth](http://www.smithsonianmag.com/science-nature/we-finally-know-how-much-dino-killing-asteroid-reshaped-earth-180958222/?no-ist)
 - [For the First Time, Witness the Shockwave of an Exploding Star](http://motherboard.vice.com/read/exploding-star-video-for-the-first-time-witness-the-shockwave-of-an-exploding-star?utm_source=mbfb)
 - [The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins (book)](http://www.amazon.com/The-Mushroom-End-World-Possibility/dp/0691162751?ie=UTF8&dpID=511BmqDOGoL&dpSrc=sims&preST=_SL500_SR89%2C135_&refRID=BH8T33AB5ZKY8Q9CP0F1&ref_=pd_rhf_eetyp_s_cp_2)
+
+##### Science: Op-ed
+
+- [Think Less, Think Better](http://www.nytimes.com/2016/06/19/opinion/sunday/think-less-think-better.html)
 
 ##### Art
 

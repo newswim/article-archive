@@ -2,7 +2,7 @@
 
 Time is really not a great way to organize these articles...
 
-##### Coding
+##### Code
 Feb 08 2016
 - [https://github.com/xolvio/whirlwind](https://github.com/xolvio/whirlwind)
 - [https://www.deepdotweb.com/2016/02/08/nsa-switches-to-quantum-resistant-cryptography/](https://www.deepdotweb.com/2016/02/08/nsa-switches-to-quantum-resistant-cryptography/)
@@ -464,16 +464,54 @@ June 27th
 - [Uniforms - set of form packages for Meteor+React+Simple Schema](https://github.com/vazco/uniforms)
 - [Solving Towers of Hanoi with TLA+](http://matt-harrison.com/solving-towers-of-hanoi-with-tla/)
 - [Specifying Systems](http://research.microsoft.com/en-us/um/people/lamport/tla/book.html)
-- []()
-- []()
-- []()
+- [Hapi University](https://github.com/hapijs/university)
+- [Hapi Tutorials](http://hapijs.com/tutorials)
+- [AirBnb style guide for React](https://github.com/airbnb/javascript/tree/master/react)
+- [and es5](https://github.com/airbnb/javascript/tree/master/es5)
+
+June 30th
+- [Unix Sockets - Beej's Guide to Unix IPC](http://beej.us/guide/bgipc/output/html/multipage/unixsock.html)
+- [Unix man page](http://man7.org/linux/man-pages/man7/unix.7.html)
+- [Effective JavaScript Reviewed](https://github.com/raganwald-deprecated/homoiconic/blob/master/2013/01/effective-javascript.md)
+- [The Little Calculist](http://calculist.org/)
+- [UglifyJS — the syntax tree (AST)](http://lisperator.net/uglifyjs/ast)
+- [Masked Input Plugin](http://digitalbush.com/projects/masked-input-plugin/)
+- [Dave Herman's blog (calculist.org)](http://calculist.org/)
+- [Eran Hammer's blog](https://hueniverse.com/)
+
+
+July 6th
+- [The importance of import/export](http://benjamn.github.io/empirenode-2015/#/45)
+- [Leveling Up With React: Container Components](https://css-tricks.com/learning-react-container-components/)
+- [SAVI website on PINGDOM](https://tools.pingdom.com/#!/dhDcEi/http://www.savicontrols.com)
+- [Virtual AGC - Apollo 11 source code project](www.ibiblio.org/apollo)
+- [Apollo 11 source code](https://github.com/chrislgarry/Apollo-11)
+- [DON EYLES WALKS US THROUGH THE LUNAR MODULE SOURCE CODE](http://hackaday.com/2016/07/05/don-eyles-walks-us-through-the-lunar-module-source-code/)
+- [Hackaday](http://hackaday.com/)
+- [Arithmetic logic unit](https://en.wikipedia.org/wiki/Arithmetic_logic_unit)
+
+July 11th
+- [NodeJS: What's the difference between a Duplex stream and a Transform stream?](http://stackoverflow.com/questions/18335499/nodejs-whats-the-difference-between-a-duplex-stream-and-a-transform-stream)
+- [Relation between CommonJS, AMD and RequireJS](http://stackoverflow.com/questions/16521471/relation-between-commonjs-amd-and-requirejs)
+- [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Tagged_template_literals)
+- [Streaming template literals](https://jakearchibald.com/2016/streaming-template-literals/)
+- [This just isn't functional](https://codewords.recurse.com/issues/six/this-just-isnt-functional)
+- [shed.bike](https://shed.bike/)
+- [Why Should I Care What Color the Bikeshed Is?](http://bikeshed.com/)
+- [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
+- [This is Elon: Tesla's CEO on the proposed acquisition of SolarCity | TeslaCentral](http://www.teslacentral.com/elon-teslas-ceo-proposed-acquisition-solarcity)
+- [Lout - API generation for HAPI servers](https://github.com/hapijs/lout)
 - []()
 
-#### Functional Reactive Programmin'
+#### Functional+Reactive Programming
 - [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
+- [What Is Functional Programming? (Kris Jenkins)](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [Mostly Adequate Guide to FP (in JS)](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - [Currying vs Partial Application](http://www.datchley.name/currying-vs-partial-application/)
+- [Lambda the Ultimate](http://lambda-the-ultimate.org/)
+- [John D. Cook's blog (functional)](http://www.johndcook.com/blog/tag/functional-programming/)
+
 
 #### Mongo
 - [Robe (ODM)](https://github.com/hiddentao/robe)
@@ -512,6 +550,7 @@ June 27th
 - [Relate - GraphQL client connector for Redux/React](https://github.com/relax/relate)
 - [Relax - A CMS built on React/Redux/GraphQL](https://github.com/relax/relax)
 - [Thinking In GraphQL (relay docs)](https://facebook.github.io/relay/docs/thinking-in-graphql.html)
+- [New features in GraphQL: Batch, defer, stream, live, and subscribe](https://medium.com/apollo-stack/new-features-in-graphql-batch-defer-stream-live-and-subscribe-7585d0c28b07#.m0g4w3r9b)
 
 #### Apollo Stack
 
@@ -542,6 +581,17 @@ June 27th
 - [Gitlab - Using Docker Images](http://doc.gitlab.com/ce/ci/docker/using_docker_images.html)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [Gitlab - reusing Docker containers between builds](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/issues/1107)
+
+#### Git & Git Flow
+
+- [A successful Git branching model (original blog post)](http://nvie.com/posts/a-successful-git-branching-model/)
+- [Doing Gitflow in Node:  nodegit-flow](https://blog.axosoft.com/2016/07/07/nodegit-flow/)
+- [Comparing Workflows (tutorial at Atlassian)](https://www.atlassian.com/git/tutorials/comparing-workflows)
+- [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
+- []()
+- []()
+- []()
+- []()
 
 
 #### Functional Programming
@@ -698,7 +748,7 @@ June 27th
 - [Dirty War (Process of National Reorganization)](https://en.wikipedia.org/wiki/Dirty_War)
 - [Slavoj Žižek: 'Trump is really a centrist liberal' | Books | The Guardian](http://www.theguardian.com/books/2016/apr/28/slavoj-zizek-donald-trump-is-really-a-centrist-liberal)
 - [Former CIA Agent to Americans: Time to Talk About What’s Really Causing Terrorism](http://theantimedia.org/former-cia-really-causing-terrorism/)
-
+- [He Was a Hacker for the NSA and He Was Willing to Talk. I Was Willing to Listen.](https://theintercept.com/2016/06/28/he-was-a-hacker-for-the-nsa-and-he-was-willing-to-talk-i-was-willing-to-listen/)
 
 (Denton)
 - [Annetta Ramsay: City attorney far too powerful in Denton](http://www.dentonrc.com/opinion/columns-headlines/20160220-annetta-ramsay-city-attorney-far-too-powerful-in-denton.ece)
@@ -725,6 +775,7 @@ June 27th
 ##### Science: Op-ed
 
 - [Think Less, Think Better](http://www.nytimes.com/2016/06/19/opinion/sunday/think-less-think-better.html)
+- [This is Elon: Tesla's CEO on the proposed acquisition of SolarCity](http://www.teslacentral.com/elon-teslas-ceo-proposed-acquisition-solarcity)
 
 ##### Art
 
@@ -748,6 +799,7 @@ June 27th
 - [Untransltable Works](http://www.thebookoflife.org/untranslatable-words/)
 - [The Believer - Not Numb](http://logger.believermag.com/post/141644634521/not-numb)
 - [This Legendary Parisian Bookshop Published James Joyce When No One Else Would](http://historybuff.com/this-legendary-parisian-bookshop-published-james-joyce-when-no-one-else-would-rbGZdaoRDj23)
+- [Data Mining Reveals the Six Basic Emotional Arcs of Storytelling](https://www.technologyreview.com/s/601848/data-mining-reveals-the-six-basic-emotional-arcs-of-storytelling/)
 
 
 ##### Other

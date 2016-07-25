@@ -501,7 +501,37 @@ July 11th
 - [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 - [This is Elon: Tesla's CEO on the proposed acquisition of SolarCity | TeslaCentral](http://www.teslacentral.com/elon-teslas-ceo-proposed-acquisition-solarcity)
 - [Lout - API generation for HAPI servers](https://github.com/hapijs/lout)
-- []()
+
+July 12th
+- [Learning the Basics About Redux](https://medium.com/coderockr-way/learning-the-basics-about-redux-b55e072bc3f1#.qdv1al4z2)
+- [Tubular - embedded video backgrounds](http://www.seanmccambridge.com/tubular/)
+- [Forward Proxy vs Reverse Proxy](http://www.jscape.com/blog/bid/87783/Forward-Proxy-vs-Reverse-Proxy)
+- [10 Habits of a happy Node developer](https://blog.heroku.com/node-habits-2016)
+- [Google Apps - fetch(url) app](https://developers.google.com/apps-script/reference/url-fetch/url-fetch-app)
+- [Use Google Sheets as your application reporting tool](https://codelabs.developers.google.com/codelabs/sheets-api/)
+- [Learn To Program (Chris Pine)](https://pine.fm/LearnToProgram/)
+- [Johnny Five - Animation](http://johnny-five.io/examples/servo-animation/)
+
+July 18th
+- [Building simple Node.js microservices using Hapi and Redis](http://codewinds.com/blog/2015-11-14-microservices-nodevember.html)
+- [Seneca - microservice framework for Node](http://senecajs.org/)
+- [Real-time Chat using Hapi.js + Socket.io + Redis Pub/Sub (example + tests!!)](https://github.com/dwyl/hapi-socketio-redis-chat-example)
+- [Write Modern Asynchronous Javascript using Promises, Generators, and Coroutines](https://medium.freecodecamp.com/write-modern-asynchronous-javascript-using-promises-generators-and-coroutines-5fa9fe62cf74#.legcuu4ca)
+- [Notes on the seminal "Javascript the Good Parts: byDouglas Crockford](https://github.com/iteles/Javascript-the-Good-Parts-notes)
+- [DWYL - A Quick-start Guide](https://github.com/dwyl/start-here)
+- [Code Walkthroughs from JS The Good Parts](https://gist.github.com/0xadada/bde1deede1d508046342#prototype)
+- [Leveling Up With React: Container Components](https://css-tricks.com/learning-react-container-components/)
+- [Hueniverse - OAuth](https://hueniverse.com/oauth/)
+- [MongoDB - native js driver - ECMAScript 6 CRUD](http://mongodb.github.io/node-mongodb-native/2.2/reference/ecmascript6/crud/)
+- [Node Machine / specification and manager](http://node-machine.org/)
+- [Build an App with Vue.js: From Authentication to Calling an API (Auth0)](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/)
+
+#### Hapi.js
+
+- [Hapi: The Good Parts](https://chrisdecairos.ca/hapi-the-good-parts/)
+- [How test your Hapi API with Lab](https://medium.com/@thedon/how-test-your-hapi-api-with-lab-b72f6e8ed641#.eck53a68u)
+- [How to configure reverse proxy in Hapi.js](https://medium.com/@uzysjung/how-to-configure-reverse-proxy-in-hapi-js-f5292414105f#.embruhhrs)
+
 
 #### Functional+Reactive Programming
 - [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
@@ -512,6 +542,16 @@ July 11th
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
 - [John D. Cook's blog (functional)](http://www.johndcook.com/blog/tag/functional-programming/)
 
+#### Haskell
+
+- [Haskell in 5 steps](https://wiki.haskell.org/Haskell_in_5_steps)
+- [Learn You A Haskell](http://learnyouahaskell.com/)
+- [Learning Haskell Wiki](https://wiki.haskell.org/Learning_Haskell)
+
+#### RegEx
+
+- [Regexper](https://regexper.com)
+- [RegexOne](http://regexone.com)
 
 #### Mongo
 - [Robe (ODM)](https://github.com/hiddentao/robe)
@@ -551,6 +591,7 @@ July 11th
 - [Relax - A CMS built on React/Redux/GraphQL](https://github.com/relax/relax)
 - [Thinking In GraphQL (relay docs)](https://facebook.github.io/relay/docs/thinking-in-graphql.html)
 - [New features in GraphQL: Batch, defer, stream, live, and subscribe](https://medium.com/apollo-stack/new-features-in-graphql-batch-defer-stream-live-and-subscribe-7585d0c28b07#.m0g4w3r9b)
+- [REST API downfalls, and dawn of GraphQL](https://medium.com/@ottovw/rest-api-downfalls-and-dawn-of-graphql-dd00991a0eb8#.w0jpyfmn5)
 
 #### Apollo Stack
 
@@ -588,10 +629,6 @@ July 11th
 - [Doing Gitflow in Node:  nodegit-flow](https://blog.axosoft.com/2016/07/07/nodegit-flow/)
 - [Comparing Workflows (tutorial at Atlassian)](https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
-- []()
-- []()
-- []()
-- []()
 
 
 #### Functional Programming
@@ -800,6 +837,7 @@ July 11th
 - [The Believer - Not Numb](http://logger.believermag.com/post/141644634521/not-numb)
 - [This Legendary Parisian Bookshop Published James Joyce When No One Else Would](http://historybuff.com/this-legendary-parisian-bookshop-published-james-joyce-when-no-one-else-would-rbGZdaoRDj23)
 - [Data Mining Reveals the Six Basic Emotional Arcs of Storytelling](https://www.technologyreview.com/s/601848/data-mining-reveals-the-six-basic-emotional-arcs-of-storytelling/)
+- [Modern Pilgrims or The Visions of Young Anxious People](http://www.ourshoresrun.org/news/2016/7/17/modern-pilgrims-or)
 
 
 ##### Other

@@ -526,6 +526,52 @@ July 18th
 - [Node Machine / specification and manager](http://node-machine.org/)
 - [Build an App with Vue.js: From Authentication to Calling an API (Auth0)](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/)
 
+July 25th
+- [Coeffects - the next big programming challenge](http://tomasp.net/blog/2014/why-coeffects-matter/)
+- [Unix Less Command: 10 Tips for Effective Navigation](http://www.thegeekstuff.com/2010/02/unix-less-command-10-tips-for-effective-navigation/)
+- [Playing With React and D3](https://reactjsnews.com/playing-with-react-and-d3)
+- [Open Source Contiki OS](http://processors.wiki.ti.com/index.php/Contiki-6LOWPAN)
+- [OSDev.org - getting started](http://wiki.osdev.org/Getting_Started)
+
+July 28th
+- [ES6 In Depth: Symbols](https://hacks.mozilla.org/2015/06/es6-in-depth-symbols/)
+- [REST API Tutorial - Status Codes](http://www.restapitutorial.com/httpstatuscodes.html)
+- [SQLBolt - interactive SQL lessons](http://sqlbolt.com/)
+- [MobX - Simple, scalable state management](https://github.com/mobxjs/mobx)
+- [An Object is not a Hash](http://www.devthought.com/2012/01/18/an-object-is-not-a-hash/)
+
+July 29th
+- [Please. Don't Patch Like An Idiot.](http://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/)
+
+August 1st
+- [Learn MongoDB The Hard Way - Schema Intro](http://learnmongodbthehardway.com/schema/introduction/)
+- [Learn MongoDB The Hard Way - Time Series](http://learnmongodbthehardway.com/schema/timeseries/)
+- [Time Series (wiki)](https://en.wikipedia.org/wiki/Time_series)
+- [MongoDB Blog - Schema Design for Time Series](http://blog.mongodb.org/post/65517193370/schema-design-for-time-series-data-in-mongodb)
+- [Mongo Native Driver 2.2 Docs - Tutorials](http://mongodb.github.io/node-mongodb-native/2.2/tutorials/)
+- [Mongo Native Driver!](https://mongodb.github.io/node-mongodb-native/)
+- [Mongo - Tailable Cursors](https://docs.mongodb.com/manual/core/tailable-cursors/)
+- [Mongo `$lookup` operator](https://docs.mongodb.com/master/reference/operator/aggregation/lookup/#pipe._S_lookup)
+- [How do I perform the SQL Join equivalent in MongoDB?](http://stackoverflow.com/questions/2350495/how-do-i-perform-the-sql-join-equivalent-in-mongodb)
+- [Meteor HMR](https://github.com/gadicc/meteor-hmr#readme)
+- [Meteor Webpack - Day 1](https://github.com/thereactivestack/meteor-webpack/blob/master/guide/DAY1.md)
+- [Webpack Validator](https://www.npmjs.com/package/webpack-validator)
+- [Meteor Guide - Testing](https://guide.meteor.com/testing.html)
+- [Meteor Guide - Using NPM](https://guide.meteor.com/using-npm-packages.html)
+- [Request - Simplified HTTP client](https://github.com/request/request)
+- [Node-Fibers](https://github.com/laverdet/node-fibers)
+- [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
+- [Programmable Web - API Search](http://www.programmableweb.com/api-research)
+
+- - -
+(too many links today!!)
+- [What can I learn right now in just 10 minutes that could improve my algorithmic thinking?](https://www.quora.com/What-can-I-learn-right-now-in-just-10-minutes-that-could-improve-my-algorithmic-thinking/answer/Thomas-Cormen-1)
+- [Chess Tempo](http://chesstempo.com/)
+- [Jacques-Alain Miller (wiki)](https://en.wikipedia.org/wiki/Jacques-Alain_Miller)
+- []()
+- []()
+
+
 #### Hapi.js
 
 - [Hapi: The Good Parts](https://chrisdecairos.ca/hapi-the-good-parts/)
@@ -547,6 +593,7 @@ July 18th
 - [Haskell in 5 steps](https://wiki.haskell.org/Haskell_in_5_steps)
 - [Learn You A Haskell](http://learnyouahaskell.com/)
 - [Learning Haskell Wiki](https://wiki.haskell.org/Learning_Haskell)
+- [Yet Another Haskell Tutorial](http://www.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
 
 #### RegEx
 
@@ -786,6 +833,12 @@ July 18th
 - [Slavoj Žižek: 'Trump is really a centrist liberal' | Books | The Guardian](http://www.theguardian.com/books/2016/apr/28/slavoj-zizek-donald-trump-is-really-a-centrist-liberal)
 - [Former CIA Agent to Americans: Time to Talk About What’s Really Causing Terrorism](http://theantimedia.org/former-cia-really-causing-terrorism/)
 - [He Was a Hacker for the NSA and He Was Willing to Talk. I Was Willing to Listen.](https://theintercept.com/2016/06/28/he-was-a-hacker-for-the-nsa-and-he-was-willing-to-talk-i-was-willing-to-listen/)
+July 28th
+- [DNC Leak Shows Slanted Politics - Rolling Stone](http://www.rollingstone.com/politics/features/dnc-leak-shows-mechanics-of-a-slanted-campaign-w430814)
+- [Leaked Democratic Party Emails Show Members Tried To Undercut Sanders- NPR](http://www.npr.org/sections/thetwo-way/2016/07/23/487179496/leaked-democratic-party-emails-show-members-tried-to-undercut-sanders?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20160723)
+- [How American Politics Went Insane (The Atlantic, August 2016)](http://www.theatlantic.com/magazine/archive/2016/07/how-american-politics-went-insane/485570/?utm_source=feed)
+- [Dozens of Civilians Reported Dead in U.S.-Led Syria Airstrike (NYTimes, July 19, 2016)](http://www.nytimes.com/2016/07/20/world/middleeast/islamic-state-airstrikes-syria-civilian-casualties.html)
+
 
 (Denton)
 - [Annetta Ramsay: City attorney far too powerful in Denton](http://www.dentonrc.com/opinion/columns-headlines/20160220-annetta-ramsay-city-attorney-far-too-powerful-in-denton.ece)
@@ -798,6 +851,9 @@ July 18th
 #### History
 - [Nueces massacre](https://en.wikipedia.org/wiki/Nueces_massacre)
 
+### Philosophy
+
+- [The Philosopher of Feelings (Martha Nussbaum article in The New Yorker, July 25, 2016)](http://www.newyorker.com/magazine/2016/07/25/martha-nussbaums-moral-philosophies)
 
 ##### Nature
 
@@ -808,6 +864,7 @@ July 18th
 - [We Finally Know How Much the Dino-Killing Asteroid Reshaped Earth](http://www.smithsonianmag.com/science-nature/we-finally-know-how-much-dino-killing-asteroid-reshaped-earth-180958222/?no-ist)
 - [For the First Time, Witness the Shockwave of an Exploding Star](http://motherboard.vice.com/read/exploding-star-video-for-the-first-time-witness-the-shockwave-of-an-exploding-star?utm_source=mbfb)
 - [The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins (book)](http://www.amazon.com/The-Mushroom-End-World-Possibility/dp/0691162751?ie=UTF8&dpID=511BmqDOGoL&dpSrc=sims&preST=_SL500_SR89%2C135_&refRID=BH8T33AB5ZKY8Q9CP0F1&ref_=pd_rhf_eetyp_s_cp_2)
+- [The 7 biggest problems facing science, according to 270 scientists (Vox July 2016)](http://www.vox.com/2016/7/14/12016710/science-challeges-research-funding-peer-review-process#6?utm_campaign=vox.social&utm_medium=social&utm_content=voxdotcom&utm_source=twitter)
 
 ##### Science: Op-ed
 

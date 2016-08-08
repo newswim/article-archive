@@ -568,8 +568,9 @@ August 1st
 - [What can I learn right now in just 10 minutes that could improve my algorithmic thinking?](https://www.quora.com/What-can-I-learn-right-now-in-just-10-minutes-that-could-improve-my-algorithmic-thinking/answer/Thomas-Cormen-1)
 - [Chess Tempo](http://chesstempo.com/)
 - [Jacques-Alain Miller (wiki)](https://en.wikipedia.org/wiki/Jacques-Alain_Miller)
-- []()
-- []()
+
+August 8
+- [David Nolan's blog mostly about Go (the game)](http://swannodette.github.io/baduk/)
 
 
 #### Hapi.js
@@ -587,6 +588,7 @@ August 1st
 - [Currying vs Partial Application](http://www.datchley.name/currying-vs-partial-application/)
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
 - [John D. Cook's blog (functional)](http://www.johndcook.com/blog/tag/functional-programming/)
+- [swannodette/logic-tutorial](https://github.com/swannodette/logic-tutorial)
 
 #### Haskell
 
@@ -639,6 +641,8 @@ August 1st
 - [Thinking In GraphQL (relay docs)](https://facebook.github.io/relay/docs/thinking-in-graphql.html)
 - [New features in GraphQL: Batch, defer, stream, live, and subscribe](https://medium.com/apollo-stack/new-features-in-graphql-batch-defer-stream-live-and-subscribe-7585d0c28b07#.m0g4w3r9b)
 - [REST API downfalls, and dawn of GraphQL](https://medium.com/@ottovw/rest-api-downfalls-and-dawn-of-graphql-dd00991a0eb8#.w0jpyfmn5)
+- [GraphQL - The Evolution of Data Fetching (slides)](http://bendiuguid.com/long-live-graphql/#/?_k=dzm2ok)
+- [Demand-driven architecture: Relay, Falcor, Om.Next](https://medium.com/@env/demand-driven-development-relay-falcor-om-next-75818bd54ea1#.yzpbojv9h)
 
 #### Apollo Stack
 
@@ -653,6 +657,8 @@ August 1st
 - [GraphQL explained](https://medium.com/apollo-stack/graphql-explained-5844742f195e#.pr54w0zdk)
 - [Mocking your server with just one line of code](https://medium.com/apollo-stack/mocking-your-server-with-just-one-line-of-code-692feda6e9cd#.1utp7xw0y)
 - [Architecting for performance](https://github.com/apollostack/apollo-client/issues/128)
+- [Apollo AMA](https://hashnode.com/ama/with-apollo-team-ciqanu1mh002l8b53of65z3da)
+- [Apollo Server 0.2: GraphQL with Express, Connect, HAPI or Koa](https://medium.com/apollo-stack/apollo-server-0-2-graphql-with-express-connect-hapi-or-koa-7e06b0a8fdb1#.5rxge6udm)
 
 #### Gitlab / Docker Engine | | HOWDOICI
 

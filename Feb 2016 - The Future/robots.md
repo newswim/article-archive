@@ -1,0 +1,2 @@
+- [Hardware Hacking With JavaScript (Smashing, Feb 2016)](https://www.smashingmagazine.com/2016/02/hardware-hacking-with-javascript-internet-of-things/)
+- [Maker Culture](https://en.wikipedia.org/wiki/Maker_culture)

@@ -571,7 +571,16 @@ August 1st
 
 August 8
 - [David Nolan's blog mostly about Go (the game)](http://swannodette.github.io/baduk/)
+- [Application Layer](https://en.wikipedia.org/wiki/Application_layer)
+- [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
 
+August 10
+- [GraphQL API - Automated GraphQL & REST API for your PostgreSQL database via introspection](http://graphqlapi.com/)
+- [Using GraphQL with MongoDB](https://www.compose.com/articles/using-graphql-with-mongodb/)
+- [Knex Query Builder](http://knexjs.org/)
+- [scaphold-io/save-the-world-tutorial (GQL / Scaphold / Angular2)](https://github.com/scaphold-io/save-the-world-tutorial)
+- [How To Forward Ports through a Linux Gateway with Iptables](https://www.digitalocean.com/community/tutorials/how-to-forward-ports-through-a-linux-gateway-with-iptables)
+- [Manage `mongod` Processes](https://docs.mongodb.com/manual/tutorial/manage-mongodb-processes/)
 
 #### Hapi.js
 
@@ -628,6 +637,7 @@ August 8
 - [What is the difference between Falcor and GraphQL?](http://stackoverflow.com/questions/32057785/what-is-the-difference-between-falcor-and-graphql)
 - [What is Falcor?](https://netflix.github.io/falcor/starter/what-is-falcor.html)
 - [Adopting GraphQL - Kadira blog post](https://voice.kadira.io/adopting-graphql-2f00dfe0fda2#.qnq5ienn7)
+- [Initial Impressions on GraphQL & Relay](https://kadira.io/blog/graphql/initial-impression-on-relay-and-graphql)
 - [GraphQLHub](https://www.graphqlhub.com/)
 - [Graffiti - a GraphQL ORM](https://github.com/RisingStack/graffiti)
 - [Release Notes](https://github.com/facebook/graphql/releases/tag/April2016)

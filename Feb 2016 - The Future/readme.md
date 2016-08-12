@@ -582,6 +582,12 @@ August 10
 - [How To Forward Ports through a Linux Gateway with Iptables](https://www.digitalocean.com/community/tutorials/how-to-forward-ports-through-a-linux-gateway-with-iptables)
 - [Manage `mongod` Processes](https://docs.mongodb.com/manual/tutorial/manage-mongodb-processes/)
 
+August 11
+- [How To Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
+- [CallbackHell.com](http://callbackhell.com/)
+- [Node fibers: Patterns and anti-patterns using synchronize.js](https://mixmax.com/blog/node-fibers-using-synchronize-js)
+
+
 #### Hapi.js
 
 - [Hapi: The Good Parts](https://chrisdecairos.ca/hapi-the-good-parts/)

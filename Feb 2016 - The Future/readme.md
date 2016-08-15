@@ -587,6 +587,24 @@ August 11
 - [CallbackHell.com](http://callbackhell.com/)
 - [Node fibers: Patterns and anti-patterns using synchronize.js](https://mixmax.com/blog/node-fibers-using-synchronize-js)
 
+August 15
+- ['React How-To' by Pete Hunt](https://github.com/petehunt/react-howto)
+- [`sed` man pages (http://man.cx/sed)](http://man.cx/sed)
+- [Debian Manual - B.5. Advanced options](https://www.debian.org/releases/stable/i386/apbs05.html.en)
+- [LightDM Linux Display Manager](https://wiki.archlinux.org/index.php/LightDM)
+- [How to change the LightDM theme/greeter?](http://askubuntu.com/questions/75755/how-to-change-the-lightdm-theme-greeter)
+- [Max Hodges' personal photo blog](http://maxhodges.com)
+- [Why Fibers Make Sense For Meteor](http://benjamn.github.io/goto2015-talk/)
+- [Scaphold API Documentation](https://scaphold.io/docs)
+- [Apollo Server 0.2: GraphQL with Express, Connect, HAPI or Koa — Building Apollo](https://medium.com/apollo-stack/apollo-server-0-2-graphql-with-express-connect-hapi-or-koa-7e06b0a8fdb1#.1w4ts05c4)
+- [Leveling Up With React: React Router | CSS-Tricks](https://css-tricks.com/learning-react-router/)
+- [The Trie Data Structure: Examples in Java | Toptal](https://www.toptal.com/java/the-trie-a-neglected-data-structure)
+- [Binary Heaps -- Eloquent JavaScript (Eloquent JS, 1st ed)](http://eloquentjavascript.net/1st_edition/appendix2.html)
+- [Relay: State of the State](https://facebook.github.io/react/blog/2016/08/05/relay-state-of-the-state.html)
+- [The F*cking Open Web](https://hueniverse.com/2016/06/08/the-fucking-open-web/)
+- []()
+- []()
+- []()
 
 #### Hapi.js
 

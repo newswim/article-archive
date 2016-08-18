@@ -602,7 +602,21 @@ August 15
 - [Binary Heaps -- Eloquent JavaScript (Eloquent JS, 1st ed)](http://eloquentjavascript.net/1st_edition/appendix2.html)
 - [Relay: State of the State](https://facebook.github.io/react/blog/2016/08/05/relay-state-of-the-state.html)
 - [The F*cking Open Web](https://hueniverse.com/2016/06/08/the-fucking-open-web/)
-- []()
+- [MongoDB - What's New In 3.2 (white paper)](https://webassets.mongodb.com/mongodb_whats_new_3.2.pdf)
+- [C - how to draw a binary tree to the console](http://stackoverflow.com/questions/801740/c-how-to-draw-a-binary-tree-to-the-console)
+
+August 18th
+- [Linux Kernal](https://www.kernel.org/linux.html)
+- [Ubuntu MATE](https://ubuntu-mate.org/)
+- [Systemd - ArchLinux](https://wiki.archlinux.org/index.php/systemd)
+- [Debian Manual - Chapter 7 - Declaring relationships between packages](https://www.debian.org/doc/debian-policy/ch-relationships.html)
+- [Ubuntu 16.04 Gnome Conky does not work right](http://askubuntu.com/questions/778799/ubuntu-16-04-gnome-conky-does-not-work-right)
+- [ligthdm: custom app on login screen](http://vogelchr.blogspot.com.br/2012/11/ligthdm-custom-app-on-login-screen.html)
+- [GraphQL Concepts Visualized](https://medium.com/apollo-stack/the-concepts-of-graphql-bc68bd819be3#.69ij6ak3q)
+- [How To Read and Set Environmental and Shell Variables on a Linux VPS](https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps)
+- [Shell Comments](https://bash.cyberciti.biz/guide/Shell_Comments)
+- [Drew's grep tutorial](http://www.uccs.edu/~ahitchco/grep/)
+- [Electronic data interchange](https://en.wikipedia.org/wiki/Electronic_data_interchange)
 - []()
 - []()
 

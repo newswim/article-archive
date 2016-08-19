@@ -617,6 +617,16 @@ August 18th
 - [Shell Comments](https://bash.cyberciti.biz/guide/Shell_Comments)
 - [Drew's grep tutorial](http://www.uccs.edu/~ahitchco/grep/)
 - [Electronic data interchange](https://en.wikipedia.org/wiki/Electronic_data_interchange)
+- [RedHat - 8.6. CREATING AND MODIFYING SYSTEMD UNIT FILES](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/sect-Managing_Services_with_systemd-Unit_Files.html)
+- [Building a Modern Computer from First Principles](http://www.nand2tetris.org/)
+
+August 19th
+- [systemd System and Service Manager](https://www.freedesktop.org/wiki/Software/systemd/)
+- [Purpose and typical usage of /etc/rc.local](http://unix.stackexchange.com/questions/49626/purpose-and-typical-usage-of-etc-rc-local)
+- [Why ‘init’ Needed to be Replaced with ‘systemd’ in Linux](http://www.tecmint.com/systemd-replaces-init-in-linux/)
+- [What The Heck Happened To Conky? (I'm rolling back to 1.9)](http://coreygoldberg.blogspot.com/2016/03/what-heck-happened-to-conky-im-rolling-back.html)
+- []()
+- []()
 - []()
 - []()
 

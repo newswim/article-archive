@@ -625,10 +625,19 @@ August 19th
 - [Purpose and typical usage of /etc/rc.local](http://unix.stackexchange.com/questions/49626/purpose-and-typical-usage-of-etc-rc-local)
 - [Why ‘init’ Needed to be Replaced with ‘systemd’ in Linux](http://www.tecmint.com/systemd-replaces-init-in-linux/)
 - [What The Heck Happened To Conky? (I'm rolling back to 1.9)](http://coreygoldberg.blogspot.com/2016/03/what-heck-happened-to-conky-im-rolling-back.html)
-- []()
-- []()
-- []()
-- []()
+- [Casey's Conky Reference with Examples](http://www.ifxgroup.net/conky.htm)
+- [Conky Variables](http://conky.sourceforge.net/variables.html)
+
+August 22nd
+- [So You Want To Write A LightDM Greeter](http://www.mattfischer.com/blog/?p=5)
+- [GtkBuilder: GTK+ 3 Reference Manual](https://developer.gnome.org/gtk3/stable/GtkBuilder.html)
+- [Go-GTK](http://mattn.github.io/go-gtk/)
+- [Embedded Handbook/Boards/BeagleBone - Gentoo Wiki](https://wiki.gentoo.org/wiki/Embedded_Handbook/Boards/BeagleBone)
+- [Meteor 1.3 Official Testing Support - First Impressions](https://www.okgrow.com/posts/meteor-13-official-testing-support-first-impressions)
+- [Introducing the Glade Catalog: Glade User Interface Designer Reference Manual](https://developer.gnome.org/gladeui/stable/catalogintro.html)
+- [GTK+ 3 Archives | Programmer's Notes](http://prognotes.net/category/gtk-3/)
+- [Customising the LightDM GTK Greeter](https://arcticdog.wordpress.com/2012/02/08/customising-the-lightdm-gtk-greeter/)
+- [BashGuide/InputAndOutput - Greg's Wiki](http://mywiki.wooledge.org/BashGuide/InputAndOutput)
 
 #### Hapi.js
 

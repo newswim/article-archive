@@ -639,6 +639,22 @@ August 22nd
 - [Customising the LightDM GTK Greeter](https://arcticdog.wordpress.com/2012/02/08/customising-the-lightdm-gtk-greeter/)
 - [BashGuide/InputAndOutput - Greg's Wiki](http://mywiki.wooledge.org/BashGuide/InputAndOutput)
 
+August 23rd
+- [Project Management AntiPatterns](https://sourcemaking.com/antipatterns/software-project-management-antipatterns)
+- [SourceMaking.com - lotsa design patterns](https://sourcemaking.com)
+- ["Command" design pattern - DoFactory.com](http://www.dofactory.com/javascript/command-design-pattern)
+- [MicroPython - Python for microcontrollers](https://micropython.org/)
+- [man-pages - FIND(1)]()
+- [Recursively find files with a specific extension Linux command](http://stackoverflow.com/questions/25693638/recursively-find-files-with-a-specific-extension-linux-command)
+- [Customising the LightDM GTK Greeter](https://arcticdog.wordpress.com/2012/02/08/customising-the-lightdm-gtk-greeter/)
+- [Ubuntu Wiki - LightDM](https://wiki.ubuntu.com/LightDM)
+- [Ubuntu Wiki - Zenity](http://manpages.ubuntu.com/manpages/xenial/man1/zenity.1.html)
+- [lightdm greeter banner message - ubuntu forums](https://ubuntuforums.org/showthread.php?t=2186061)
+- [GtkBuilder — Build an interface from an XML UI definition](https://developer.gnome.org/gtk3/stable/GtkBuilder.html)
+- [Introducing the Glade Catalog](https://developer.gnome.org/gladeui/stable/catalogintro.html)
+- [Glade Packing Tutorial](http://prognotes.net/category/gtk-3/)
+- []()
+
 #### Hapi.js
 
 - [Hapi: The Good Parts](https://chrisdecairos.ca/hapi-the-good-parts/)

@@ -619,6 +619,7 @@ August 18th
 - [Electronic data interchange](https://en.wikipedia.org/wiki/Electronic_data_interchange)
 - [RedHat - 8.6. CREATING AND MODIFYING SYSTEMD UNIT FILES](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/sect-Managing_Services_with_systemd-Unit_Files.html)
 - [Building a Modern Computer from First Principles](http://www.nand2tetris.org/)
+- [Biggest Myths Concerning SystemDM (Pid Eins)](http://0pointer.de/blog/projects/the-biggest-myths.html)
 
 August 19th
 - [systemd System and Service Manager](https://www.freedesktop.org/wiki/Software/systemd/)
@@ -644,7 +645,6 @@ August 23rd
 - [SourceMaking.com - lotsa design patterns](https://sourcemaking.com)
 - ["Command" design pattern - DoFactory.com](http://www.dofactory.com/javascript/command-design-pattern)
 - [MicroPython - Python for microcontrollers](https://micropython.org/)
-- [man-pages - FIND(1)]()
 - [Recursively find files with a specific extension Linux command](http://stackoverflow.com/questions/25693638/recursively-find-files-with-a-specific-extension-linux-command)
 - [Customising the LightDM GTK Greeter](https://arcticdog.wordpress.com/2012/02/08/customising-the-lightdm-gtk-greeter/)
 - [Ubuntu Wiki - LightDM](https://wiki.ubuntu.com/LightDM)
@@ -653,7 +653,16 @@ August 23rd
 - [GtkBuilder — Build an interface from an XML UI definition](https://developer.gnome.org/gtk3/stable/GtkBuilder.html)
 - [Introducing the Glade Catalog](https://developer.gnome.org/gladeui/stable/catalogintro.html)
 - [Glade Packing Tutorial](http://prognotes.net/category/gtk-3/)
-- []()
+
+August 30th
+- [Operator precedence - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence#Associativity)
+- [LightDM.Greeter](https://lazka.github.io/pgi-docs/LightDM-1/classes/Greeter.html)
+- [lightdm-webkit-pretty-greeter (webkit1)](lightdm-webkit-pretty-greeter)
+- [Add a Typing Indicator to Your Chat App](https://www.pubnub.com/blog/2016-08-16-add-typing-indicator-to-your-react-based-chat-app/)
+- [docs.python - Functional Programming HOWTO](https://docs.python.org/2/howto/functional.html)
+- [mitpress.mit.edu/sicp](https://mitpress.mit.edu/sicp/)
+- [GTK 3 C Code Hello World Tutorial using Glade 3](http://prognotes.net/2016/03/gtk-3-c-code-hello-world-tutorial-using-glade-3/)
+- [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html)
 
 #### Hapi.js
 
@@ -882,6 +891,7 @@ August 23rd
 
 - [Go Back to the Previous Directory via Command Line (cd -)](http://osxdaily.com/2010/02/09/go-back-to-the-previous-directory-via-command-line/)
 - [The Terminal (furbo)](http://furbo.org/2014/09/03/the-terminal/)
+- [Bash Guide (wiki.wooledge)](http://mywiki.wooledge.org/BashGuide/)
 
 #### Docker
 - [Weird memory swapiness issue](https://github.com/docker/docker/issues/4250)

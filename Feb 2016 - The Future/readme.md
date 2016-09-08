@@ -1,6 +1,6 @@
 #### ARTICLES
 
-Time is really not a great way to organize these articles...
+By Date is really not a great way to organize these articles...
 
 ##### Code
 Feb 08 2016
@@ -664,6 +664,34 @@ August 30th
 - [GTK 3 C Code Hello World Tutorial using Glade 3](http://prognotes.net/2016/03/gtk-3-c-code-hello-world-tutorial-using-glade-3/)
 - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html)
 
+Sept 1st
+- [GraphQL: The next generation of API design](https://medium.com/apollo-stack/graphql-the-next-generation-of-api-design-f24b1689756a#.kghmwt77h)
+- [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.ohjf8695r)
+- [Literate Commits (based on D. Knuth's book)](http://www.east5th.co/blog/2016/07/11/literate-commits/)
+- [great response to 'WHY U NO MERGE?'](https://github.com/turbolinks/turbolinks/pull/124#issuecomment-239826060a)
+
+Sept 5th
+- [Promise anti patterns](https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns)
+- [Mathematical Consciousness (domenic)](https://blog.domenic.me/mathematical-consciousness/)
+- [Web scraping: Reliably and efficiently pull data from pages that don't expect it](https://youtu.be/52wxGESwQSA)
+- [The Ultimate Introduction to Web Scraping and Browser Automation - YouTube](https://www.youtube.com/watch?v=1UYBAn69Qrk)
+- [Learning the Linux File System - YouTube](https://www.youtube.com/watch?v=HIXzJ3Rz9po)
+- [Intro to Image Processing with the LZX Multimode Filter](https://youtu.be/KUciKSXzmic)
+- [Articulating Design Decisions](http://cdn.oreillystatic.com/oreilly/booksamplers/9781491921562_sampler.pdf)
+
+Sept 8th
+- [xolvio / qualityfaster (Chimp.js docs)](https://github.com/xolvio/qualityfaster/blob/master/.scripts/README.md#npm-test)
+- [chimp.js cheat sheet](https://chimp.readme.io/docs/cheat-sheet)
+- [Mitar's Point](http://mitar.tnode.com/)
+- [RFC #3: Andrew Nesbitt + Arfon Smith – Measuring Success in Open Source](https://changelog.com/rfc-3/)
+- [DELETE OCCURRENCES OF AN ELEMENT (a literate commit)](http://www.east5th.co/blog/2016/07/11/delete-occurrences-of-an-element/)
+- [Using Amazon Product Advertising API to get special “Sale” price](http://stackoverflow.com/questions/19555880/using-amazon-product-advertising-api-to-get-special-sale-price)
+- [Free Software Is Even More Important Now - GNU Project](https://www.gnu.org/philosophy/free-software-even-more-important.html)
+- [Citipati (Buddhism)](https://en.wikipedia.org/wiki/Citipati_(Buddhism))
+- [Bash Arguments (wiki.Wooledge)](http://mywiki.wooledge.org/Arguments)
+- [Bash Guide](http://mywiki.wooledge.org/BashGuide/)
+- [Pivitol Tracker - quick start](http://www.pivotaltracker.com/help/articles/quick_start/)
+
 #### Hapi.js
 
 - [Hapi: The Good Parts](https://chrisdecairos.ca/hapi-the-good-parts/)
@@ -680,6 +708,7 @@ August 30th
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
 - [John D. Cook's blog (functional)](http://www.johndcook.com/blog/tag/functional-programming/)
 - [swannodette/logic-tutorial](https://github.com/swannodette/logic-tutorial)
+- [React 2014 : Erik Meijer - What does it mean to be Reactive?](https://youtu.be/sTSQlYX5DU0)
 
 #### Haskell
 
@@ -836,6 +865,7 @@ August 30th
 
 
 #### React
+- [brillout / awesome-react-components](https://github.com/brillout/awesome-react-components)
 - [Test Utilities](https://facebook.github.io/react/docs/test-utils.html)
 - [Multiple Components](https://facebook.github.io/react/docs/multiple-components.html)
 - [JSX In Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
@@ -945,6 +975,7 @@ July 28th
 - [Expert says renewable energy in reach](http://www.dentonrc.com/local-news/local-news-headlines/20160325-expert-says-renewable-energy-in-reach.ece)
 - [How Denton Can Afford 100% Renewable Energy](http://adambriggle.com/2016/03/27/how-denton-can-afford-100-renewable-energy/)
 - [You, Ma’am, Need Jesus](https://adambriggle.com/2016/04/26/you-maam-need-jesus/)
+- [With Rubber Gloves Free Week Gone, How Does Denton Get UNT Students Out to Shows?](http://www.dallasobserver.com/music/without-free-week-how-does-denton-get-unt-students-involved-8656113)
 
 
 #### History

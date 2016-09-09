@@ -692,6 +692,13 @@ Sept 8th
 - [Bash Guide](http://mywiki.wooledge.org/BashGuide/)
 - [Pivitol Tracker - quick start](http://www.pivotaltracker.com/help/articles/quick_start/)
 
+Sept 9th
+- [How should international geographical addresses be stored in a relational database?](http://stackoverflow.com/questions/1159756/how-should-international-geographical-addresses-be-stored-in-a-relational-databa)
+- [Turning the Apple //e into a lisp machine, part 1](http://blog.nullspace.io/apple-2-lisp-part-1.html)
+- [The Recurse Center](https://www.recurse.com)
+- [Automate UI Testing in iOS](https://developer.apple.com/library/tvos/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/UIAutomation.html)
+- [Two's complement](https://en.wikipedia.org/wiki/Two%27s_complement)
+
 #### Hapi.js
 
 - [Hapi: The Good Parts](https://chrisdecairos.ca/hapi-the-good-parts/)

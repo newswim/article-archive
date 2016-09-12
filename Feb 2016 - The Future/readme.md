@@ -699,6 +699,15 @@ Sept 9th
 - [Automate UI Testing in iOS](https://developer.apple.com/library/tvos/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/UIAutomation.html)
 - [Two's complement](https://en.wikipedia.org/wiki/Two%27s_complement)
 
+Sept 12th
+- [Go By Example - Structs](https://gobyexample.com/structs)
+- [React-With-Styles](https://github.com/airbnb/react-with-styles)
+- [Aphrodite - predictable in-line styles + pseudo selectors](https://github.com/khan/aphrodite)
+- [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
+- [Visual Studio Code - User defined snippets](http://code.visualstudio.com/docs/customization/userdefinedsnippets)
+- [Shebang (Unix)](https://en.wikipedia.org/wiki/Shebang_(Unix))
+- []()
+
 #### Hapi.js
 
 - [Hapi: The Good Parts](https://chrisdecairos.ca/hapi-the-good-parts/)

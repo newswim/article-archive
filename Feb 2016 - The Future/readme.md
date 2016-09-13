@@ -706,6 +706,23 @@ Sept 12th
 - [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
 - [Visual Studio Code - User defined snippets](http://code.visualstudio.com/docs/customization/userdefinedsnippets)
 - [Shebang (Unix)](https://en.wikipedia.org/wiki/Shebang_(Unix))
+- [Resemble.js - image diffing](http://huddle.github.io/Resemble.js/)
+- [Webdriver.io -  Page Object Pattern](http://webdriver.io/guide/testrunner/pageobjects.html)
+- [Mechanize - Web Automation library for Ruby](https://github.com/sparklemotion/mechanize)
+
+Sept 13th
+- [Subscriptions in Apollo Client](https://medium.com/apollo-stack/graphql-subscriptions-in-apollo-client-9a2457f015fb#.pch06tr38)
+- [So You Want to be a Functional Programmer (Part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a#.frgn60rgs)
+- [WD.io with local Selenium](https://github.com/cognitom/webdriverio-examples/tree/master/wdio-wo-local-selenium)
+- [What's new in WebDriver 4.0? (it's all synchronous)](http://webdriver.io/guide/getstarted/v4.html#It%E2%80%99s-all-synchronous)
+- [WDIO PhantomJS Service](https://github.com/cognitom/wdio-phantomjs-service)
+- [WebDriver Examples](https://github.com/webdriverio/webdriverio/tree/master/examples)
+- [Continuation-passing style](https://en.wikipedia.org/wiki/Continuation-passing_style)
+- [xolvio / fiber-utils](https://github.com/xolvio/fiber-utils/blob/master/index.js)
+- [Dan North - Introducing BDD](https://dannorth.net/introducing-bdd/)
+- [Fetch Sandbox ** - Intro and explanation of Fetch API :star2::sparkles::star2:](https://github.com/jshcrowthe/fetch-sandbox)
+- [Jest - Tutorial for React](https://facebook.github.io/jest/docs/tutorial-react.html)
+- []()
 - []()
 
 #### Hapi.js

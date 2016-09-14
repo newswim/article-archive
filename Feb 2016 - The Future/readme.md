@@ -680,8 +680,6 @@ Sept 5th
 - [Articulating Design Decisions](http://cdn.oreillystatic.com/oreilly/booksamplers/9781491921562_sampler.pdf)
 
 Sept 8th
-- [xolvio / qualityfaster (Chimp.js docs)](https://github.com/xolvio/qualityfaster/blob/master/.scripts/README.md#npm-test)
-- [chimp.js cheat sheet](https://chimp.readme.io/docs/cheat-sheet)
 - [Mitar's Point](http://mitar.tnode.com/)
 - [RFC #3: Andrew Nesbitt + Arfon Smith – Measuring Success in Open Source](https://changelog.com/rfc-3/)
 - [DELETE OCCURRENCES OF AN ELEMENT (a literate commit)](http://www.east5th.co/blog/2016/07/11/delete-occurrences-of-an-element/)
@@ -707,23 +705,42 @@ Sept 12th
 - [Visual Studio Code - User defined snippets](http://code.visualstudio.com/docs/customization/userdefinedsnippets)
 - [Shebang (Unix)](https://en.wikipedia.org/wiki/Shebang_(Unix))
 - [Resemble.js - image diffing](http://huddle.github.io/Resemble.js/)
-- [Webdriver.io -  Page Object Pattern](http://webdriver.io/guide/testrunner/pageobjects.html)
 - [Mechanize - Web Automation library for Ruby](https://github.com/sparklemotion/mechanize)
 
 Sept 13th
 - [Subscriptions in Apollo Client](https://medium.com/apollo-stack/graphql-subscriptions-in-apollo-client-9a2457f015fb#.pch06tr38)
 - [So You Want to be a Functional Programmer (Part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a#.frgn60rgs)
+- [Fetch Sandbox ** - Intro and explanation of Fetch API :star2::sparkles::star2:](https://github.com/jshcrowthe/fetch-sandbox)
+- [Jest - Tutorial for React](https://facebook.github.io/jest/docs/tutorial-react.html)
+- [Wes Bos' Blog](http://wesbos.com/blog/)
+- [Dan North - Introducing BDD](https://dannorth.net/introducing-bdd/)
+
+Sept 14th
+- [Promises in Node.js – An Alternative to Callbacks](https://strongloop.com/strongblog/promises-in-node-js-an-alternative-to-callbacks/)
+- [Structural Sharing in Clojure - Stack Overflow](http://stackoverflow.com/questions/8992184/structural-sharing-in-clojure)
+- [Persistent data structure](https://en.wikipedia.org/wiki/Persistent_data_structure)
+- [polymatheia - Understanding Clojure's Persistent Vector, pt. 1](http://hypirion.com/musings/understanding-persistent-vector-pt-1)
+- [Why I Like Go](https://gist.github.com/freeformz/4746274)
+- [Unikernel.org/projects](http://unikernel.org/projects/)
+- [Mirage.io](https://mirage.io/)
+- [Unikernel Systems Joins Docker](https://blog.docker.com/2016/01/unikernel/)
+- [Microkernel](https://en.wikipedia.org/wiki/Microkernel)
+- [Microcontainers – Tiny, Portable Docker Containers](https://www.iron.io/microcontainers-tiny-portable-containers/)
+
+
+### Chimp / WebDriver.io / Selenium testing framework
+- [Chimp scripts for starting and testing](https://github.com/xolvio/qualityfaster/blob/master/.scripts/README.md#npm-test)
+- [wdio-sync spec](https://github.com/webdriverio/wdio-sync/blob/master/test/wdio-sync.spec.js)
+- [Setting up Selenium with NodeJS](http://rapidtrade.screenstepslive.com/s/standards/m/51334/l/473393-setting-up-selenium-with-nodejs)
+- [Webdriver.io -  Page Object Pattern](http://webdriver.io/guide/testrunner/pageobjects.html)
+- [xolvio / qualityfaster (Chimp.js docs)](https://github.com/xolvio/qualityfaster/blob/master/.scripts/README.md#npm-test)
+- [chimp.js cheat sheet](https://chimp.readme.io/docs/cheat-sheet)
 - [WD.io with local Selenium](https://github.com/cognitom/webdriverio-examples/tree/master/wdio-wo-local-selenium)
 - [What's new in WebDriver 4.0? (it's all synchronous)](http://webdriver.io/guide/getstarted/v4.html#It%E2%80%99s-all-synchronous)
 - [WDIO PhantomJS Service](https://github.com/cognitom/wdio-phantomjs-service)
 - [WebDriver Examples](https://github.com/webdriverio/webdriverio/tree/master/examples)
-- [Continuation-passing style](https://en.wikipedia.org/wiki/Continuation-passing_style)
 - [xolvio / fiber-utils](https://github.com/xolvio/fiber-utils/blob/master/index.js)
-- [Dan North - Introducing BDD](https://dannorth.net/introducing-bdd/)
-- [Fetch Sandbox ** - Intro and explanation of Fetch API :star2::sparkles::star2:](https://github.com/jshcrowthe/fetch-sandbox)
-- [Jest - Tutorial for React](https://facebook.github.io/jest/docs/tutorial-react.html)
-- []()
-- []()
+
 
 #### Hapi.js
 
@@ -738,10 +755,14 @@ Sept 13th
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [Mostly Adequate Guide to FP (in JS)](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - [Currying vs Partial Application](http://www.datchley.name/currying-vs-partial-application/)
+- [Continuation-Passing Style](https://en.wikipedia.org/wiki/Continuation-passing_style)
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
 - [John D. Cook's blog (functional)](http://www.johndcook.com/blog/tag/functional-programming/)
 - [swannodette/logic-tutorial](https://github.com/swannodette/logic-tutorial)
 - [React 2014 : Erik Meijer - What does it mean to be Reactive?](https://youtu.be/sTSQlYX5DU0)
+- [Favoring Curry](http://fr.umio.us/favoring-curry/)
+- [Thinking In Ramda (9 parts)](http://randycoulman.com/blog/categories/thinking-in-ramda/)
+- [Using Ramda With Redux](http://randycoulman.com/blog/2016/02/16/using-ramda-with-redux/)
 
 #### Haskell
 

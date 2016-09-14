@@ -727,6 +727,14 @@ Sept 14th
 - [Microkernel](https://en.wikipedia.org/wiki/Microkernel)
 - [Microcontainers – Tiny, Portable Docker Containers](https://www.iron.io/microcontainers-tiny-portable-containers/)
 
+Sept 15th
+- [npm-scripts - How npm handles the "scripts" field](https://docs.npmjs.com/misc/scripts)
+- [JSON5 - modern json](http://json5.org/)
+- []()
+- []()
+- []()
+- []()
+
 
 ### Chimp / WebDriver.io / Selenium testing framework
 - [Chimp scripts for starting and testing](https://github.com/xolvio/qualityfaster/blob/master/.scripts/README.md#npm-test)
@@ -740,7 +748,10 @@ Sept 14th
 - [WDIO PhantomJS Service](https://github.com/cognitom/wdio-phantomjs-service)
 - [WebDriver Examples](https://github.com/webdriverio/webdriverio/tree/master/examples)
 - [xolvio / fiber-utils](https://github.com/xolvio/fiber-utils/blob/master/index.js)
-
+- [Assert Selenium (blog)](http://www.assertselenium.com/)
+- [PhantomJS - Headless Testing](http://phantomjs.org/headless-testing.html)
+- [Testem - a test runner](https://github.com/testem/testem)
+- [Functional Testing For Node.js Using Mocha and Zombie.js](http://www.redotheweb.com/2013/01/15/functional-testing-for-nodejs-using-mocha-and-zombie-js.html)
 
 #### Hapi.js
 
@@ -818,6 +829,7 @@ Sept 14th
 - [REST API downfalls, and dawn of GraphQL](https://medium.com/@ottovw/rest-api-downfalls-and-dawn-of-graphql-dd00991a0eb8#.w0jpyfmn5)
 - [GraphQL - The Evolution of Data Fetching (slides)](http://bendiuguid.com/long-live-graphql/#/?_k=dzm2ok)
 - [Demand-driven architecture: Relay, Falcor, Om.Next](https://medium.com/@env/demand-driven-development-relay-falcor-om-next-75818bd54ea1#.yzpbojv9h)
+- [The GitHub GraphQL API](http://githubengineering.com/the-github-graphql-api/)
 
 #### Apollo Stack
 

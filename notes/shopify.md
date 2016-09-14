@@ -10,3 +10,6 @@
 - https://www.shopify.com/blog/46748037-how-to-sync-your-shopify-store-with-intuit-quickbooks-online
 - https://firstdataclientsgge4.zendesk.com/entries/41851007-Shopify-Shopping-Cart-2-0-above-Webservice-API-Cart-Hosted-
 - https://wiki.vtiger.com/vtiger6/index.php/Quickbooks_Online#Getting_Started
+
+### How to make changes
+- [Shopify Theme Development](https://robots.thoughtbot.com/shopify-theme-development)

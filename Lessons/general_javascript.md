@@ -14,6 +14,3 @@
 
 
 #### Manipulating data with Lodash
-
-
-#### 

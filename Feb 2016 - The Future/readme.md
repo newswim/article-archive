@@ -730,11 +730,17 @@ Sept 14th
 Sept 15th
 - [npm-scripts - How npm handles the "scripts" field](https://docs.npmjs.com/misc/scripts)
 - [JSON5 - modern json](http://json5.org/)
-- []()
-- []()
-- []()
-- []()
+- [Straightforward (live) functional JavaScript: Building the Yome widget](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html)
+- [Experimenting with Typed Arrays in Node.js](https://bl.ocks.org/MidnightLightning/7900466)
+- [HTML Canvas API - Using Images](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Using_images)
+- [Rigsomelight.com - Bruce Hauman's Blog](http://rigsomelight.com/)
+- [Rendering Reagent components](http://rigsomelight.com/devcards/#!/devdemos.reagent)
+- [Why Why Functional Programming Matters Matters](http://raganwald.com/2014/12/20/why-why-functional-programming-matters-matters.html)
+- [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html)
 
+
+### Linux GTK+ / LightDM
+- [Greeter docs](https://lazka.github.io/pgi-docs/LightDM-1/classes/Greeter.html)
 
 ### Chimp / WebDriver.io / Selenium testing framework
 - [Chimp scripts for starting and testing](https://github.com/xolvio/qualityfaster/blob/master/.scripts/README.md#npm-test)
@@ -753,14 +759,17 @@ Sept 15th
 - [Testem - a test runner](https://github.com/testem/testem)
 - [Functional Testing For Node.js Using Mocha and Zombie.js](http://www.redotheweb.com/2013/01/15/functional-testing-for-nodejs-using-mocha-and-zombie-js.html)
 
-#### Hapi.js
+### TDD or BDD
+- [The TDD Practice I wish I had](http://coderchronicles.org/2016/08/17/the-tdd-practice-i-wish-i-had/)
+
+### Hapi.js
 
 - [Hapi: The Good Parts](https://chrisdecairos.ca/hapi-the-good-parts/)
 - [How test your Hapi API with Lab](https://medium.com/@thedon/how-test-your-hapi-api-with-lab-b72f6e8ed641#.eck53a68u)
 - [How to configure reverse proxy in Hapi.js](https://medium.com/@uzysjung/how-to-configure-reverse-proxy-in-hapi-js-f5292414105f#.embruhhrs)
 
 
-#### Functional+Reactive Programming
+### Functional+Reactive Programming
 - [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
 - [What Is Functional Programming? (Kris Jenkins)](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
@@ -846,6 +855,9 @@ Sept 15th
 - [Architecting for performance](https://github.com/apollostack/apollo-client/issues/128)
 - [Apollo AMA](https://hashnode.com/ama/with-apollo-team-ciqanu1mh002l8b53of65z3da)
 - [Apollo Server 0.2: GraphQL with Express, Connect, HAPI or Koa](https://medium.com/apollo-stack/apollo-server-0-2-graphql-with-express-connect-hapi-or-koa-7e06b0a8fdb1#.5rxge6udm)
+- [Mock your GraphQL data based on a schema](http://dev.apollodata.com/tools/graphql-tools/mocking.html)
+- [Generate GraphQL Syntax (catalogue by @apollostack)](https://github.com/apollostack/graphql-syntax)
+- [Interactive tour of GitHunt API](https://www.codetours.xyz/tour/partyparrot/GitHunt-API-code-tour)
 
 #### Gitlab / Docker Engine | | HOWDOICI
 

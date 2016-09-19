@@ -738,6 +738,31 @@ Sept 15th
 - [Why Why Functional Programming Matters Matters](http://raganwald.com/2014/12/20/why-why-functional-programming-matters-matters.html)
 - [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html)
 
+Sept 16th
+- [Solar Basics – kW and kWh](http://www.lightsonsolar.com/solar-basics-kw-and-kwh/)
+- [Beyond Functional Programming with Elixir and Erlang](http://blog.plataformatec.com.br/2016/05/beyond-functional-programming-with-elixir-and-erlang/)
+- [Prag Dave - speaking](https://pragdave.me/speak/)
+- [Generators vs Fibers](https://howtonode.org/generators-vs-fibers)
+- [CodeTours - Meteor](https://www.codetours.xyz/tour/stubailo/meteor-ddp-codetour)
+- [Davidad's Blog](http://davidad.github.io)
+- [ZDDs defined](https://crypto.stanford.edu/pbc/notes/zdd/zdd.html)
+- [ZDDs introduction :star:](https://crypto.stanford.edu/pbc/notes/zdd/)
+- [RailsConf 09: Robert Martin, "What Killed Smalltalk Could Kill Ruby - YouTube](https://www.youtube.com/watch?v=YX3iRjKj7C0)
+- [Pair Programming Guide](https://docs.google.com/document/d/1MlPOvsL_Z5rlNfifuXeqk6u65giUGS-PqHKgFcwErX4/edit)
+- [CSS Modules and React](https://css-tricks.com/css-modules-part-3-react/)
+
+Sept 19th
+- [The Pull Request Hack](http://felixge.de/2013/03/11/the-pull-request-hack.html)
+- [Urbit.org - Decentralized internets](https://urbit.org)
+- [Urbit - Twig syntax](https://urbit.org/docs/hoon/twig/)
+- [Urbit - Docs](https://urbit.org/docs/)
+- [Urbit at LambdaConf 2016 (bootleg)](https://youtu.be/rkZ3GkeU9kg)
+- [Welcome to Urbit](https://youtu.be/g1qroWiZF90)
+- [Replumb - ClojureScript plumbing for your self-hosted REPLs](https://github.com/Lambda-X/replumb)
+- [Clojurescript.io - uses Replumb, very cool](http://clojurescript.io/)
+- []()
+- []()
+- []()
 
 ### Linux GTK+ / LightDM
 - [Greeter docs](https://lazka.github.io/pgi-docs/LightDM-1/classes/Greeter.html)
@@ -839,6 +864,9 @@ Sept 15th
 - [GraphQL - The Evolution of Data Fetching (slides)](http://bendiuguid.com/long-live-graphql/#/?_k=dzm2ok)
 - [Demand-driven architecture: Relay, Falcor, Om.Next](https://medium.com/@env/demand-driven-development-relay-falcor-om-next-75818bd54ea1#.yzpbojv9h)
 - [The GitHub GraphQL API](http://githubengineering.com/the-github-graphql-api/)
+
+##### GraphQL Marketing
+- [How GraphQL taught me to code client apps](https://medium.com/@gregoryziegan/how-graphql-taught-me-to-code-client-apps-1c631a9953bd#.6pseumpwo)
 
 #### Apollo Stack
 

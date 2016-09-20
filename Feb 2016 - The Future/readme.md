@@ -760,9 +760,16 @@ Sept 19th
 - [Welcome to Urbit](https://youtu.be/g1qroWiZF90)
 - [Replumb - ClojureScript plumbing for your self-hosted REPLs](https://github.com/Lambda-X/replumb)
 - [Clojurescript.io - uses Replumb, very cool](http://clojurescript.io/)
-- []()
-- []()
-- []()
+- [The power of protocol analyzers](http://arstechnica.com/information-technology/2016/09/the-power-of-protocol-analyzers/)
+- [DWYL / Hapi-Riot](https://github.com/dwyl/hapi-riot)
+- [DWYL / Learn Hapi](https://github.com/dwyl/learn-hapi)
+- [DWYL / Learn Riot](https://github.com/dwyl/learn-riot)
+- [DWYL / Learn Karma](https://github.com/dwyl/learn-karma)
+- [ES6 In Depth: Template strings](https://hacks.mozilla.org/2015/05/es6-in-depth-template-strings-2/)
+
+Sept 20th
+- [Documentation Handbook - How-to guide for writing docs](https://github.com/thejameskyle/documentation-handbook)
+- [How to get "create-react-app" to work with your API](https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/)
 
 ### Linux GTK+ / LightDM
 - [Greeter docs](https://lazka.github.io/pgi-docs/LightDM-1/classes/Greeter.html)

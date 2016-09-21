@@ -771,6 +771,16 @@ Sept 20th
 - [Documentation Handbook - How-to guide for writing docs](https://github.com/thejameskyle/documentation-handbook)
 - [How to get "create-react-app" to work with your API](https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/)
 
+
+### MQTT && IOT
+
+- [Getting Started with Node.js and MQTT](https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/)
+- [mcollina / mosca](https://github.com/mcollina/mosca)
+- [mcollina / ascoltatori](https://github.com/mcollina/ascoltatori)
+- [ZeroMQ (ascoltatori in a p2p fashion)](http://zeromq.org)
+- [RabbitMQ](http://www.rabbitmq.com/)
+- [MongoDB Capped Collection](https://docs.mongodb.com/manual/core/capped-collections/)
+
 ### Linux GTK+ / LightDM
 - [Greeter docs](https://lazka.github.io/pgi-docs/LightDM-1/classes/Greeter.html)
 

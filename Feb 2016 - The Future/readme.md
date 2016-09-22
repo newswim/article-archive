@@ -771,6 +771,29 @@ Sept 20th
 - [Documentation Handbook - How-to guide for writing docs](https://github.com/thejameskyle/documentation-handbook)
 - [How to get "create-react-app" to work with your API](https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/)
 
+Sept 21st
+- [Serverless Zone - info on serverless IoT networks](https://serverless.zone/)
+- [How to automate tests and deployments of Node.js apps](https://medium.com/@BuddyWorks/how-to-automate-tests-and-deployments-of-node-js-apps-76f9cfdc6937#.ox83iveof)
+- [ArcGIS API 4 for JavaScript](https://developers.arcgis.com/javascript/)
+- [ArcGIS Presentation from ESRI 380](https://video.esri.com/watch/5040/arcgis-api-4-for-javascript)
+
+Sept 22nd
+- [LearnLayout.com](http://learnlayout.com/)
+- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+- [CSS Layout and React Art](CSS-Layout and React-Art)
+- [6 Ways to Bind JavaScript’s this Keyword in React, ES6 & ES7](https://www.sitepoint.com/bind-javascripts-this-keyword-react/)
+- [ES-Next // stage-0 to stage-4 ECMAscript proposals](https://github.com/hemanth/es-next)
+- [Nuclear.js - Reactive Flux + immutable data structures](https://github.com/optimizely/nuclear-js) - [homepage](https://optimizely.github.io/nuclear-js/)
+- [Opensensors.io](https://www.opensensors.io/)
+- [Taking the Air at the Turk’s Head](http://blog.opensensors.io/blog/2015/12/18/taking-the-air-at-the-turks-head/)
+- []()
+- []()
+
+
+
+### Electrical Engineering and Hardware Architecture
+- [Digital signal processor](https://en.wikipedia.org/wiki/Digital_signal_processor)
+- [Analog-to-digital converter](https://en.wikipedia.org/wiki/Analog-to-digital_converter)
 
 ### MQTT && IOT
 
@@ -780,11 +803,13 @@ Sept 20th
 - [ZeroMQ (ascoltatori in a p2p fashion)](http://zeromq.org)
 - [RabbitMQ](http://www.rabbitmq.com/)
 - [MongoDB Capped Collection](https://docs.mongodb.com/manual/core/capped-collections/)
+- [AWS IoT with the Serverless Framework](https://serverless.zone/iot-with-the-serverless-framework-e228fae87be#.i6115nnnl)
 
 ### Linux GTK+ / LightDM
 - [Greeter docs](https://lazka.github.io/pgi-docs/LightDM-1/classes/Greeter.html)
 
-### Chimp / WebDriver.io / Selenium testing framework
+### Chimp / WebDriver.io / Selenium testing frameworkerial
+- [W3C Working Draft - WebDriver](https://www.w3.org/TR/webdriver/)
 - [Chimp scripts for starting and testing](https://github.com/xolvio/qualityfaster/blob/master/.scripts/README.md#npm-test)
 - [wdio-sync spec](https://github.com/webdriverio/wdio-sync/blob/master/test/wdio-sync.spec.js)
 - [Setting up Selenium with NodeJS](http://rapidtrade.screenstepslive.com/s/standards/m/51334/l/473393-setting-up-selenium-with-nodejs)
@@ -825,6 +850,15 @@ Sept 20th
 - [Favoring Curry](http://fr.umio.us/favoring-curry/)
 - [Thinking In Ramda (9 parts)](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 - [Using Ramda With Redux](http://randycoulman.com/blog/2016/02/16/using-ramda-with-redux/)
+
+## Languages
+
+#### Go-lang
+
+- [Homepage](https://golang.org/)
+- [r/golang](https://www.reddit.com/r/golang/)
+- [Github Organization](https://github.com/golang)
+- [A tour of Go](https://tour.golang.org/welcome/1)
 
 #### Haskell
 
@@ -881,6 +915,7 @@ Sept 20th
 - [GraphQL - The Evolution of Data Fetching (slides)](http://bendiuguid.com/long-live-graphql/#/?_k=dzm2ok)
 - [Demand-driven architecture: Relay, Falcor, Om.Next](https://medium.com/@env/demand-driven-development-relay-falcor-om-next-75818bd54ea1#.yzpbojv9h)
 - [The GitHub GraphQL API](http://githubengineering.com/the-github-graphql-api/)
+- [Native code generation at Facebook](https://medium.com/apollo-stack/native-code-generation-at-facebook-7d6d0db4f3ee#.jqm61ie5d)
 
 ##### GraphQL Marketing
 - [How GraphQL taught me to code client apps](https://medium.com/@gregoryziegan/how-graphql-taught-me-to-code-client-apps-1c631a9953bd#.6pseumpwo)
@@ -903,6 +938,8 @@ Sept 20th
 - [Mock your GraphQL data based on a schema](http://dev.apollodata.com/tools/graphql-tools/mocking.html)
 - [Generate GraphQL Syntax (catalogue by @apollostack)](https://github.com/apollostack/graphql-syntax)
 - [Interactive tour of GitHunt API](https://www.codetours.xyz/tour/partyparrot/GitHunt-API-code-tour)
+- [GraphQL Subscriptions in Apollo Client](https://medium.com/apollo-stack/graphql-subscriptions-in-apollo-client-9a2457f015fb#.ps03blzdd)
+- [Pagination and Infinite Scrolling in Apollo Client](https://medium.com/apollo-stack/pagination-and-infinite-scrolling-in-apollo-client-59ff064aac61#.1a4bmdxaj)
 
 #### Gitlab / Docker Engine | | HOWDOICI
 
@@ -928,7 +965,7 @@ Sept 20th
 - [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
 
 
-#### Functional Programming
+### Functional Programming
 - [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 1](http://jrsinclair.com/articles/2016/gentle-introhttp://stackoverflow.com/questions/208835/function-pointers-closures-and-lambdaduction-to-functional-javascript-intro/)
 - [Descartes, Berkeley and Functional Reactive Programming](https://gist.github.com/dmvaldman/f957dd9a8ed3f6edf35d)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
@@ -959,6 +996,14 @@ Sept 20th
 - [Elm 0.12.1 - Fast, Immutable Arrays](http://elm-lang.org/blog/announce/0.12.1)
 - [RRB-Trees: Efficient Immutable Vectors](http://infoscience.epfl.ch/record/169879/files/RMTrees.pdf)
 - [Elm by Example - Soup To Nuts](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
+
+
+#### Clojurescript
+- [CLJS Cheatsheet](http://cljs.info/cheatsheet/)
+- [ClojureScript + React.js - Norbert Wójtowicz, 2015](https://youtu.be/6_mbxaRDA-s)
+- [ClojureScript Koans](http://clojurescriptkoans.com/)
+- [Clojurescript.net](http://clojurescript.net/)
+
 
 #### Testing
 

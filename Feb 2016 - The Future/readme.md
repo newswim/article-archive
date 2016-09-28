@@ -786,9 +786,11 @@ Sept 22nd
 - [Nuclear.js - Reactive Flux + immutable data structures](https://github.com/optimizely/nuclear-js) - [homepage](https://optimizely.github.io/nuclear-js/)
 - [Opensensors.io](https://www.opensensors.io/)
 - [Taking the Air at the Turk’s Head](http://blog.opensensors.io/blog/2015/12/18/taking-the-air-at-the-turks-head/)
-- []()
-- []()
+- [Dockerize your WebdriverIO environment to run everywhere](http://blog.ricca509.me/dockerize-your-selenium-tests-to-run-everywhere/)
 
+Sept 23rd
+- [How UI Animation Improves UX](https://www.redspace.com/etc/how-ui-animation-improves-the-user-experience/)
+- [Bringing SVG Graphics to life with React](https://www.thinkful.com/projects/bringing-svg-graphics-to-life-with-react-432/)
 
 
 ### Electrical Engineering and Hardware Architecture
@@ -825,6 +827,9 @@ Sept 22nd
 - [PhantomJS - Headless Testing](http://phantomjs.org/headless-testing.html)
 - [Testem - a test runner](https://github.com/testem/testem)
 - [Functional Testing For Node.js Using Mocha and Zombie.js](http://www.redotheweb.com/2013/01/15/functional-testing-for-nodejs-using-mocha-and-zombie-js.html)
+
+### Selenium specific
+- [The Selenium Browser Automation Project - new Docs](https://seleniumhq.github.io/docs/)
 
 ### TDD or BDD
 - [The TDD Practice I wish I had](http://coderchronicles.org/2016/08/17/the-tdd-practice-i-wish-i-had/)

@@ -945,6 +945,7 @@ Sept 23rd
 - [Interactive tour of GitHunt API](https://www.codetours.xyz/tour/partyparrot/GitHunt-API-code-tour)
 - [GraphQL Subscriptions in Apollo Client](https://medium.com/apollo-stack/graphql-subscriptions-in-apollo-client-9a2457f015fb#.ps03blzdd)
 - [Pagination and Infinite Scrolling in Apollo Client](https://medium.com/apollo-stack/pagination-and-infinite-scrolling-in-apollo-client-59ff064aac61#.1a4bmdxaj)
+- [Apollo + React](http://dev.apollodata.com/react/)
 
 #### Gitlab / Docker Engine | | HOWDOICI
 
@@ -971,7 +972,7 @@ Sept 23rd
 
 
 ### Functional Programming
-- [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 1](http://jrsinclair.com/articles/2016/gentle-introhttp://stackoverflow.com/questions/208835/function-pointers-closures-and-lambdaduction-to-functional-javascript-intro/)
+- [A Gentle Introduction To Functional JavaScript: PART 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
 - [Descartes, Berkeley and Functional Reactive Programming](https://gist.github.com/dmvaldman/f957dd9a8ed3f6edf35d)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - [ML (programming language)](https://en.wikipedia.org/wiki/ML_(programming_language))
@@ -980,6 +981,16 @@ Sept 23rd
 - [Design Patterns in Functional programming by Scott Wlaschin (#yt)](https://youtu.be/4jusLF_Xz7Q)
 - [Why be functional? (by Rob Martin)](http://version2beta.com/articles/why_be_functional_post/)
 - [Design Patterns in Functional programming by Scott Wlaschin (#yt)](https://youtu.be/4jusLF_Xz7Q)
+
+### Set Theory & Category Theory
+- [Category Theory for Scientists, David I. Spivak (.pdf)](http://math.mit.edu/~dspivak/teaching/sp13/CT4S--static.pdf)
+- [Teach Yourself Logic: A Study Guide (and other Book Notes)](http://www.logicmatters.net/tyl/)
+- [Teach Yourself Logic 2016 (.pdf)](http://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2016.pdf)
+- [LogicMatters.net](http://www.logicmatters.net/)
+- [Introduction to Logic - Stanford University](https://www.coursera.org/learn/logic-introduction)
+- [Logic Tutorial - Harry Hiker](http://www.harryhiker.com/logic.htm)
+- [Logic & Proofs - Open Learning Initiative](http://oli.cmu.edu/courses/free-open/logic-proofs-course-details/)
+- [Quora - What is a good book to start learning about logic?](https://www.quora.com/What-is-a-good-book-to-start-learning-about-logic)
 
 
 ##### Elm Language

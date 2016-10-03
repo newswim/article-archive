@@ -2,7 +2,7 @@
 
 By Date is really not a great way to organize these articles...
 
-##### Code
+#### Code
 Feb 08 2016
 - [https://github.com/xolvio/whirlwind](https://github.com/xolvio/whirlwind)
 - [https://www.deepdotweb.com/2016/02/08/nsa-switches-to-quantum-resistant-cryptography/](https://www.deepdotweb.com/2016/02/08/nsa-switches-to-quantum-resistant-cryptography/)
@@ -786,12 +786,24 @@ Sept 22nd
 - [Nuclear.js - Reactive Flux + immutable data structures](https://github.com/optimizely/nuclear-js) - [homepage](https://optimizely.github.io/nuclear-js/)
 - [Opensensors.io](https://www.opensensors.io/)
 - [Taking the Air at the Turk’s Head](http://blog.opensensors.io/blog/2015/12/18/taking-the-air-at-the-turks-head/)
-- [Dockerize your WebdriverIO environment to run everywhere](http://blog.ricca509.me/dockerize-your-selenium-tests-to-run-everywhere/)
+
 
 Sept 23rd
 - [How UI Animation Improves UX](https://www.redspace.com/etc/how-ui-animation-improves-the-user-experience/)
 - [Bringing SVG Graphics to life with React](https://www.thinkful.com/projects/bringing-svg-graphics-to-life-with-react-432/)
+- [Interactive VIM Tutorial - OpenVIM](http://www.openvim.com/)
 
+
+### WebDriver
+- [Dockerize your WebdriverIO environment to run everywhere](http://blog.ricca509.me/dockerize-your-selenium-tests-to-run-everywhere/)
+- [WebDriverCSS](https://github.com/webdriverio/webdrivercss)
+- [LearnWebDriver.com](http://learnwebdriverio.com/)
+- [Learn Visual Regression Testing (6 day email course)](https://learn.visualregressiontesting.com/)
+
+### Testing
+- [Jasmine-Node](https://github.com/jasmine/jasmine-npm)
+- [Using Jasmine with Node (docs)](http://jasmine.github.io/2.1/node.html)
+- [Mocha.js](https://mochajs.org)
 
 ### Electrical Engineering and Hardware Architecture
 - [Digital signal processor](https://en.wikipedia.org/wiki/Digital_signal_processor)
@@ -835,11 +847,9 @@ Sept 23rd
 - [The TDD Practice I wish I had](http://coderchronicles.org/2016/08/17/the-tdd-practice-i-wish-i-had/)
 
 ### Hapi.js
-
 - [Hapi: The Good Parts](https://chrisdecairos.ca/hapi-the-good-parts/)
 - [How test your Hapi API with Lab](https://medium.com/@thedon/how-test-your-hapi-api-with-lab-b72f6e8ed641#.eck53a68u)
 - [How to configure reverse proxy in Hapi.js](https://medium.com/@uzysjung/how-to-configure-reverse-proxy-in-hapi-js-f5292414105f#.embruhhrs)
-
 
 ### Functional+Reactive Programming
 - [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
@@ -856,34 +866,33 @@ Sept 23rd
 - [Thinking In Ramda (9 parts)](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 - [Using Ramda With Redux](http://randycoulman.com/blog/2016/02/16/using-ramda-with-redux/)
 
-## Languages
+# Languages
 
-#### Go-lang
+### Go-lang
 
 - [Homepage](https://golang.org/)
 - [r/golang](https://www.reddit.com/r/golang/)
 - [Github Organization](https://github.com/golang)
 - [A tour of Go](https://tour.golang.org/welcome/1)
 
-#### Haskell
+### Haskell
 
 - [Haskell in 5 steps](https://wiki.haskell.org/Haskell_in_5_steps)
 - [Learn You A Haskell](http://learnyouahaskell.com/)
 - [Learning Haskell Wiki](https://wiki.haskell.org/Learning_Haskell)
 - [Yet Another Haskell Tutorial](http://www.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
 
-#### RegEx
-
+### RegEx
 - [Regexper](https://regexper.com)
 - [RegexOne](http://regexone.com)
 
-#### Mongo
+### Mongo
 - [Robe (ODM)](https://github.com/hiddentao/robe)
 - [Mongorito (ODM)](https://github.com/vdemedes/mongorito)
 - [Data Modeling Introduction](https://docs.mongodb.com/manual/core/data-modeling-introduction/)
 
 
-#### Yeoman
+### Yeoman
 - [Getting Started with Yeoman](http://yeoman.io/authoring/index.html)
 - [Testing Generators](http://yeoman.io/authoring/testing.html)
 - [Create A Custom Yeoman Generator in 4 Easy Steps](https://scotch.io/tutorials/create-a-custom-yeoman-generator-in-4-easy-steps)
@@ -892,7 +901,7 @@ Sept 23rd
 - [React Suite | Yeoman Generator](https://github.com/track0x1/generator-react-suite)
 
 
-#### GraphQL
+### GraphQL
 
 - [GraphQL Introduction](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 - [I'm a contributor to React, Immutable.js, and GraphQL at Facebook. Ask Me Anything! (Lee Byron)](https://www.codementor.io/ama/1237952640/facebook-react-contributer-lee-byron)
@@ -922,10 +931,10 @@ Sept 23rd
 - [The GitHub GraphQL API](http://githubengineering.com/the-github-graphql-api/)
 - [Native code generation at Facebook](https://medium.com/apollo-stack/native-code-generation-at-facebook-7d6d0db4f3ee#.jqm61ie5d)
 
-##### GraphQL Marketing
+#### GraphQL Marketing
 - [How GraphQL taught me to code client apps](https://medium.com/@gregoryziegan/how-graphql-taught-me-to-code-client-apps-1c631a9953bd#.6pseumpwo)
 
-#### Apollo Stack
+### Apollo Stack
 
 - [Official Site](http://docs.apollostack.com/)
 - [Official blog](https://medium.com/apollo-stack)
@@ -947,7 +956,7 @@ Sept 23rd
 - [Pagination and Infinite Scrolling in Apollo Client](https://medium.com/apollo-stack/pagination-and-infinite-scrolling-in-apollo-client-59ff064aac61#.1a4bmdxaj)
 - [Apollo + React](http://dev.apollodata.com/react/)
 
-#### Gitlab / Docker Engine | | HOWDOICI
+### Gitlab / Docker Engine | | HOWDOICI
 
 - [Using Dpl as deployment tool](http://doc.gitlab.com/ce/ci/deployment/README.html)
 - [Runners](http://doc.gitlab.com/ce/ci/runners/README.html)
@@ -963,7 +972,7 @@ Sept 23rd
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [Gitlab - reusing Docker containers between builds](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/issues/1107)
 
-#### Git & Git Flow
+### Git & Git Flow
 
 - [A successful Git branching model (original blog post)](http://nvie.com/posts/a-successful-git-branching-model/)
 - [Doing Gitflow in Node:  nodegit-flow](https://blog.axosoft.com/2016/07/07/nodegit-flow/)
@@ -971,7 +980,7 @@ Sept 23rd
 - [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
 
 
-### Functional Programming
+## Functional Programming
 - [A Gentle Introduction To Functional JavaScript: PART 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
 - [Descartes, Berkeley and Functional Reactive Programming](https://gist.github.com/dmvaldman/f957dd9a8ed3f6edf35d)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
@@ -993,7 +1002,7 @@ Sept 23rd
 - [Quora - What is a good book to start learning about logic?](https://www.quora.com/What-is-a-good-book-to-start-learning-about-logic)
 
 
-##### Elm Language
+#### Elm Language
 - [Learn by Example](http://elm-lang.org/examples)
 - [Elm Architecture](http://guide.elm-lang.org/architecture/index.html)
 - [Share-Elm](http://www.share-elm.com/)
@@ -1014,22 +1023,14 @@ Sept 23rd
 - [Elm by Example - Soup To Nuts](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
 
 
-#### Clojurescript
+### Clojurescript
 - [CLJS Cheatsheet](http://cljs.info/cheatsheet/)
 - [ClojureScript + React.js - Norbert Wójtowicz, 2015](https://youtu.be/6_mbxaRDA-s)
 - [ClojureScript Koans](http://clojurescriptkoans.com/)
 - [Clojurescript.net](http://clojurescript.net/)
 
 
-#### Testing
-
-- [Jasmine-Node](https://github.com/jasmine/jasmine-npm)
-- [Using Jasmine with Node (docs)](http://jasmine.github.io/2.1/node.html)
-- [Mocha.js](https://mochajs.org)
-
-
-#### Meteor / Mantra
-
+### Meteor / Mantra
 - [World of Mantra](https://voice.kadira.io/world-of-mantra-60c31d89f76c#.6z75lavn7)
 - [Mantra on Github](https://github.com/kadirahq/mantra)
 - [Mantra Spec](https://kadirahq.github.io/mantra/)
@@ -1048,7 +1049,7 @@ Sept 23rd
 - [Deploying and Hosting Meteor on Heroku & MongoLab for Free](https://medium.com/meteor-js/deploying-and-hosting-meteor-on-heroku-mongolab-for-free-37050a3ebd7e#.oose8wyte)
 
 
-#### React
+### React
 - [brillout / awesome-react-components](https://github.com/brillout/awesome-react-components)
 - [Test Utilities](https://facebook.github.io/react/docs/test-utils.html)
 - [Multiple Components](https://facebook.github.io/react/docs/multiple-components.html)
@@ -1093,34 +1094,31 @@ Sept 23rd
 - [Future of React Panel - Forward 4 Web Summit (early 2016)](https://www.youtube.com/watch?v=QIawK6kuQxs&index=22&list=PLndbWGuLoHebKI8krCzJU88Rf3TwhNZvH)
 
 
-#### React Native
+### React Native
 - [React Native: Books](http://www.reactnative.com/books/)
 
-#### Redux
-
+### Redux
 - [Redux-Tutorial (awesome annotated project)](https://github.com/happypoulp/redux-tutorial)
 - [A Comprehensive Guide to Test-First Development with Redux, React, and Immutable](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 
-#### Terminal / Bash
-
+### Terminal / Bash
 - [Go Back to the Previous Directory via Command Line (cd -)](http://osxdaily.com/2010/02/09/go-back-to-the-previous-directory-via-command-line/)
 - [The Terminal (furbo)](http://furbo.org/2014/09/03/the-terminal/)
 - [Bash Guide (wiki.wooledge)](http://mywiki.wooledge.org/BashGuide/)
 
-#### Docker
+### Docker
 - [Weird memory swapiness issue](https://github.com/docker/docker/issues/4250)
 - [Gist of the fix for ^]((https://gist.github.com/steakknife/9094991))
 
-#### Jade
+### Jade
 - [Jade API by example](http://naltatis.github.io/jade-syntax-docs/)
 - [Jade](http://jade-lang.com/) (official site)
 - [Compare jade/mustache/dust/more](https://strongloop.com/strongblog/compare-javascript-templates-jade-mustache-dust/)
 
-#### SVG
+### SVG
 - [Structured Grouping w/ <g> tag](https://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/)
 
-#### MDN Hot Links
-
+### MDN Hot Links
 - [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this#As_an_object_method)
 - [WindowTimers.setTimeout()](https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/setTimeout)
 - [Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)
@@ -1129,8 +1127,7 @@ Sept 23rd
 - [Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
 
 
-##### Politics
-
+### Politics
 - [Another Oil Crash Is Coming, and There May Be No Recovery](http://www.bloomberg.com/news/articles/2016-02-24/another-oil-crash-is-coming-and-there-may-be-no-recovery)
 - [Antonin Scalia: The Billion-Dollar Supreme Court Justice](https://theintercept.com/2016/02/27/antonin-scalia-the-billion-dollar-supreme-court-justice/)
 - [10 Reasons Why Conservatives Should Start Supporting Bernie Sanders Immediately](https://medium.com/@kimballmortensen/10-reasons-why-conservatives-should-start-supporting-bernie-sanders-immediately-7eb700302a2a#.gujawfwqc)
@@ -1153,7 +1150,7 @@ July 28th
 - [Dozens of Civilians Reported Dead in U.S.-Led Syria Airstrike (NYTimes, July 19, 2016)](http://www.nytimes.com/2016/07/20/world/middleeast/islamic-state-airstrikes-syria-civilian-casualties.html)
 
 
-(Denton)
+#### (Denton)
 - [Annetta Ramsay: City attorney far too powerful in Denton](http://www.dentonrc.com/opinion/columns-headlines/20160220-annetta-ramsay-city-attorney-far-too-powerful-in-denton.ece)
 - [Apple's letter to customers about backdoor policy](https://www.apple.com/customer-letter/)
 - [Expert says renewable energy in reach](http://www.dentonrc.com/local-news/local-news-headlines/20160325-expert-says-renewable-energy-in-reach.ece)
@@ -1162,47 +1159,39 @@ July 28th
 - [With Rubber Gloves Free Week Gone, How Does Denton Get UNT Students Out to Shows?](http://www.dallasobserver.com/music/without-free-week-how-does-denton-get-unt-students-involved-8656113)
 
 
-#### History
+### History
 - [Nueces massacre](https://en.wikipedia.org/wiki/Nueces_massacre)
 
 ### Philosophy
-
 - [The Philosopher of Feelings (Martha Nussbaum article in The New Yorker, July 25, 2016)](http://www.newyorker.com/magazine/2016/07/25/martha-nussbaums-moral-philosophies)
 
-##### Nature
-
+### Nature
 - [Science Board Checks EPA on Fracking Water Study](https://www.earthworksaction.org/earthblog/detail/science_board_checks_epa_on_fracking_water_study#.Vs6PGpMrJE7)
 
-##### Science
-
+### Science
 - [We Finally Know How Much the Dino-Killing Asteroid Reshaped Earth](http://www.smithsonianmag.com/science-nature/we-finally-know-how-much-dino-killing-asteroid-reshaped-earth-180958222/?no-ist)
 - [For the First Time, Witness the Shockwave of an Exploding Star](http://motherboard.vice.com/read/exploding-star-video-for-the-first-time-witness-the-shockwave-of-an-exploding-star?utm_source=mbfb)
 - [The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins (book)](http://www.amazon.com/The-Mushroom-End-World-Possibility/dp/0691162751?ie=UTF8&dpID=511BmqDOGoL&dpSrc=sims&preST=_SL500_SR89%2C135_&refRID=BH8T33AB5ZKY8Q9CP0F1&ref_=pd_rhf_eetyp_s_cp_2)
 - [The 7 biggest problems facing science, according to 270 scientists (Vox July 2016)](http://www.vox.com/2016/7/14/12016710/science-challeges-research-funding-peer-review-process#6?utm_campaign=vox.social&utm_medium=social&utm_content=voxdotcom&utm_source=twitter)
 
-##### Science: Op-ed
-
+### Science: Op-ed
 - [Think Less, Think Better](http://www.nytimes.com/2016/06/19/opinion/sunday/think-less-think-better.html)
 - [This is Elon: Tesla's CEO on the proposed acquisition of SolarCity](http://www.teslacentral.com/elon-teslas-ceo-proposed-acquisition-solarcity)
 
-##### Art
-
+### Art
 - [Shaye Saint John Forever (article from Vice)](http://www.vice.com/read/shaye-saint-john-is-forever-061)
 
-##### Somewhere in between
-
+### Somewhere in between
 - [Weird site on vortex-based mathematics](http://vbm.isteaching.com/)
 
 
-##### Music
-
+### Music
 - [Mimisiku - The Thrill of Living (album review)](http://www.sputnikmusic.com/review/69854/Mimisiku-The-Thrill-of-Living/)
 - [Download 30GB of lost cassettes from the 80s underground](http://www.factmag.com/2015/11/30/download-30-gigs-80s-cassette-underground/)
 - [First Listen: Sturgill Simpson, 'A Sailor's Guide To Earth'](http://www.npr.org/2016/04/07/473237504/first-listen-sturgill-simpson-a-sailors-guide-to-earth)
 - [Yowie (band)](https://en.wikipedia.org/wiki/Yowie_(band))
 
-##### Writing
-
+### Writing
 - [Allen Ginsberg’s Handwritten Poem For Bernie Sanders, “Burlington Snow” (1986)](http://www.openculture.com/2015/07/allen-ginsbergs-handwritten-poem-for-bernie-sanders-burlington-snow-1986.html)
 - [Untransltable Works](http://www.thebookoflife.org/untranslatable-words/)
 - [The Believer - Not Numb](http://logger.believermag.com/post/141644634521/not-numb)
@@ -1211,6 +1200,5 @@ July 28th
 - [Modern Pilgrims or The Visions of Young Anxious People](http://www.ourshoresrun.org/news/2016/7/17/modern-pilgrims-or)
 
 
-##### Other
-
+### Other
 - [You can trick your brain into not procrastinating](http://motherboard.vice.com/blog/you-can-trick-your-brain-into-not-procrastinating)

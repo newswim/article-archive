@@ -166,4 +166,3 @@ export const todoReducer(state = initialState, { type, payload }) {
 - Tries
 - Shared structure, saves reference to old object structure, creates a new lookup underneath it
 - functional paradigm around the library / API
--

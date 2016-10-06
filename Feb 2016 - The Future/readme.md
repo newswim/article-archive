@@ -793,6 +793,27 @@ Sept 23rd
 - [Bringing SVG Graphics to life with React](https://www.thinkful.com/projects/bringing-svg-graphics-to-life-with-react-432/)
 - [Interactive VIM Tutorial - OpenVIM](http://www.openvim.com/)
 
+Oct 3rd
+- [Snyk - secure your npm dependencies](https://snyk.io/)
+- [Modus Create - Frontend Dev Blog](https://medium.com/modus-create-front-end-development)
+- [Modus Create - Testing Patterns and Anti-Patterns](Testing Patterns and Anti-Patterns)
+- [Optimize ES6 Code For Output Minification (Ninja Tricks Included)](https://medium.com/modus-create-front-end-development/optimize-es6-output-size-performance-ninja-tricks-included-d4fc2d313f66#.8k9qbhp8r)
+- [State of JavaScript 2016 - frontend](http://stateofjs.com/2016/frontend/)
+- [Shopify App (adds API environment to your app)](https://github.com/Shopify/shopify_app)
+- [Go-lang MUX - a router and dispatcher](https://github.com/gorilla/mux)
+
+Oct 5th
+- [Vue 2.0 is here!](https://medium.com/the-vue-point/vue-2-0-is-here-ef1f26acf4b8#.504e1ygvh)
+- [Rick Scroll - High performance scrolling for React](https://github.com/implausible/rickscroll)
+
+Oct 8th
+- [Istanbul.js - JavaScript test coverage made simple.](https://istanbul.js.org/)
+- [Lee Byron's API proposal for React, dated March 10, 2013](https://gist.github.com/vjeux/f2b015d230cc1ab18ed1df30550495ed)
+- [MIT 6.851 Advanced Data Structures, Spring 2012 (full course :star::star:)](https://youtu.be/T0yzrZL1py0?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
+- [Erik Demaine - On Teaching Complex Content](https://youtu.be/z_QOKNpEVro)
+- [Benjamin Bratton. Design, Philosophy and A.I. 2016 - YT](https://youtu.be/4TIUVeOO5tk)
+- [Structs in Rust](https://doc.rust-lang.org/book/structs.html)
+- [Moral Machine - interactive moral decision games from MIT](http://moralmachine.mit.edu/)
 
 ### WebDriver
 - [Dockerize your WebdriverIO environment to run everywhere](http://blog.ricca509.me/dockerize-your-selenium-tests-to-run-everywhere/)

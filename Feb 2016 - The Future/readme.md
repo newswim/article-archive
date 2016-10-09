@@ -806,7 +806,7 @@ Oct 5th
 - [Vue 2.0 is here!](https://medium.com/the-vue-point/vue-2-0-is-here-ef1f26acf4b8#.504e1ygvh)
 - [Rick Scroll - High performance scrolling for React](https://github.com/implausible/rickscroll)
 
-Oct 8th
+Oct 7th
 - [Istanbul.js - JavaScript test coverage made simple.](https://istanbul.js.org/)
 - [Lee Byron's API proposal for React, dated March 10, 2013](https://gist.github.com/vjeux/f2b015d230cc1ab18ed1df30550495ed)
 - [MIT 6.851 Advanced Data Structures, Spring 2012 (full course :star::star:)](https://youtu.be/T0yzrZL1py0?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
@@ -814,6 +814,16 @@ Oct 8th
 - [Benjamin Bratton. Design, Philosophy and A.I. 2016 - YT](https://youtu.be/4TIUVeOO5tk)
 - [Structs in Rust](https://doc.rust-lang.org/book/structs.html)
 - [Moral Machine - interactive moral decision games from MIT](http://moralmachine.mit.edu/)
+
+Oct 8th
+- [ES Discuss - browsable, formatted archive of all the emails from es-discuss@mozilla.org](https://esdiscuss.org/)
+- [Free Weekly Online JavaScript Training!](http://blog.bitovi.com/free-weekly-online-javascript-training/)
+- [React 2014 : Dean Wampler - Reactive Design & Language Paradigms](https://youtu.be/4L3cYhfSUZs?t=46m25s)
+- [Polyglot Programming](https://deanwampler.github.io/polyglotprogramming/)
+- [Lightbend - Reactive Platform for Development](http://www.lightbend.com/platform/development)
+- [Performance concern of Let/Const](https://esdiscuss.org/topic/performance-concern-with-let-const)
+- [Is there any reason to use the “var” keyword in ES6?](http://programmers.stackexchange.com/questions/274342/is-there-any-reason-to-use-the-var-keyword-in-es6)
+- [Grapher - Collection Relationship Manager + GraphQL Like Data Fetcher](https://forums.meteor.com/t/grapher-collection-relationship-manager-graphql-like-data-fetcher/29732)
 
 ### WebDriver
 - [Dockerize your WebdriverIO environment to run everywhere](http://blog.ricca509.me/dockerize-your-selenium-tests-to-run-everywhere/)
@@ -860,6 +870,9 @@ Oct 8th
 - [PhantomJS - Headless Testing](http://phantomjs.org/headless-testing.html)
 - [Testem - a test runner](https://github.com/testem/testem)
 - [Functional Testing For Node.js Using Mocha and Zombie.js](http://www.redotheweb.com/2013/01/15/functional-testing-for-nodejs-using-mocha-and-zombie-js.html)
+- [Learn Visual Regression Testing](https://visualregressiontesting.com/)
+- [Take Action with WebdriverIO Commands](http://us10.campaign-archive2.com/?u=17d67d558ef439917f81518bc&id=5767c4fff8&e=a7af07ff01)
+- [Webdriver.io REPL (live debugging pkg for Atom)](https://github.com/kurtharriger/wdio-repl)
 
 ### Selenium specific
 - [The Selenium Browser Automation Project - new Docs](https://seleniumhq.github.io/docs/)
@@ -976,6 +989,8 @@ Oct 8th
 - [GraphQL Subscriptions in Apollo Client](https://medium.com/apollo-stack/graphql-subscriptions-in-apollo-client-9a2457f015fb#.ps03blzdd)
 - [Pagination and Infinite Scrolling in Apollo Client](https://medium.com/apollo-stack/pagination-and-infinite-scrolling-in-apollo-client-59ff064aac61#.1a4bmdxaj)
 - [Apollo + React](http://dev.apollodata.com/react/)
+- [A proposal for GraphQL subscriptions](https://medium.com/apollo-stack/a-proposal-for-graphql-subscriptions-1d89b1934c18#.75srbk2pq)
+
 
 ### Gitlab / Docker Engine | | HOWDOICI
 
@@ -1021,6 +1036,7 @@ Oct 8th
 - [Logic Tutorial - Harry Hiker](http://www.harryhiker.com/logic.htm)
 - [Logic & Proofs - Open Learning Initiative](http://oli.cmu.edu/courses/free-open/logic-proofs-course-details/)
 - [Quora - What is a good book to start learning about logic?](https://www.quora.com/What-is-a-good-book-to-start-learning-about-logic)
+- [Introduction to Category Theory 1](https://youtu.be/If6VUXZIB-4)
 
 
 #### Elm Language

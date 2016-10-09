@@ -825,6 +825,15 @@ Oct 8th
 - [Is there any reason to use the “var” keyword in ES6?](http://programmers.stackexchange.com/questions/274342/is-there-any-reason-to-use-the-var-keyword-in-es6)
 - [Grapher - Collection Relationship Manager + GraphQL Like Data Fetcher](https://forums.meteor.com/t/grapher-collection-relationship-manager-graphql-like-data-fetcher/29732)
 
+Oct 9th
+- [Anjana Vakil - Using and abusing Python’s double-underscore methods and attributes](https://youtu.be/WKu7T976WkA)
+- [^ repo](https://github.com/vakila/dunders)
+- [^ her blog](http://vakila.github.io/)
+- [MDN - WebDriver](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Marionette/WebDriver)
+- [MDN - Marionette](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Marionette)
+- [Modern JS Stack Training](https://github.com/verekia/modern-js-stack-training)
+- [Open MCT - NASA does Node.js](https://nasa.github.io/openmct)
+
 ### WebDriver
 - [Dockerize your WebdriverIO environment to run everywhere](http://blog.ricca509.me/dockerize-your-selenium-tests-to-run-everywhere/)
 - [WebDriverCSS](https://github.com/webdriverio/webdrivercss)

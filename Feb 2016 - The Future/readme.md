@@ -834,6 +834,23 @@ Oct 9th
 - [Modern JS Stack Training](https://github.com/verekia/modern-js-stack-training)
 - [Open MCT - NASA does Node.js](https://nasa.github.io/openmct)
 
+Oct 10th
+- [Pavel Tsatsouline on the Science of Strength and the Art of Physical Performance - Podcast](http://fourhourworkweek.com/2015/01/15/pavel-tsatsouline/)
+- [Changelog - #214: Libscore, Velocity.js, and Hacking with Julian Shapiro](https://changelog.com/214/)
+- [Julian Shapiro - growing muscle guide](https://www.julian.com/learn/muscle/prep)
+- [Physics Classroom - Electric Current](http://www.physicsclassroom.com/class/circuits/Lesson-2/Electric-Current)
+- [Google, Facebook and other tech titans form 'Partnership on AI'](https://www.engadget.com/2016/09/29/partnership-on-ai/)
+- [Making Humans a Multiplanetary Species - Elon Musk, SpaceX](https://www.youtube.com/watch?v=H7Uyfqi_TE8)
+- [A demonstration of using `create-react-app` with a server](https://github.com/fullstackreact/food-lookup-demo)
+- [How to get "create-react-app" to work with your API](https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/)
+- [About HTML5 WebSocket](https://www.websocket.org/aboutwebsocket.html)
+- [Dotfiles Are Meant to Be Forked](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
+- [Progressive Web Apps with React.js: Part 3 — Offline support and network resilience (Addy Osmani)](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c#.ngio1yygr)
+- [The Big Ball of Mud](http://www.laputan.org/mud)
+- []()
+- []()
+- []()
+
 ### WebDriver
 - [Dockerize your WebdriverIO environment to run everywhere](http://blog.ricca509.me/dockerize-your-selenium-tests-to-run-everywhere/)
 - [WebDriverCSS](https://github.com/webdriverio/webdrivercss)
@@ -1067,7 +1084,10 @@ Oct 9th
 - [Elm 0.12.1 - Fast, Immutable Arrays](http://elm-lang.org/blog/announce/0.12.1)
 - [RRB-Trees: Efficient Immutable Vectors](http://infoscience.epfl.ch/record/169879/files/RMTrees.pdf)
 - [Elm by Example - Soup To Nuts](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
+- [elm-postgrest](https://github.com/john-kelly/elm-postgrest)
 
+#### Elm Talks
+- [Evan Czaplicki - Let's be mainstream! User focused design in Elm - Curry On](https://www.youtube.com/watch?v=oYk8CKH7OhE)
 
 ### Clojurescript
 - [CLJS Cheatsheet](http://cljs.info/cheatsheet/)
@@ -1146,6 +1166,7 @@ Oct 9th
 ### Redux
 - [Redux-Tutorial (awesome annotated project)](https://github.com/happypoulp/redux-tutorial)
 - [A Comprehensive Guide to Test-First Development with Redux, React, and Immutable](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+- [Mastering Meteor + Redux — Syllabus](https://medium.com/modern-user-interfaces/mastering-meteor-redux-syllabus-9bf9e1515cbf#.48las9v80)
 
 ### Terminal / Bash
 - [Go Back to the Previous Directory via Command Line (cd -)](http://osxdaily.com/2010/02/09/go-back-to-the-previous-directory-via-command-line/)

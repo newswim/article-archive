@@ -709,7 +709,6 @@ Sept 12th
 
 Sept 13th
 - [Subscriptions in Apollo Client](https://medium.com/apollo-stack/graphql-subscriptions-in-apollo-client-9a2457f015fb#.pch06tr38)
-- [So You Want to be a Functional Programmer (Part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a#.frgn60rgs)
 - [Fetch Sandbox ** - Intro and explanation of Fetch API :star2::sparkles::star2:](https://github.com/jshcrowthe/fetch-sandbox)
 - [Jest - Tutorial for React](https://facebook.github.io/jest/docs/tutorial-react.html)
 - [Wes Bos' Blog](http://wesbos.com/blog/)
@@ -847,9 +846,22 @@ Oct 10th
 - [Dotfiles Are Meant to Be Forked](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
 - [Progressive Web Apps with React.js: Part 3 — Offline support and network resilience (Addy Osmani)](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c#.ngio1yygr)
 - [The Big Ball of Mud](http://www.laputan.org/mud)
-- []()
-- []()
-- []()
+
+Oct 11th
+- [Unpkg.com - a fast, global content delivery network for stuff that is published to npm](https://unpkg.com/)
+- [ngrok - Secure tunnels to localhost](https://ngrok.com/)
+
+Oct 12th
+- [Introducing React Horizon](https://medium.com/@roman01la/introducing-react-horizon-4c26f9ef628c#.so1elthvk)
+- [Isomorphism vs Universal JavaScript](https://medium.com/@ghengeveld/isomorphism-vs-universal-javascript-4b47fb481beb#.778b7v4j0)
+- [Next-gen Web Apps with Universal JavaScript] - (https://medium.com/@ghengeveld/on-the-road-to-isomorphism-eb0742a9305f#.kx4eaocse)
+
+## Video Editing
+#### Davinci Resolve
+- [Restorative Lighting](http://reuzz.net/video/page/how-to-get-your-highlights-back-using-davinci-resolve-12)
+- [Resolve 12.5 Basics - DaVinci Resolve End-To-End Crash Course](https://youtu.be/PgTRPXsgv-I)
+- [What is a Look Up Table (LUT), Anyway?](http://nofilmschool.com/2011/05/what-is-a-look-up-table-lut-anyway)
+- [Affinity Designer Tutorials](https://affinity.serif.com/en-gb/tutorials/)
 
 ### WebDriver
 - [Dockerize your WebdriverIO environment to run everywhere](http://blog.ricca509.me/dockerize-your-selenium-tests-to-run-everywhere/)
@@ -911,7 +923,7 @@ Oct 10th
 - [How test your Hapi API with Lab](https://medium.com/@thedon/how-test-your-hapi-api-with-lab-b72f6e8ed641#.eck53a68u)
 - [How to configure reverse proxy in Hapi.js](https://medium.com/@uzysjung/how-to-configure-reverse-proxy-in-hapi-js-f5292414105f#.embruhhrs)
 
-### Functional+Reactive Programming
+### Functional Reactive Programming
 - [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
 - [What Is Functional Programming? (Kris Jenkins)](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
@@ -925,6 +937,8 @@ Oct 10th
 - [Favoring Curry](http://fr.umio.us/favoring-curry/)
 - [Thinking In Ramda (9 parts)](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 - [Using Ramda With Redux](http://randycoulman.com/blog/2016/02/16/using-ramda-with-redux/)
+- [Javascript Functor, Applicative, Monads in pictures](https://medium.com/@tzehsiang/javascript-functor-applicative-monads-in-pictures-b567c6415221#.bfi6y7x0l)
+- [So You Want to be a Functional Programmer? (Part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a#.frgn60rgs)
 
 # Languages
 
@@ -990,6 +1004,7 @@ Oct 10th
 - [Demand-driven architecture: Relay, Falcor, Om.Next](https://medium.com/@env/demand-driven-development-relay-falcor-om-next-75818bd54ea1#.yzpbojv9h)
 - [The GitHub GraphQL API](http://githubengineering.com/the-github-graphql-api/)
 - [Native code generation at Facebook](https://medium.com/apollo-stack/native-code-generation-at-facebook-7d6d0db4f3ee#.jqm61ie5d)
+- [All you need to know about GraphQL.js 0.7](https://medium.com/apollo-stack/all-you-need-to-know-about-graphql-js-0-7-921e75dd7fd1#.symuta73p)
 
 #### GraphQL Marketing
 - [How GraphQL taught me to code client apps](https://medium.com/@gregoryziegan/how-graphql-taught-me-to-code-client-apps-1c631a9953bd#.6pseumpwo)
@@ -1094,6 +1109,8 @@ Oct 10th
 - [ClojureScript + React.js - Norbert Wójtowicz, 2015](https://youtu.be/6_mbxaRDA-s)
 - [ClojureScript Koans](http://clojurescriptkoans.com/)
 - [Clojurescript.net](http://clojurescript.net/)
+- [From JavaScript to Clojurescript - Which editor to choose?](https://medium.com/@roman01la/from-javascript-to-clojurescript-which-editor-to-choose-a444b2f8edca#.hiv6qkaiy)
+- [Atom-Parinfer](https://github.com/oakmac/atom-parinfer)
 
 
 ### Meteor / Mantra

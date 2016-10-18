@@ -327,7 +327,6 @@ May 4th
 
 May 11th
 - [What are some practical use cases of GraphQL? When should one choose GraphQL over REST?](https://hashnode.com/post/what-are-some-practical-use-cases-of-graphql-when-should-one-choose-graphql-over-rest-cinvtv3u100hsqq53g8eob9hh?utm_source=Invite%20to%20participate%20email&utm_medium=email&utm_campaign=Notification)
-- [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658#.on3o3nj6k)
 - [COLOR WANDER!](https://github.com/mattdesl/color-wander)
 - [Beautiful Jekyll - getting started](http://deanattali.com/beautiful-jekyll/getstarted/)
 - [Real-life Javascript Generators (#es6)](https://medium.com/developers-writing/real-life-javascript-generators-80c810f82c5c#.5ia578b3c)
@@ -856,12 +855,23 @@ Oct 12th
 - [Isomorphism vs Universal JavaScript](https://medium.com/@ghengeveld/isomorphism-vs-universal-javascript-4b47fb481beb#.778b7v4j0)
 - [Next-gen Web Apps with Universal JavaScript] - (https://medium.com/@ghengeveld/on-the-road-to-isomorphism-eb0742a9305f#.kx4eaocse)
 
+Oct 18th
+- [MongoDB 2.0 Native Driver - Streams Tutorial](http://mongodb.github.io/node-mongodb-native/2.0/tutorials/streams/)
+- [Scheme vs Common Lisp: Which characteristics made a difference in your project?](http://programmers.stackexchange.com/questions/41045/scheme-vs-common-lisp-which-characteristics-made-a-difference-in-your-project)
+- [Pollen: the book is a program](http://docs.racket-lang.org/pollen/)
+- [Practical Typography (built w/ Pollen)](http://practicaltypography.com/)
+- [Beautiful Racket](http://beautifulracket.com/)
+- []()
+- []()
+- []()
+
 ## Video Editing
 #### Davinci Resolve
 - [Restorative Lighting](http://reuzz.net/video/page/how-to-get-your-highlights-back-using-davinci-resolve-12)
 - [Resolve 12.5 Basics - DaVinci Resolve End-To-End Crash Course](https://youtu.be/PgTRPXsgv-I)
 - [What is a Look Up Table (LUT), Anyway?](http://nofilmschool.com/2011/05/what-is-a-look-up-table-lut-anyway)
 - [Affinity Designer Tutorials](https://affinity.serif.com/en-gb/tutorials/)
+- [DaVinci Resolve Editing Tutorial](https://youtu.be/9_lqyTwh3Fs)
 
 ### WebDriver
 - [Dockerize your WebdriverIO environment to run everywhere](http://blog.ricca509.me/dockerize-your-selenium-tests-to-run-everywhere/)
@@ -922,6 +932,13 @@ Oct 12th
 - [Hapi: The Good Parts](https://chrisdecairos.ca/hapi-the-good-parts/)
 - [How test your Hapi API with Lab](https://medium.com/@thedon/how-test-your-hapi-api-with-lab-b72f6e8ed641#.eck53a68u)
 - [How to configure reverse proxy in Hapi.js](https://medium.com/@uzysjung/how-to-configure-reverse-proxy-in-hapi-js-f5292414105f#.embruhhrs)
+- [Testing Hapi.js API Endpoints](https://sethlopez.me/article/testing-hapi-js-apis/)
+
+### Electron
+- [Electron Fundamentals](http://maxogden.com/electron-fundamentals.html)
+- [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658#.on3o3nj6k)
+- ["No path.txt in electron-prebuilt folder"](https://github.com/electron-userland/electron-prebuilt/issues/76)
+
 
 ### Functional Reactive Programming
 - [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
@@ -1031,6 +1048,7 @@ Oct 12th
 - [Pagination and Infinite Scrolling in Apollo Client](https://medium.com/apollo-stack/pagination-and-infinite-scrolling-in-apollo-client-59ff064aac61#.1a4bmdxaj)
 - [Apollo + React](http://dev.apollodata.com/react/)
 - [A proposal for GraphQL subscriptions](https://medium.com/apollo-stack/a-proposal-for-graphql-subscriptions-1d89b1934c18#.75srbk2pq)
+- [5 benefits of static GraphQL queries](https://medium.com/apollo-stack/5-benefits-of-static-graphql-queries-b7fa90b0b69a#.se1ysrb69)
 
 
 ### Gitlab / Docker Engine | | HOWDOICI

@@ -595,7 +595,6 @@ August 15
 - [Max Hodges' personal photo blog](http://maxhodges.com)
 - [Why Fibers Make Sense For Meteor](http://benjamn.github.io/goto2015-talk/)
 - [Scaphold API Documentation](https://scaphold.io/docs)
-- [Apollo Server 0.2: GraphQL with Express, Connect, HAPI or Koa — Building Apollo](https://medium.com/apollo-stack/apollo-server-0-2-graphql-with-express-connect-hapi-or-koa-7e06b0a8fdb1#.1w4ts05c4)
 - [Leveling Up With React: React Router | CSS-Tricks](https://css-tricks.com/learning-react-router/)
 - [The Trie Data Structure: Examples in Java | Toptal](https://www.toptal.com/java/the-trie-a-neglected-data-structure)
 - [Binary Heaps -- Eloquent JavaScript (Eloquent JS, 1st ed)](http://eloquentjavascript.net/1st_edition/appendix2.html)
@@ -861,9 +860,18 @@ Oct 18th
 - [Pollen: the book is a program](http://docs.racket-lang.org/pollen/)
 - [Practical Typography (built w/ Pollen)](http://practicaltypography.com/)
 - [Beautiful Racket](http://beautifulracket.com/)
-- []()
-- []()
-- []()
+- [Abstractivate - Blog of Jessica Kerr](http://blog.jessitron.com/)
+- [Lambda Lounge - Functional and dynamic languages](https://lambdalounge.org/)
+
+Oct 19th
+- [Andrej Karpathy blog - Neural Nets](http://karpathy.github.io/neuralnets/)
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Creating The Periodic Table With CSS Grid](https://responsivedesign.is/articles/creating-the-periodic-table-with-grid-css)
+- [Physics Musing - on Struct and Int of Classical Mechanics](https://phys.wordpress.com/category/math/)
+- [Opinions on Category Theory (from 2006)](http://www.arsmathematica.net/2006/06/24/opinions-of-category-theory/)
+- [How does category theory help? (from 2001)](https://groups.google.com/forum/#!topic/sci.physics.research/PYLKHmL4OT4)
+- [^ above in mailing list form](http://www.lns.cornell.edu/spr/2001-01/msg0030509.html)
+- [Gerald Sussman's person website](http://groups.csail.mit.edu/mac/users/gjs/)
 
 ## Video Editing
 #### Davinci Resolve
@@ -1096,6 +1104,7 @@ Oct 18th
 - [Logic & Proofs - Open Learning Initiative](http://oli.cmu.edu/courses/free-open/logic-proofs-course-details/)
 - [Quora - What is a good book to start learning about logic?](https://www.quora.com/What-is-a-good-book-to-start-learning-about-logic)
 - [Introduction to Category Theory 1](https://youtu.be/If6VUXZIB-4)
+- [Javascript Functor, Applicative, Monads in pictures – Medium](https://medium.com/@tzehsiang/javascript-functor-applicative-monads-in-pictures-b567c6415221#.w8g7gzddy)
 
 
 #### Elm Language
@@ -1219,6 +1228,7 @@ Oct 18th
 
 ### SVG
 - [Structured Grouping w/ <g> tag](https://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/)
+- [Understanding the SVG viewBox](http://thenewcode.com/1151/Understanding-the-SVG-viewBox)
 
 ### MDN Hot Links
 - [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this#As_an_object_method)
@@ -1250,6 +1260,7 @@ July 28th
 - [Leaked Democratic Party Emails Show Members Tried To Undercut Sanders- NPR](http://www.npr.org/sections/thetwo-way/2016/07/23/487179496/leaked-democratic-party-emails-show-members-tried-to-undercut-sanders?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20160723)
 - [How American Politics Went Insane (The Atlantic, August 2016)](http://www.theatlantic.com/magazine/archive/2016/07/how-american-politics-went-insane/485570/?utm_source=feed)
 - [Dozens of Civilians Reported Dead in U.S.-Led Syria Airstrike (NYTimes, July 19, 2016)](http://www.nytimes.com/2016/07/20/world/middleeast/islamic-state-airstrikes-syria-civilian-casualties.html)
+- [An atheist presidential candidate (and transhumanist)](http://www.huffingtonpost.com/zoltan-istvan/atheist-presidential-cand_b_11005072.html)
 
 
 #### (Denton)
@@ -1286,6 +1297,10 @@ July 28th
 ### Somewhere in between
 - [Weird site on vortex-based mathematics](http://vbm.isteaching.com/)
 
+### Motherboard
+- [Eliminating Money, Taxes, and Ownership Will Bring Forth Technoutopia (Zoltan Istvan)](http://motherboard.vice.com/read/eliminating-money-taxes-and-ownership-will-bring-forth-technoutopia?utm_source=mbfb)
+- [DeepMind Invented a Computer That Learns How to Use Its Own Memory](http://motherboard.vice.com/read/deepmind-invented-a-computer-that-learns-how-to-use-its-own-memory-ai)
+
 
 ### Music
 - [Mimisiku - The Thrill of Living (album review)](http://www.sputnikmusic.com/review/69854/Mimisiku-The-Thrill-of-Living/)
@@ -1300,6 +1315,9 @@ July 28th
 - [This Legendary Parisian Bookshop Published James Joyce When No One Else Would](http://historybuff.com/this-legendary-parisian-bookshop-published-james-joyce-when-no-one-else-would-rbGZdaoRDj23)
 - [Data Mining Reveals the Six Basic Emotional Arcs of Storytelling](https://www.technologyreview.com/s/601848/data-mining-reveals-the-six-basic-emotional-arcs-of-storytelling/)
 - [Modern Pilgrims or The Visions of Young Anxious People](http://www.ourshoresrun.org/news/2016/7/17/modern-pilgrims-or)
+
+### Space
+- [Fermi Paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
 
 
 ### Other

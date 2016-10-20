@@ -1,0 +1,2 @@
+- [Julian Jaynes and the Bicameral Mind Theory - YouTube](https://www.youtube.com/watch?v=7RvTDlS44fE)
+- [Sir Roger Penrose — The quantum nature of consciousness](https://youtu.be/3WXTX0IUaOg)

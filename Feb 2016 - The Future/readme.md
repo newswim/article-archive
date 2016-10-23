@@ -873,6 +873,15 @@ Oct 19th
 - [^ above in mailing list form](http://www.lns.cornell.edu/spr/2001-01/msg0030509.html)
 - [Gerald Sussman's person website](http://groups.csail.mit.edu/mac/users/gjs/)
 
+Oct 20th
+- [Recursion in JavaScript with ES6, destructuring and rest/spread](https://hackernoon.com/recursion-in-javascript-with-es6-destructuring-and-rest-spread-4b22ae5998fa#.407x9wjap)
+- [Understanding the SVG viewBox](http://thenewcode.com/1151/Understanding-the-SVG-viewBox)
+
+Oct 22nd
+- [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+- [window.fetch polyfill](https://github.com/github/fetch)
+- [RSVP.js](https://github.com/tildeio/rsvp.js)
+
 ## Video Editing
 #### Davinci Resolve
 - [Restorative Lighting](http://reuzz.net/video/page/how-to-get-your-highlights-back-using-davinci-resolve-12)

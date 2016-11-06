@@ -1,2 +1,3 @@
 - [Julian Jaynes and the Bicameral Mind Theory - YouTube](https://www.youtube.com/watch?v=7RvTDlS44fE)
 - [Sir Roger Penrose — The quantum nature of consciousness](https://youtu.be/3WXTX0IUaOg)
+- [Lennart Augustsson](https://en.wikipedia.org/wiki/Lennart_Augustsson) - Haskell Compiler author and winner of "several International Obfuscated C Code Contest"

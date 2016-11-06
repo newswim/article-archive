@@ -881,14 +881,39 @@ Oct 22nd
 - [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 - [window.fetch polyfill](https://github.com/github/fetch)
 - [RSVP.js](https://github.com/tildeio/rsvp.js)
+- [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
 
-## Video Editing
+Oct 25th
+- [Statistics Lectures - UC Berkley](https://www.youtube.com/watch?v=dOWVfOBI2Gw)
+- [Mealy Machine](https://en.wikipedia.org/wiki/Mealy_machine)
+- [SLOWING MOORE'S LAW: HOW IT COULD HAPPEN](https://www.gwern.net/Slowing%20Moore%27s%20Law)
+- [GWERN.net](https://www.gwern.net)
+- [Talk with the Experts: Chris Coyier](https://www.sitepoint.com/premium/screencasts/talk-with-the-experts-chris-coyier)
+
+Oct 30th
+- [Free Graphics Software for the TeX, LaTeX, and PSTricks Community](http://sketch4latex.sourceforge.net/)
+- [Solving the Snake Cube Puzzle in Haskell](http://web.cecs.pdx.edu/~mpj/snakecube/)
+- [Mark P. Jones' acedemic homepage](http://web.cecs.pdx.edu/~mpj/)
+- [pH : Parallel Haskell](http://csg.csail.mit.edu/projects/languages/ph.shtml)
+- [John Hughes: Testing with QuickCheck](http://ulf.wiger.net/weblog/2008/02/29/john-hughes-testing-with-quickcheck/)
+- [Brian Beckman: Hidden Markov Models, Viterbi Algorithm, LINQ, Rx and Higgs Boson](https://channel9.msdn.com/Shows/Going+Deep/Brian-Beckman-Hidden-Markov-Models-Viterbi-Algorithm-LINQ-Rx-and-Higgs-Boson?ocid=EntriesInArea)
+
+## Video/Image Editing
 #### Davinci Resolve
 - [Restorative Lighting](http://reuzz.net/video/page/how-to-get-your-highlights-back-using-davinci-resolve-12)
 - [Resolve 12.5 Basics - DaVinci Resolve End-To-End Crash Course](https://youtu.be/PgTRPXsgv-I)
 - [What is a Look Up Table (LUT), Anyway?](http://nofilmschool.com/2011/05/what-is-a-look-up-table-lut-anyway)
 - [Affinity Designer Tutorials](https://affinity.serif.com/en-gb/tutorials/)
 - [DaVinci Resolve Editing Tutorial](https://youtu.be/9_lqyTwh3Fs)
+
+#### Affinity Designer
+- [Tutorials](https://affinity.serif.com/forum/index.php?/forum/9-tutorials/)
+- [Vector Illustration: Design a Playful Character Using Geometric Shapes (Skillshare.com)](https://www.skillshare.com/classes/design/Vector-Illustration-Design-a-Playful-Character-Using-Geometric-Shapes)
+- [Create an Autumn Girl Illustration in Affinity Designer](https://design.tutsplus.com/tutorials/create-an-autumn-girl-illustration-in-affinity-designer--cms-24685)
+
+#### Fusion
+- [Homepage](https://www.blackmagicdesign.com/products/fusion/motiongraphics)
+- [Training](https://www.blackmagicdesign.com/products/fusion/training)
 
 ### WebDriver
 - [Dockerize your WebdriverIO environment to run everywhere](http://blog.ricca509.me/dockerize-your-selenium-tests-to-run-everywhere/)
@@ -1225,6 +1250,7 @@ Oct 22nd
 - [Go Back to the Previous Directory via Command Line (cd -)](http://osxdaily.com/2010/02/09/go-back-to-the-previous-directory-via-command-line/)
 - [The Terminal (furbo)](http://furbo.org/2014/09/03/the-terminal/)
 - [Bash Guide (wiki.wooledge)](http://mywiki.wooledge.org/BashGuide/)
+- [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
 
 ### Docker
 - [Weird memory swapiness issue](https://github.com/docker/docker/issues/4250)

@@ -898,6 +898,19 @@ Oct 30th
 - [John Hughes: Testing with QuickCheck](http://ulf.wiger.net/weblog/2008/02/29/john-hughes-testing-with-quickcheck/)
 - [Brian Beckman: Hidden Markov Models, Viterbi Algorithm, LINQ, Rx and Higgs Boson](https://channel9.msdn.com/Shows/Going+Deep/Brian-Beckman-Hidden-Markov-Models-Viterbi-Algorithm-LINQ-Rx-and-Higgs-Boson?ocid=EntriesInArea)
 
+Nov 25th
+- [The Hello World Collection](http://helloworldcollection.de/)
+- [Phil Hagelberg's blog - in which a surprising affinity is pondered](http://technomancy.us/)
+- [Phil Hagelberg's blog - in which 4 cards make a gang](http://technomancy.us/179)
+- [Martin Fowler - Internal Reprogrammability](http://martinfowler.com/bliki/InternalReprogrammability.html)
+- [Random vs Pseudorandom Number Generators](https://youtu.be/GtOt7EBNEwQ)
+- [How itch.io uses Coroutines for non-blocking IO](http://leafo.net/posts/itchio-and-coroutines.html)
+- [MoonScript - like Coffeescript for Lua! big wins!](http://moonscript.org/)
+- [Converting Decimal Numbers to Binary Numbers - Interactive Python sec. 3.8](https://interactivepython.org/runestone/static/pythonds/BasicDS/ConvertingDecimalNumberstoBinaryNumbers.html)
+- [Anki Manual](http://ankisrs.net/docs/manual.html)
+- [A Humanist Apologetic of Natural Language Processing; or A New Introduction to NLTK](http://digitalhumanities.berkeley.edu/blog/16/07/18/humanist-apologetic-natural-language-processing-or-new-introduction-nltk-guest-post)
+- [Natural Language Processing with Python](http://www.nltk.org/book/)
+
 ## Video/Image Editing
 #### Davinci Resolve
 - [Restorative Lighting](http://reuzz.net/video/page/how-to-get-your-highlights-back-using-davinci-resolve-12)

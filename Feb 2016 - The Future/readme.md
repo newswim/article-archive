@@ -911,6 +911,10 @@ Nov 25th
 - [A Humanist Apologetic of Natural Language Processing; or A New Introduction to NLTK](http://digitalhumanities.berkeley.edu/blog/16/07/18/humanist-apologetic-natural-language-processing-or-new-introduction-nltk-guest-post)
 - [Natural Language Processing with Python](http://www.nltk.org/book/)
 
+Nov 30th
+- [DevOps Youtube Playlist](https://www.youtube.com/playlist?list=PLjQo0sojbbxUav7I746f0lT4apGX8-iON)
+
+
 ## Video/Image Editing
 #### Davinci Resolve
 - [Restorative Lighting](http://reuzz.net/video/page/how-to-get-your-highlights-back-using-davinci-resolve-12)

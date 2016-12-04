@@ -914,6 +914,40 @@ Nov 25th
 Nov 30th
 - [DevOps Youtube Playlist](https://www.youtube.com/playlist?list=PLjQo0sojbbxUav7I746f0lT4apGX8-iON)
 
+Dec 3rd
+- [Building Reactive Props with Meteor and Recompose](https://medium.com/@abhiaiyer/building-reactive-props-with-meteor-and-recompose-1da167b0ba60#.95rkfaawc)
+- [Reaction Commerce announcement](https://blog.reactioncommerce.com/why-meteor-is-the-perfect-framework-for-ecommerce/)
+- [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0#.ckm9npbca)
+- [How to implement viewerCanSee in GraphQL](https://medium.com/entria/how-to-implement-viewercansee-in-graphql-78cc48de7464#.qc5vukfk9)
+- [Why UI Developers Love GraphQL](https://medium.com/@jnwng/why-ui-developers-love-graphql-2e7225fdcdae#.m4jr4sppj)
+- [Yesod Web Framework (Haskell Full Stack!)](http://www.yesodweb.com/)
+- [facebookincubator/create-react-app](https://github.com/facebookincubator/create-react-app)
+- [Node.js Garbage Collection Explained - Node.js at Scale](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection)
+- [WebTorrent](https://webtorrent.io/)
+- [List of languages that compile to JS](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
+- [Into the Core - Squeezing Haskell into Nine Constructors by Simon Peyton Jones](https://www.youtube.com/watch?v=uR_VzYxvbxg)
+- [ V8: Behind the Scenes (November Edition) | Benedikt Meurer](http://benediktmeurer.de/2016/11/25/v8-behind-the-scenes-november-edition/)
+- [Language Processing and Python](http://www.nltk.org/book/ch01.html)
+- [A Humanist Apologetic of Natural Language Processing; or A New Introduction to NLTK. A Guest Post by Teddy Roland, University of California, Berkeley](http://digitalhumanities.berkeley.edu/blog/16/07/18/humanist-apologetic-natural-language-processing-or-new-introduction-nltk-guest-post)
+- [API Design Session - WebGL in Elm with Andrey Kuzmin](https://www.youtube.com/watch?v=qaTy_F98Moo)
+- [Meditation Techniques | Ishwar Puri](https://www.youtube.com/watch?v=odCJ_LfBZFs)
+- [Credit Cards (1 of 2: Introduction to Credit Cards)](https://www.youtube.com/watch?v=1PLI_0Qlt2Q)
+- [Margot Gerritsen on "Linear Algebra - the incredible beauty of math"](https://www.youtube.com/watch?v=s6p864XVxeU)
+- [Solo Travel Europe: 32+ Tips You Need To Know](http://solotravelerblog.com/solo-travel-europe-top-tips-advice-and-recommendations/)
+- [Axs - responsive typography for React](http://jxnblk.com/axs/)
+- [React Redux Form - intro](http://davidkpiano.github.io/react-redux-form)
+- [thebarty/meteor-denormalized-views](https://github.com/thebarty/meteor-denormalized-views#example-use-case)
+- [nozzlegear/Shopify-Prime](https://github.com/nozzlegear/Shopify-Prime)
+- [How to Build Realtime Apps with GraphQL Subscriptions](https://scaphold.io/blog/2016/11/09/build-realtime-apps-with-subs.html)
+- [André Staltz - Everywhereness as a Foundation](http://staltz.com/everywhereness-as-a-foundation.html)
+- [Use Google Sheets as your application's reporting tool](https://codelabs.developers.google.com/codelabs/sheets-api/#2)
+- [School of Haskell - basics](https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell)
+- [Trump in the White House: An Interview With Noam Chomsky](http://www.truth-out.org/opinion/item/38360-trump-in-the-white-house-an-interview-with-noam-chomsky)
+- [Superluminal communication](https://en.wikipedia.org/wiki/Superluminal_communication)
+- [Ansible (the fictional super-light-speed communication device)](https://en.wikipedia.org/wiki/Ansible)
+- [Informatics I: Functional Programming (university of Edinburough)](http://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
+- [Haskell in Education](https://wiki.haskell.org/Haskell_in_education)
+
 
 ## Video/Image Editing
 #### Davinci Resolve

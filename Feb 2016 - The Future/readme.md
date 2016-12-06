@@ -948,6 +948,17 @@ Dec 3rd
 - [Informatics I: Functional Programming (university of Edinburough)](http://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
 - [Haskell in Education](https://wiki.haskell.org/Haskell_in_education)
 
+Dec 6th
+- [Blynk.cc](http://www.blynk.cc/)
+- [Fake Or Real? How To Self-Check The News And Get The Facts](http://www.npr.org/sections/alltechconsidered/2016/12/05/503581220/fake-or-real-how-to-self-check-the-news-and-get-the-facts)
+- [Constructor Theory](https://en.wikipedia.org/wiki/Constructor_theory)
+- [Constructor Theory: Homepage](http://constructortheory.org/)
+- [HTML Arrows](http://htmlarrows.com/)
+- [Google Brain Team](https://research.google.com/teams/brain/)
+- [Adding Service Worker to a simple website](https://rossta.net/blog/adding-serviceworker-to-a-simple-website.html)
+- [API Design Session - WebGL in Elm with Andrey Kuzmin](https://www.youtube.com/watch?v=qaTy_F98Moo)
+- [What Makes Software Good? – Mike Bostock, medium](https://medium.com/@mbostock/what-makes-software-good-943557f8a488#.eq0xtjr5o)
+
 
 ## Video/Image Editing
 #### Davinci Resolve

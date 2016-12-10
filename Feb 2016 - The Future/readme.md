@@ -959,6 +959,17 @@ Dec 6th
 - [API Design Session - WebGL in Elm with Andrey Kuzmin](https://www.youtube.com/watch?v=qaTy_F98Moo)
 - [What Makes Software Good? – Mike Bostock, medium](https://medium.com/@mbostock/what-makes-software-good-943557f8a488#.eq0xtjr5o)
 
+Dec 9th
+- [Cube Composer](http://david-peter.de/cube-composer/)
+- [Stop Treading Water: Learning to Learn by Edward Kmett - YOW! 2014 | Eventer](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)
+- [sharkdp/purescript-ctprelude - A Prelude with names from category theory](https://github.com/sharkdp/purescript-ctprelude)
+- [First impressions of React](https://remysharp.com/2016/09/13/first-impressions-of-react)
+- [Yarn / installation](https://yarnpkg.com/en/docs/install)
+- [mhazy/hapi-github-webhooks](https://github.com/mhazy/hapi-github-webhooks/)
+- [leebyron / async-to-gen](https://github.com/leebyron/async-to-gen/)
+- [Promise.coroutine | bluebird](http://bluebirdjs.com/docs/api/promise.coroutine.html)
+- [Understand promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8#.g272kqlh8)
+
 
 ## Video/Image Editing
 #### Davinci Resolve

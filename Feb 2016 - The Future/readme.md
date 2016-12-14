@@ -970,6 +970,15 @@ Dec 9th
 - [Promise.coroutine | bluebird](http://bluebirdjs.com/docs/api/promise.coroutine.html)
 - [Understand promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8#.g272kqlh8)
 
+Dec 10th
+- [VimGolf in Emacs 023: Before there was Farmville…](https://vimeo.com/33199507)
+- [Haskell Stack: User guide](https://docs.haskellstack.org/en/stable/GUIDE/)
+- [Designing Imaginative Style Guides](https://24ways.org/2016/designing-imaginative-style-guides/)
+- [Relay.GraphQLMutation](https://facebook.github.io/relay/docs/api-reference-relay-graphql-mutation.html)
+- [Tech Trends 2017]http://www.frogdesign.com/techtrends2017()
+- [Electron Vue](https://simulatedgreg.gitbooks.io/electron-vue/content/)
+- []()
+
 
 ## Video/Image Editing
 #### Davinci Resolve

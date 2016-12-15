@@ -977,7 +977,7 @@ Dec 10th
 - [Relay.GraphQLMutation](https://facebook.github.io/relay/docs/api-reference-relay-graphql-mutation.html)
 - [Tech Trends 2017]http://www.frogdesign.com/techtrends2017()
 - [Electron Vue](https://simulatedgreg.gitbooks.io/electron-vue/content/)
-- []()
+- [Functional Examples (from Prof. Frisby's egghead course)](https://github.com/dmitriz/functional-examples)
 
 
 ## Video/Image Editing
@@ -1089,6 +1089,10 @@ Dec 10th
 - [r/golang](https://www.reddit.com/r/golang/)
 - [Github Organization](https://github.com/golang)
 - [A tour of Go](https://tour.golang.org/welcome/1)
+- [Golang Training](https://github.com/GoesToEleven/GolangTraining)
+- [Goland Bootcamp](https://www.golang-book.com/guides/bootcamp)
+- [Golang-Book.com; by Caleb Doxsey](https://www.golang-book.com/)
+- [GoTime 26 - Teaching and Learning Go with Todd McLeod](https://dev.to/gotime/26-teaching-and-learning-go-with-todd-mcleod)
 
 ### Haskell
 

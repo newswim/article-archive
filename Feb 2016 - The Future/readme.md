@@ -979,6 +979,13 @@ Dec 10th
 - [Electron Vue](https://simulatedgreg.gitbooks.io/electron-vue/content/)
 - [Functional Examples (from Prof. Frisby's egghead course)](https://github.com/dmitriz/functional-examples)
 
+Dec 20th
+- [Styletron - virtual CSS from React](http://styletron.js.org/)
+- [WebGL 1.0 API Quick Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf)
+- [Complexity & Stupidity - Sam Harris Podcast Transcript](https://www.samharris.org/blog/item/complexity-stupidity)
+- [Publishing react components to NPM — experiments with firenpm](https://hackernoon.com/publishing-react-components-to-npm-experiments-with-firenpm-c3a1aac3f408#.8yt89e1q3)
+- [How We Built GraphQL Subscriptions with Apollo](https://dev-blog.apollodata.com/how-we-used-apollo-to-build-graphql-subscriptions-ed5caa14d51b#.v0l50zgbi)
+
 
 ## Video/Image Editing
 #### Davinci Resolve
@@ -1093,6 +1100,7 @@ Dec 10th
 - [Goland Bootcamp](https://www.golang-book.com/guides/bootcamp)
 - [Golang-Book.com; by Caleb Doxsey](https://www.golang-book.com/)
 - [GoTime 26 - Teaching and Learning Go with Todd McLeod](https://dev.to/gotime/26-teaching-and-learning-go-with-todd-mcleod)
+- [Using Go at The New York Times](https://www.youtube.com/watch?v=bAQ9ShmXYLY)
 
 ### Haskell
 
@@ -1100,6 +1108,7 @@ Dec 10th
 - [Learn You A Haskell](http://learnyouahaskell.com/)
 - [Learning Haskell Wiki](https://wiki.haskell.org/Learning_Haskell)
 - [Yet Another Haskell Tutorial](http://www.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
+- [First steps in Haskell (101companies)](http://101companies.org/wiki/First_steps_in_Haskell)
 
 ### RegEx
 - [Regexper](https://regexper.com)

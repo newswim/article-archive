@@ -16,17 +16,24 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Does John Conway hate his Game of Life? - Numberphile (video)](https://youtu.be/E8kUJL04ELA)
 - [The Mandelbrot Set (documentary)](https://youtu.be/56gzV0od6DU)
 - [System F](https://en.wikipedia.org/wiki/System_F)
+- [Summary of System F](http://www.site.uottawa.ca/~fbinard/Intuitionism/TypeTheory/SystemF/)
 - [I Spent 3 Days With Sandi Metz - Here's What I Learned (08/20/14)](https://blog.red-badger.com/blog/2014/08/20/i-spent-3-days-with-sandi-metz-heres-what-i-learned)
 - [How does React decide to re-render a component? (02/08/2017](http://lucybain.com/blog/2017/react-js-when-to-rerender/)
 - [10 React mini-patterns (02/26/2017)](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
+- [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [Rumor spread in social network (wiki)](https://en.wikipedia.org/wiki/Rumor_spread_in_social_network)
 - [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 - [Notes on "JavaScript: The Good Parts"](https://github.com/iteles/Javascript-the-Good-Parts-notes)
+- [staltz/toy-rx (RxJS)](https://github.com/staltz/toy-rx)
+- [Web Sequence Diagrams](https://www.websequencediagrams.com/)
+- [Learn How To Read Flame Graphs](http://www.brendangregg.com/flamegraphs.html)
+- [500 Data structures and algorithms interview questions and their solutions](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions?share=1)
+
+
 
 ## UI/UX
 
 - [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
-
 
 
 ## Git
@@ -39,6 +46,14 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [115 RR Functional and Object Oriented Programming with Jessica Kerr](https://devchat.tv/ruby-rogues/115-rr-functional-and-object-oriented-programming-with-jessica-kerr)
     - Published on: July 24, 2013 // Duration: 1:04:02
 
+## Regex
+
+- [RexEgg](http://www.rexegg.com/regex-quickstart.html)
+- [Regex101](https://regex101.com/)
+
+## DataVis
+
+- [HDR Histogram](http://hdrhistogram.net/)
 
 ## Languages
 
@@ -49,3 +64,11 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 #### JavaScript
 
 - [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
+
+
+## Astronomy
+
+- [WR 104](https://en.wikipedia.org/wiki/WR_104)
+- [R136a1](https://en.wikipedia.org/wiki/R136a1)
+- []()
+- []()

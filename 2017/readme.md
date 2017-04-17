@@ -55,6 +55,13 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 
 - [HDR Histogram](http://hdrhistogram.net/)
 
+## Machine Learning / A.I.
+
+- [Andrew Ng: Artificial Intelligence is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc)
+- [Andrew Ng: Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I)
+- [MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://youtu.be/1L0TKZQcUtA)
+- [Google CEO Sergey Brin, "I didn't see Artificial Intelligence coming.](https://youtu.be/30rx3dBPbIs)
+
 ## Languages
 
 #### Smalltalk
@@ -65,6 +72,9 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 
 - [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 
+#### Go
+
+- [I tried Go and I liked it](https://dev.mikamai.com/2013/11/04/i-tried-go-and-i-liked-it/)
 
 ## Astronomy
 

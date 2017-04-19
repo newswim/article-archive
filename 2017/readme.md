@@ -28,7 +28,8 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Web Sequence Diagrams](https://www.websequencediagrams.com/)
 - [Learn How To Read Flame Graphs](http://www.brendangregg.com/flamegraphs.html)
 - [500 Data structures and algorithms interview questions and their solutions](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions?share=1)
-
+- [Everything Curl - (free book)](https://www.gitbook.com/book/bagder/everything-curl/details)
+- [Youtube Creator Academy](https://creatoracademy.youtube.com/page/lesson/revenue-basics)
 
 
 ## UI/UX
@@ -75,6 +76,10 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 #### Go
 
 - [I tried Go and I liked it](https://dev.mikamai.com/2013/11/04/i-tried-go-and-i-liked-it/)
+- [Go By Example](https://gobyexample.com/)
+- [Introducing the Developer Experience Working Group - The Go Blog](https://blog.golang.org/developer-experience)
+- []()
+- []()
 
 ## Astronomy
 

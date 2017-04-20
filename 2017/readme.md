@@ -30,6 +30,15 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [500 Data structures and algorithms interview questions and their solutions](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions?share=1)
 - [Everything Curl - (free book)](https://www.gitbook.com/book/bagder/everything-curl/details)
 - [Youtube Creator Academy](https://creatoracademy.youtube.com/page/lesson/revenue-basics)
+- [https://www.graph.cool/docs/tutorials/freecom-3-subscriptions-die6mewitu/](https://www.graph.cool/docs/tutorials/freecom-3-subscriptions-die6mewitu/)
+- [Silicon Valley’s $400 Juicer May Be Feeling the Squeeze](https://www.bloomberg.com/news/features/2017-04-19/silicon-valley-s-400-juicer-may-be-feeling-the-squeeze)
+- [React Native: Why and How to Build Your Native Code in Go](https://hackernoon.com/react-native-why-and-how-to-build-your-native-code-in-go-9fee492f0daa)
+
+
+## GraphQL
+
+- [So what’s this GraphQL thing I keep hearing about?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
+- [Exploring Relay Modern](https://dev-blog.apollodata.com/exploring-relay-modern-276f5965f827)
 
 
 ## UI/UX
@@ -78,12 +87,10 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [I tried Go and I liked it](https://dev.mikamai.com/2013/11/04/i-tried-go-and-i-liked-it/)
 - [Go By Example](https://gobyexample.com/)
 - [Introducing the Developer Experience Working Group - The Go Blog](https://blog.golang.org/developer-experience)
-- []()
-- []()
+- [Building a Message Queue Using Redis in Go](http://big-elephants.com/2013-09/building-a-message-queue-using-redis-in-go/)
+- [`adjust/rmq` - Message queue system written in Go and backed by Redis](https://github.com/adjust/rmq)
 
 ## Astronomy
 
 - [WR 104](https://en.wikipedia.org/wiki/WR_104)
 - [R136a1](https://en.wikipedia.org/wiki/R136a1)
-- []()
-- []()

@@ -74,6 +74,11 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 
 ## Languages
 
+#### Elm
+
+- [Functional Sets, Part 1: Construction](https://www.brianthicks.com/post/2016/11/13/functional-sets-part-1-construction/)
+- [Introduction to data structures](http://ohanhi.com/master-elm-2-data-structures.html)
+
 #### Smalltalk
 
 - [Smalltalk Overview](http://web.cecs.pdx.edu/~harry/musings/SmalltalkOverview.html)
@@ -81,6 +86,7 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 #### JavaScript
 
 - [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
+- [Async iterators and generators](https://jakearchibald.com/2017/async-iterators-and-generators)
 
 #### Go
 
@@ -89,6 +95,8 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Introducing the Developer Experience Working Group - The Go Blog](https://blog.golang.org/developer-experience)
 - [Building a Message Queue Using Redis in Go](http://big-elephants.com/2013-09/building-a-message-queue-using-redis-in-go/)
 - [`adjust/rmq` - Message queue system written in Go and backed by Redis](https://github.com/adjust/rmq)
+- [Go Concurrency Patterns: Context](https://blog.golang.org/context)
+- [`time` Package](https://golang.org/pkg/time/)
 
 ## Astronomy
 

@@ -35,6 +35,18 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [React Native: Why and How to Build Your Native Code in Go](https://hackernoon.com/react-native-why-and-how-to-build-your-native-code-in-go-9fee492f0daa)
 
 
+May
+- [Effective React Native Patterns](https://medium.com/the-poli/react-native-effective-patterns-3e0c9db6c32c)
+- [ANT Design](https://ant.design)
+- [power-assert-js/power-assert](https://github.com/power-assert-js/power-assert#no-api-is-the-best-api)
+- [How much faster is AVA? - It depends](https://gist.github.com/jamestalmage/a7444257d844fb627c71)
+- [HTML: The Living Standard](https://developers.whatwg.org/)
+- []()
+- []()
+- []()
+- []()
+
+
 ## GraphQL
 
 - [So what’s this GraphQL thing I keep hearing about?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)

@@ -35,16 +35,23 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [React Native: Why and How to Build Your Native Code in Go](https://hackernoon.com/react-native-why-and-how-to-build-your-native-code-in-go-9fee492f0daa)
 
 
-May
+## May
 - [Effective React Native Patterns](https://medium.com/the-poli/react-native-effective-patterns-3e0c9db6c32c)
 - [ANT Design](https://ant.design)
 - [power-assert-js/power-assert](https://github.com/power-assert-js/power-assert#no-api-is-the-best-api)
 - [How much faster is AVA? - It depends](https://gist.github.com/jamestalmage/a7444257d844fb627c71)
 - [HTML: The Living Standard](https://developers.whatwg.org/)
-- []()
-- []()
-- []()
-- []()
+- [Context in ReactJS Applications](http://javascriptplayground.com/blog/2017/02/context-in-reactjs-applications/)
+- [yiminghe/async-validator](https://github.com/yiminghe/async-validator)
+- [Testing React Applications with Jest](https://auth0.com/blog/testing-react-applications-with-jest/)
+- [(Jest) Testing React Apps](http://facebook.github.io/jest/docs/en/tutorial-react.html#)
+- [React Test Utils](https://facebook.github.io/react/docs/test-utils.html)
+- [Triplebyte](https://triplebyte.com)
+- [Instant form field validation with React's controlled inputs (tutorial)](https://goshakkk.name/instant-form-fields-validation-react/)
+- [Dive into React codebase: Handling state changes](http://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes/)
+- [React FAQ - Components](https://reactfaq.site/components/)
+- [Building React FAQ (dev.to)](https://dev.to/timarney_80/react-faq)
+- [Rule proposal: warn against using findDOMNode()](https://github.com/yannickcr/eslint-plugin-react/issues/678#issue-165177220)
 
 
 ## GraphQL

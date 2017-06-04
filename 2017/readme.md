@@ -54,6 +54,22 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Rule proposal: warn against using findDOMNode()](https://github.com/yannickcr/eslint-plugin-react/issues/678#issue-165177220)
 
 
+## June
+- [Hat-Guessing Game](http://www.relisoft.com/Science/hats3.html)
+- [A Simple React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
+- [Snapshot Testing React with Jest](https://daveceddia.com/snapshot-testing-react-with-jest/)
+- [ruanyf/react-testing-demo](https://github.com/ruanyf/react-testing-demo)
+- [airbnb/enzyme](https://github.com/airbnb/enzyme)
+- [enzyme - API Docs (shallow)](https://github.com/airbnb/enzyme/blob/master/docs/api/shallow.md)
+- [Avoiding Common Errors in Your Jasmine Test Suite | 8th Light](https://8thlight.com/blog/mike-jansen/2011/11/13/avoiding-common-errors-in-your-jasmine-specs.html)
+- [Testing React components with Jest and Enzyme](https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f)
+- [Jasmine (Introduction)](https://jasmine.github.io/2.0/introduction.html)
+- [Jest - Expect API](https://facebook.github.io/jest/docs/expect.html)
+- [Jest - Snapshot Testing](http://facebook.github.io/jest/docs/snapshot-testing.html)
+- [The Ultimate Introduction to ReactJS: Part 2](https://www.youtube.com/watch?v=eS6MSegecH4)
+- [pshrmn/curi - a config-based router](https://github.com/pshrmn/curi)
+- [Route with Curi](https://medium.com/@pshrmn/route-with-curi-221237ba71d8)
+
 ## GraphQL
 
 - [So what’s this GraphQL thing I keep hearing about?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)

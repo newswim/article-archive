@@ -70,6 +70,15 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [pshrmn/curi - a config-based router](https://github.com/pshrmn/curi)
 - [Route with Curi](https://medium.com/@pshrmn/route-with-curi-221237ba71d8)
 
+
+## Crypto / Eth / Btc accomnym jungle
+
+- [Lamport Signature - a quantum resistant key](https://en.wikipedia.org/wiki/Lamport_signature)
+- [Byzantine fault tolerance (wiki) - ](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance) / [Two Generals Problem](https://en.wikipedia.org/wiki/Two_Generals%27_Problem)
+- [Ethereum in 25 minutes - Vitalik Buterin, DevCon 2016 (youtube)](https://youtu.be/66SaEDzlmP4)
+- [The Golem Project | What is The Golem Project? (youtube)](https://youtu.be/fpeyozXJ_eU)
+
+
 ## GraphQL
 
 - [So what’s this GraphQL thing I keep hearing about?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)

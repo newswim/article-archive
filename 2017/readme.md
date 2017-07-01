@@ -71,7 +71,21 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Route with Curi](https://medium.com/@pshrmn/route-with-curi-221237ba71d8)
 
 
-## Crypto / Eth / Btc accomnym jungle
+## July
+- [I reverse-engineered a $500M Artificial Intelligence company in one week. Here’s the full story.](https://medium.com/startup-grind/i-reverse-engineered-a-500m-artificial-intelligence-company-in-one-week-heres-the-full-story-d067cef99e1c)
+- [CodeSchool.org - lectures on CS and programming](http://codeschool.org/)
+- [Monads are hard because … - 3 March 2014, John D. Cook](https://www.johndcook.com/blog/2014/03/03/monads-are-hard-because)
+- [Operational Transformation - OT Explained](https://operational-transformation.github.io/)
+- [Conflict-free replicated data type (wiki)](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+- [CRDT Tutorial for Beginners](https://github.com/ljwagerfield/crdt)
+- [Swarm Replicated Object Notation 2.0.0](https://github.com/gritzko/swarm-ron-docs)
+- [CRDT - Replicated Data Types](https://github.com/gritzko/swarm-ron-docs/blob/master/crdt.md)
+- [Google Realtime API Overview](https://developers.google.com/google-apps/realtime/overview)
+- [The Little Idea of Functional Programming](https://jaysoo.ca/2016/01/13/functional-programming-little-ideas/)
+- [The Anatomy Of A React & Redux Module (Applying The Three Rules)](https://jaysoo.ca/2016/02/28/applying-code-organization-rules-to-concrete-redux-code)
+
+
+## Crypto / Eth / Btc altcoin jungle
 
 - [Lamport Signature - a quantum resistant key](https://en.wikipedia.org/wiki/Lamport_signature)
 - [Byzantine fault tolerance (wiki) - ](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance) / [Two Generals Problem](https://en.wikipedia.org/wiki/Two_Generals%27_Problem)

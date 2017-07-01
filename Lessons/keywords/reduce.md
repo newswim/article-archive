@@ -1,9 +1,9 @@
 ### Reduce (reigns supreme)
 
-> definition: A function that takes an array, and returns something else
+> definition: A function that takes an array, and returns a single value (of any type)
 
 
-
+## These are notes from this [Excellent JS course on Egghead](https://egghead.io/courses/reduce-data-with-javascript)
 
 
 

@@ -23,3 +23,8 @@ Several things from this interview jumped out:
 - Meteor really was ahead of their time with oplog tailing and real-time multi-client
 - Often the less reliant you are on a particular library the better
 - Try to ditch your ORM if you're using GraphQL
+
+
+#### July 3rd, 2017
+
+There is so much Haskell to learn . . .

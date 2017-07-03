@@ -83,6 +83,18 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Google Realtime API Overview](https://developers.google.com/google-apps/realtime/overview)
 - [The Little Idea of Functional Programming](https://jaysoo.ca/2016/01/13/functional-programming-little-ideas/)
 - [The Anatomy Of A React & Redux Module (Applying The Three Rules)](https://jaysoo.ca/2016/02/28/applying-code-organization-rules-to-concrete-redux-code)
+- [How to safely use React context](https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076)
+- [Under the hood: ReactJS (the entire codebase explained in graphs)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
+- [Explore GraphQL](https://www.graphql.com/)
+- [A stronger (typed) React Apollo](https://dev-blog.apollodata.com/a-stronger-typed-react-apollo-c43bd52be0d8)
+- [apollographql/Apollo-Codegen (generate an API based on schema)](https://github.com/apollographql/apollo-codegen)
+- [Full Stack React Native Development using GraphCool and Apollo Subscriptions + React Navigation](https://medium.com/react-native-training/full-stack-react-native-development-using-graphcool-and-apollo-subscriptions-react-navigation-cdb3e1374c05)
+- [React Flight - animation composition](http://www.react-flight.io/)
+- [Techniques for decomposing React components](https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da)
+- [Styled-Components in Action](https://medium.com/@lvarayut/styled-components-in-action-723852f2a93d)
+- []()
+- []()
+- [CloudFlare Apps](https://www.cloudflare.com/apps)
 
 
 ## Crypto / Eth / Btc altcoin jungle

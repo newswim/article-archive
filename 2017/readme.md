@@ -92,9 +92,9 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [React Flight - animation composition](http://www.react-flight.io/)
 - [Techniques for decomposing React components](https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da)
 - [Styled-Components in Action](https://medium.com/@lvarayut/styled-components-in-action-723852f2a93d)
-- []()
-- []()
 - [CloudFlare Apps](https://www.cloudflare.com/apps)
+- [Simple server side cache for Express.js with Node.js](https://goenning.net/2016/02/10/simple-server-side-cache-for-expressjs/)
+- [What is a Merkle Tree?](https://www.cryptocompare.com/mining/guides/what-is-a-merkle-tree/)
 
 
 ## Crypto / Eth / Btc altcoin jungle
@@ -109,6 +109,19 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 
 - [So what’s this GraphQL thing I keep hearing about?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
 - [Exploring Relay Modern](https://dev-blog.apollodata.com/exploring-relay-modern-276f5965f827)
+
+
+## SQL / Postgres
+
+- [Massive.js 3.0: A Postgres-centric Data Access Tool](https://github.com/dmfay/massive-js)
+- [brianc/node-postgres](https://github.com/brianc/node-postgres)
+- https://node-postgres.com
+- [PostgreSQL - create materialized view](https://www.postgresql.org/docs/9.3/static/sql-creatematerializedview.html)
+- [PostgreSQL Tutorial - 3.2. Views](https://www.postgresql.org/docs/9.5/static/tutorial-views.html)
+- [Materialized View Strategies Using PostgreSQL](https://hashrocket.com/blog/posts/materialized-view-strategies-using-postgresql)
+- [Advanced Postgres Performance Tips](https://robots.thoughtbot.com/advanced-postgres-performance-tips)
+- [Data modeling basics: Materialized views](http://exponential.io/blog/2015/01/06/data-modeling-basics-materialized-views/)
+- [TDS - Tabular Data Stream](https://en.wikipedia.org/wiki/Tabular_Data_Stream)
 
 
 ## UI/UX

@@ -97,12 +97,16 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [What is a Merkle Tree?](https://www.cryptocompare.com/mining/guides/what-is-a-merkle-tree/)
 
 
+
 ## Crypto / Eth / Btc altcoin jungle
 
 - [Lamport Signature - a quantum resistant key](https://en.wikipedia.org/wiki/Lamport_signature)
 - [Byzantine fault tolerance (wiki) - ](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance) / [Two Generals Problem](https://en.wikipedia.org/wiki/Two_Generals%27_Problem)
 - [Ethereum in 25 minutes - Vitalik Buterin, DevCon 2016 (youtube)](https://youtu.be/66SaEDzlmP4)
 - [The Golem Project | What is The Golem Project? (youtube)](https://youtu.be/fpeyozXJ_eU)
+- [Explain Bitcoin Like I’m Five](https://medium.com/@nik5ter/explain-bitcoin-like-im-five-73b4257ac833)
+- [How can I securely generate a random number in my smart contract?](https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-random-number-in-my-smart-contract)
+- [Coursera: Cryptography I](https://www.class-central.com/mooc/616/coursera-cryptography-i)
 
 
 ## GraphQL
@@ -170,6 +174,8 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 
 - [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 - [Async iterators and generators](https://jakearchibald.com/2017/async-iterators-and-generators)
+- [How To \*Be A Compiler](https://kosamari.com/presentation/jsconfcolombia-2016)
+- [HT\*BAC (blog post)](https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4)
 
 #### Go
 

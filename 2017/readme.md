@@ -97,6 +97,17 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [What is a Merkle Tree?](https://www.cryptocompare.com/mining/guides/what-is-a-merkle-tree/)
 
 
+## JavaScript
+
+- [Our entire team of engineers use this front end development guide (rundown of modern webdev stack)](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
+- [stdlib/lib (microservice as a service)](https://github.com/stdlib/lib)
+- [docs.stdlib.com](https://docs.stdlib.com/main/#/introduction)
+- [stdlib.com](https://stdlib.com/)
+- [WebAssembly cut Figma’s load time by 3x](https://blog.figma.com/webassembly-cut-figmas-load-time-by-3x-76f3f2395164)
+- [JavaScript Optimization Patterns (Part 2)](http://benediktmeurer.de/2017/06/29/javascript-optimization-patterns-part2)
+- [Pony Foo Weekly](https://ponyfoo.com/weekly)
+
+
 
 ## Crypto / Eth / Btc altcoin jungle
 
@@ -107,6 +118,7 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Explain Bitcoin Like I’m Five](https://medium.com/@nik5ter/explain-bitcoin-like-im-five-73b4257ac833)
 - [How can I securely generate a random number in my smart contract?](https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-random-number-in-my-smart-contract)
 - [Coursera: Cryptography I](https://www.class-central.com/mooc/616/coursera-cryptography-i)
+- [Ever wonder how Bitcoin (and other cryptocurrencies) actually work? (3blue1brown)](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
 
 ## GraphQL

@@ -95,6 +95,7 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [CloudFlare Apps](https://www.cloudflare.com/apps)
 - [Simple server side cache for Express.js with Node.js](https://goenning.net/2016/02/10/simple-server-side-cache-for-expressjs/)
 - [What is a Merkle Tree?](https://www.cryptocompare.com/mining/guides/what-is-a-merkle-tree/)
+- [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations)
 
 
 ## JavaScript

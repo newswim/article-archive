@@ -96,7 +96,20 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Simple server side cache for Express.js with Node.js](https://goenning.net/2016/02/10/simple-server-side-cache-for-expressjs/)
 - [What is a Merkle Tree?](https://www.cryptocompare.com/mining/guides/what-is-a-merkle-tree/)
 - [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations)
+- [Quilt Data (data packager)](https://quiltdata.com/)
+- [Web Push Book](https://web-push-book.gauntface.com/) ("This website has a whole mess of content on implementing push for the web." - [Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API))
+- [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
 
+
+
+## React/Redux/ReWhatever
+
+- [Unit Testing React/Redux](https://alexzywiak.github.io/unit-testing-react-redux/)
+- [mattkrick/redux-optimistic-ui](https://github.com/mattkrick/redux-optimistic-ui)
+
+## Testing
+
+- [HTTP Mocking Made Easy With Nock](http://metaduck.com/04-nock.html)
 
 ## JavaScript
 

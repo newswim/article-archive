@@ -18,8 +18,6 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [System F](https://en.wikipedia.org/wiki/System_F)
 - [Summary of System F](http://www.site.uottawa.ca/~fbinard/Intuitionism/TypeTheory/SystemF/)
 - [I Spent 3 Days With Sandi Metz - Here's What I Learned (08/20/14)](https://blog.red-badger.com/blog/2014/08/20/i-spent-3-days-with-sandi-metz-heres-what-i-learned)
-- [How does React decide to re-render a component? (02/08/2017](http://lucybain.com/blog/2017/react-js-when-to-rerender/)
-- [10 React mini-patterns (02/26/2017)](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
 - [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [Rumor spread in social network (wiki)](https://en.wikipedia.org/wiki/Rumor_spread_in_social_network)
 - [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
@@ -30,7 +28,6 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [500 Data structures and algorithms interview questions and their solutions](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions?share=1)
 - [Everything Curl - (free book)](https://www.gitbook.com/book/bagder/everything-curl/details)
 - [Youtube Creator Academy](https://creatoracademy.youtube.com/page/lesson/revenue-basics)
-- [https://www.graph.cool/docs/tutorials/freecom-3-subscriptions-die6mewitu/](https://www.graph.cool/docs/tutorials/freecom-3-subscriptions-die6mewitu/)
 - [Silicon Valley’s $400 Juicer May Be Feeling the Squeeze](https://www.bloomberg.com/news/features/2017-04-19/silicon-valley-s-400-juicer-may-be-feeling-the-squeeze)
 - [React Native: Why and How to Build Your Native Code in Go](https://hackernoon.com/react-native-why-and-how-to-build-your-native-code-in-go-9fee492f0daa)
 
@@ -78,34 +75,51 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Operational Transformation - OT Explained](https://operational-transformation.github.io/)
 - [Conflict-free replicated data type (wiki)](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 - [CRDT Tutorial for Beginners](https://github.com/ljwagerfield/crdt)
-- [Swarm Replicated Object Notation 2.0.0](https://github.com/gritzko/swarm-ron-docs)
 - [CRDT - Replicated Data Types](https://github.com/gritzko/swarm-ron-docs/blob/master/crdt.md)
+- [Swarm Replicated Object Notation 2.0.0](https://github.com/gritzko/swarm-ron-docs)
 - [Google Realtime API Overview](https://developers.google.com/google-apps/realtime/overview)
 - [The Little Idea of Functional Programming](https://jaysoo.ca/2016/01/13/functional-programming-little-ideas/)
-- [The Anatomy Of A React & Redux Module (Applying The Three Rules)](https://jaysoo.ca/2016/02/28/applying-code-organization-rules-to-concrete-redux-code)
-- [How to safely use React context](https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076)
-- [Under the hood: ReactJS (the entire codebase explained in graphs)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
-- [Explore GraphQL](https://www.graphql.com/)
-- [A stronger (typed) React Apollo](https://dev-blog.apollodata.com/a-stronger-typed-react-apollo-c43bd52be0d8)
-- [apollographql/Apollo-Codegen (generate an API based on schema)](https://github.com/apollographql/apollo-codegen)
-- [Full Stack React Native Development using GraphCool and Apollo Subscriptions + React Navigation](https://medium.com/react-native-training/full-stack-react-native-development-using-graphcool-and-apollo-subscriptions-react-navigation-cdb3e1374c05)
-- [React Flight - animation composition](http://www.react-flight.io/)
-- [Techniques for decomposing React components](https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da)
 - [Styled-Components in Action](https://medium.com/@lvarayut/styled-components-in-action-723852f2a93d)
 - [CloudFlare Apps](https://www.cloudflare.com/apps)
 - [Simple server side cache for Express.js with Node.js](https://goenning.net/2016/02/10/simple-server-side-cache-for-expressjs/)
 - [What is a Merkle Tree?](https://www.cryptocompare.com/mining/guides/what-is-a-merkle-tree/)
 - [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations)
 - [Quilt Data (data packager)](https://quiltdata.com/)
-- [Web Push Book](https://web-push-book.gauntface.com/) ("This website has a whole mess of content on implementing push for the web." - [Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API))
-- [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
+- [All Models Are Wrong](https://www.farnamstreetblog.com/2017/06/all-models-are-wrong/) - Interesting breakdown of a kind of semiotic problem with epistemology
+- [Reflections on the Best Blockchain Tweets Ever Written](https://hackernoon.com/reflections-on-the-best-blockchain-tweets-ever-written-d488af960d4f)
+- [jdeal/qim - Immutable/functional select/update queries for plain JS](https://github.com/jdeal/qim)
+
 
 
 
 ## React/Redux/ReWhatever
 
 - [Unit Testing React/Redux](https://alexzywiak.github.io/unit-testing-react-redux/)
+- [React Flight - animation composition](http://www.react-flight.io/)
 - [mattkrick/redux-optimistic-ui](https://github.com/mattkrick/redux-optimistic-ui)
+- [The Anatomy Of A React & Redux Module (Applying The Three Rules)](https://jaysoo.ca/2016/02/28/applying-code-organization-rules-to-concrete-redux-code)
+- [Under the hood: ReactJS (the entire codebase explained in graphs)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
+- [How to safely use React context](https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076)
+- [Techniques for decomposing React components](https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da)
+- [React Events Live Cheatsheet](https://reactarmory.com/resources/react-events-cheatsheet)
+- [How does React decide to re-render a component? (02/08/2017](http://lucybain.com/blog/2017/react-js-when-to-rerender/)
+- [10 React mini-patterns (02/26/2017)](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
+- [Build Yourself a Redux - Zapier](https://zapier.com/engineering/how-to-build-redux/)
+
+## React Native
+
+- [Full Stack React Native Development using GraphCool and Apollo Subscriptions + React Navigation](https://medium.com/react-native-training/full-stack-react-native-development-using-graphcool-and-apollo-subscriptions-react-navigation-cdb3e1374c05)
+
+## GraphQL
+
+- [So what’s this GraphQL thing I keep hearing about?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
+- [Exploring Relay Modern](https://dev-blog.apollodata.com/exploring-relay-modern-276f5965f827)
+- [Explore GraphQL](https://www.graphql.com/)
+- [A stronger (typed) React Apollo](https://dev-blog.apollodata.com/a-stronger-typed-react-apollo-c43bd52be0d8)
+- [apollographql/Apollo-Codegen (generate an API based on schema)](https://github.com/apollographql/apollo-codegen)
+- [Freecom Tutorial: Realtime Updates with GraphQL Subscriptions (3/6)](https://www.graph.cool/docs/tutorials/freecom-3-subscriptions-die6mewitu/)
+
+
 
 ## Testing
 
@@ -133,12 +147,6 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [How can I securely generate a random number in my smart contract?](https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-random-number-in-my-smart-contract)
 - [Coursera: Cryptography I](https://www.class-central.com/mooc/616/coursera-cryptography-i)
 - [Ever wonder how Bitcoin (and other cryptocurrencies) actually work? (3blue1brown)](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-
-
-## GraphQL
-
-- [So what’s this GraphQL thing I keep hearing about?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
-- [Exploring Relay Modern](https://dev-blog.apollodata.com/exploring-relay-modern-276f5965f827)
 
 
 ## SQL / Postgres
@@ -217,3 +225,8 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 
 - [WR 104](https://en.wikipedia.org/wiki/WR_104)
 - [R136a1](https://en.wikipedia.org/wiki/R136a1)
+
+## Books
+
+- [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
+- [Web Push Book](https://web-push-book.gauntface.com/) ("This website has a whole mess of content on implementing push for the web." - [Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API))

@@ -88,6 +88,9 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [All Models Are Wrong](https://www.farnamstreetblog.com/2017/06/all-models-are-wrong/) - Interesting breakdown of a kind of semiotic problem with epistemology
 - [Reflections on the Best Blockchain Tweets Ever Written](https://hackernoon.com/reflections-on-the-best-blockchain-tweets-ever-written-d488af960d4f)
 - [jdeal/qim - Immutable/functional select/update queries for plain JS](https://github.com/jdeal/qim)
+- [JavaScript framework smartens up Firefox (Fathom.js)](http://www.infoworld.com/article/3193330/javascript/javascript-framework-smartens-up-firefox.html)
+- [Mozilla brings Python-style project documentation to JavaScript](http://www.infoworld.com/article/3208754/application-development/mozilla-brings-python-style-project-documentation-to-javascript.html)
+- [Introducing sphinx-js, a better way to document large JavaScript projects](https://hacks.mozilla.org/2017/07/introducing-sphinx-js-a-better-way-to-document-large-javascript-projects/)
 
 
 

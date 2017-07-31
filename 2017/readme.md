@@ -91,8 +91,11 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [JavaScript framework smartens up Firefox (Fathom.js)](http://www.infoworld.com/article/3193330/javascript/javascript-framework-smartens-up-firefox.html)
 - [Mozilla brings Python-style project documentation to JavaScript](http://www.infoworld.com/article/3208754/application-development/mozilla-brings-python-style-project-documentation-to-javascript.html)
 - [Introducing sphinx-js, a better way to document large JavaScript projects](https://hacks.mozilla.org/2017/07/introducing-sphinx-js-a-better-way-to-document-large-javascript-projects/)
-
-
+- [Introducing gpu.js: GPU Accelerated JavaScript – Hacker Noon](https://hackernoon.com/introducing-gpu-js-gpu-accelerated-javascript-ba11a6069327)
+- [Creating a Blog with Gatsby](https://www.gatsbyjs.org/blog/2017-07-19-creating-a-blog-with-gatsby/)
+- [Introducing IndieDojo: the bootcamp for indie hackers & bootstrappers](https://medium.com/indiedojo/introducing-indiedojo-the-bootcamp-for-indie-hackers-bootstrappers-76a8077c0d60)
+- [FCC Forum: I got the job! Here’s what I’ve learned from the job hunt](https://forum.freecodecamp.org/t/i-got-the-job-heres-what-ive-learned-from-the-job-hunt/137709)
+- [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
 
 
 ## React/Redux/ReWhatever
@@ -108,6 +111,7 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [How does React decide to re-render a component? (02/08/2017](http://lucybain.com/blog/2017/react-js-when-to-rerender/)
 - [10 React mini-patterns (02/26/2017)](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
 - [Build Yourself a Redux - Zapier](https://zapier.com/engineering/how-to-build-redux/)
+- [Redux Data Structures: Creator functions for common reducers](https://redux-data-structures.js.org/)
 
 ## React Native
 
@@ -122,6 +126,12 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [apollographql/Apollo-Codegen (generate an API based on schema)](https://github.com/apollographql/apollo-codegen)
 - [Freecom Tutorial: Realtime Updates with GraphQL Subscriptions (3/6)](https://www.graph.cool/docs/tutorials/freecom-3-subscriptions-die6mewitu/)
 
+## CheatSheets
+
+- [jQuery Cheat Sheet](https://websitesetup.org/jquery-cheat-sheet/)
+- [Redux Graphical Cheat Sheet (issue)](https://github.com/reactjs/redux/issues/2254)
+- [react-redux-cheatsheet (repo)](https://github.com/uanders/react-redux-cheatsheet)
+- [Redux Diagrams](https://github.com/reactjs/redux/issues/653)
 
 
 ## Testing

@@ -96,7 +96,15 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Introducing IndieDojo: the bootcamp for indie hackers & bootstrappers](https://medium.com/indiedojo/introducing-indiedojo-the-bootcamp-for-indie-hackers-bootstrappers-76a8077c0d60)
 - [FCC Forum: I got the job! Here’s what I’ve learned from the job hunt](https://forum.freecodecamp.org/t/i-got-the-job-heres-what-ive-learned-from-the-job-hunt/137709)
 - [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
+- [How I built a wind map with WebGL – Points of interest](https://blog.mapbox.com/how-i-built-a-wind-map-with-webgl-b63022b5537f)
 
+## August
+- [Programmers should be good at email too. Here is my guide to leveling up your Gmail game.](https://dev.to/peter/programmers-should-be-good-at-email-too-here-is-my-guide-to-leveling-up-your-gmail-game)
+- [Why you should work remotely](https://dev.to/gshotwell/why-you-should-work-remotely)
+- [Things I Brushed Up On This Week: The HTTP Request Lifecycle](https://dev.to/dangolant/things-i-brushed-up-on-this-week-the-http-request-lifecycle-)
+- [Explain TCP like I'm five](https://dev.to/ben/explain-tcp-like-im-five)
+- [rupa/z - terminal program that learns what you most 'frecently' use](https://github.com/rupa/z)
+- [Explain Ethereum like I'm five](https://dev.to/ben/explain-ethereum-like-im-five)
 
 ## React/Redux/ReWhatever
 

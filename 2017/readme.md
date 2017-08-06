@@ -105,9 +105,22 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Explain TCP like I'm five](https://dev.to/ben/explain-tcp-like-im-five)
 - [rupa/z - terminal program that learns what you most 'frecently' use](https://github.com/rupa/z)
 - [Explain Ethereum like I'm five](https://dev.to/ben/explain-ethereum-like-im-five)
+- [Object oriented vs. functional programming](https://www.johndcook.com/blog/2010/11/03/object-oriented-vs-functional-programming/)
+- [America’s Future Is Texas | The New Yorker](http://www.newyorker.com/magazine/2017/07/10/americas-future-is-texas)
+- [Simply typed lambda calculus - Wiki](https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus)
+- [Kubos - Major Tom](http://www.kubos.com/majortom/)
+- [F*: A Higher-Order Effectful Language Designed for Program Verification](https://www.fstar-lang.org)
+- [AMA with André Staltz - Hashnode]()
+- [WannaCry hero Marcus Hutchins could face 40 years in US prison](http://www.telegraph.co.uk/technology/2017/08/03/fbi-arrests-wannacry-hero-marcus-hutchins-las-vegas-reports/)
+- [Makandra Cards (git tips, etc.)](https://makandracards.com/makandra)
+- [CoinPouch App Enhances Cryptocurrency Security » Dallas Innovates](https://dallasinnovates.com/coinpouch-app-enhances-cryptocurrency-security/)
+- [Alligator.io - lots nice, focused dev articles](https://alligator.io)
+- [AudioContext.decodeAudioData() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/AudioContext/decodeAudioData)
+- []()
 
 ## React/Redux/ReWhatever
 
+- [Top Resources to Explore React Fiber](https://hackernoon.com/top-resources-to-explore-react-fiber-9a2b19114520)
 - [Unit Testing React/Redux](https://alexzywiak.github.io/unit-testing-react-redux/)
 - [React Flight - animation composition](http://www.react-flight.io/)
 - [mattkrick/redux-optimistic-ui](https://github.com/mattkrick/redux-optimistic-ui)
@@ -124,6 +137,13 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 ## React Native
 
 - [Full Stack React Native Development using GraphCool and Apollo Subscriptions + React Navigation](https://medium.com/react-native-training/full-stack-react-native-development-using-graphcool-and-apollo-subscriptions-react-navigation-cdb3e1374c05)
+- [Expo - Audio](https://docs.expo.io/versions/unversioned/sdk/audio.html)
+- [React Native at SoundCloud](https://developers.soundcloud.com/blog/react-native-at-soundcloud)
+- [Create React Native App](https://github.com/react-community/create-react-native-app)
+- [ReactXP - RN library from MicroSoft](https://microsoft.github.io/reactxp/) [github](https://github.com/Microsoft/reactxp)
+- []()
+- []()
+- []()
 
 ## GraphQL
 

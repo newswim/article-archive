@@ -116,10 +116,25 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [CoinPouch App Enhances Cryptocurrency Security » Dallas Innovates](https://dallasinnovates.com/coinpouch-app-enhances-cryptocurrency-security/)
 - [Alligator.io - lots nice, focused dev articles](https://alligator.io)
 - [AudioContext.decodeAudioData() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/AudioContext/decodeAudioData)
+
+## September
+- [Concurrent JavaScript: It can work!](https://webkit.org/blog/7846/concurrent-javascript-it-can-work/) -- In-depth article on shared array buffers
+- [Why Uber uses Braintree](https://www.braintreepayments.com/learn/braintree-merchants/uber)
+- [Apollo on FHIR Architecture](https://medium.com/@awatson1978/apollo-on-fhir-architecture-3d5bf4d0fc97) -- Apollo for legacy DB's and Blockchain(??)
+- [Graphile - Generating JWTs](https://www.graphile.org/postgraphile/security/#generating-jwts)
+- [AMA with Christopher Chedeau (Vjuex, via HashNode)](https://hashnode.com/ama/with-christopher-chedeau-cj6jrp1pj00173kwumzke4sq3)
+- [AMA with André Staltz - Hashnode](https://hashnode.com/ama/with-andre-staltz-cj5mx456r00rl8hwuzjpydy77)
+- [David Khourshid - Infinitely Better UIs with Finite Automata - YouTube](https://www.youtube.com/watch?v=VU1NKX6Qkxc)
+- [A Philologist Looks At "Finnegans Wake" | VQR Online](http://www.vqronline.org/philologist-looks-finnegans-wake)
+- [Refactoring React](https://8thlight.com/blog/josh-mccormick/2017/08/21/refactoring-react.html)
+- [Interview with RxJS creator Ben Lesh on observables and reactive programming](https://www.youtube.com/watch?v=Ah7Zu_lcd3o)
+- [gpujs/gpu.js - GPU Accelerated JavaScript](https://github.com/gpujs/gpu.js)
+- [http://gpu.rocks](http://gpu.rocks/)
+- [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
 - []()
 
-## React/Redux/ReWhatever
 
+## React/Redux/ReWhatever
 - [Top Resources to Explore React Fiber](https://hackernoon.com/top-resources-to-explore-react-fiber-9a2b19114520)
 - [Unit Testing React/Redux](https://alexzywiak.github.io/unit-testing-react-redux/)
 - [React Flight - animation composition](http://www.react-flight.io/)
@@ -133,20 +148,16 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [10 React mini-patterns (02/26/2017)](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
 - [Build Yourself a Redux - Zapier](https://zapier.com/engineering/how-to-build-redux/)
 - [Redux Data Structures: Creator functions for common reducers](https://redux-data-structures.js.org/)
+- [React > SyntheticEvent - Event Pooling](https://facebook.github.io/react/docs/events.html#event-pooling)
 
 ## React Native
-
 - [Full Stack React Native Development using GraphCool and Apollo Subscriptions + React Navigation](https://medium.com/react-native-training/full-stack-react-native-development-using-graphcool-and-apollo-subscriptions-react-navigation-cdb3e1374c05)
 - [Expo - Audio](https://docs.expo.io/versions/unversioned/sdk/audio.html)
 - [React Native at SoundCloud](https://developers.soundcloud.com/blog/react-native-at-soundcloud)
 - [Create React Native App](https://github.com/react-community/create-react-native-app)
 - [ReactXP - RN library from MicroSoft](https://microsoft.github.io/reactxp/) [github](https://github.com/Microsoft/reactxp)
-- []()
-- []()
-- []()
 
 ## GraphQL
-
 - [So what’s this GraphQL thing I keep hearing about?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
 - [Exploring Relay Modern](https://dev-blog.apollodata.com/exploring-relay-modern-276f5965f827)
 - [Explore GraphQL](https://www.graphql.com/)
@@ -154,20 +165,22 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [apollographql/Apollo-Codegen (generate an API based on schema)](https://github.com/apollographql/apollo-codegen)
 - [Freecom Tutorial: Realtime Updates with GraphQL Subscriptions (3/6)](https://www.graph.cool/docs/tutorials/freecom-3-subscriptions-die6mewitu/)
 
-## CheatSheets
+## Sketch / Vector stuff
+- [SketchApp.rocks](http://sketchapp.rocks/)
+- [LearnSketch.com](LearnSketch.com)
+- [LearnSketch.com - Quickly bring flat icons to life](http://learnsketch.com/tutorials/quickly-bring-flat-icons-to-life)
 
+## CheatSheets
 - [jQuery Cheat Sheet](https://websitesetup.org/jquery-cheat-sheet/)
 - [Redux Graphical Cheat Sheet (issue)](https://github.com/reactjs/redux/issues/2254)
 - [react-redux-cheatsheet (repo)](https://github.com/uanders/react-redux-cheatsheet)
 - [Redux Diagrams](https://github.com/reactjs/redux/issues/653)
-
+- [Python Cheat Sheet for Data Science: Intermediate](https://www.dataquest.io/blog/data-science-python-cheat-sheet/)
 
 ## Testing
-
 - [HTTP Mocking Made Easy With Nock](http://metaduck.com/04-nock.html)
 
 ## JavaScript
-
 - [Our entire team of engineers use this front end development guide (rundown of modern webdev stack)](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 - [stdlib/lib (microservice as a service)](https://github.com/stdlib/lib)
 - [docs.stdlib.com](https://docs.stdlib.com/main/#/introduction)
@@ -175,11 +188,11 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [WebAssembly cut Figma’s load time by 3x](https://blog.figma.com/webassembly-cut-figmas-load-time-by-3x-76f3f2395164)
 - [JavaScript Optimization Patterns (Part 2)](http://benediktmeurer.de/2017/06/29/javascript-optimization-patterns-part2)
 - [Pony Foo Weekly](https://ponyfoo.com/weekly)
+- [How JavaScript works: inside the V8 engine](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) - Aug 21, 11 min read
 
 
 
 ## Crypto / Eth / Btc altcoin jungle
-
 - [Lamport Signature - a quantum resistant key](https://en.wikipedia.org/wiki/Lamport_signature)
 - [Byzantine fault tolerance (wiki) - ](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance) / [Two Generals Problem](https://en.wikipedia.org/wiki/Two_Generals%27_Problem)
 - [Ethereum in 25 minutes - Vitalik Buterin, DevCon 2016 (youtube)](https://youtu.be/66SaEDzlmP4)
@@ -191,7 +204,6 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 
 
 ## SQL / Postgres
-
 - [Massive.js 3.0: A Postgres-centric Data Access Tool](https://github.com/dmfay/massive-js)
 - [brianc/node-postgres](https://github.com/brianc/node-postgres)
 - https://node-postgres.com
@@ -204,27 +216,22 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 
 
 ## UI/UX
-
 - [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
 
 
 ## Git
-
 - [Think Like A Git](http://think-like-a-git.net/)
 - [The Thing About Git (04/08/08)](http://2ndscale.com/rtomayko/2008/the-thing-about-git)
 
 ## Podcasts
-
 - [115 RR Functional and Object Oriented Programming with Jessica Kerr](https://devchat.tv/ruby-rogues/115-rr-functional-and-object-oriented-programming-with-jessica-kerr)
     - Published on: July 24, 2013 // Duration: 1:04:02
 
 ## Regex
-
 - [RexEgg](http://www.rexegg.com/regex-quickstart.html)
 - [Regex101](https://regex101.com/)
 
 ## DataVis
-
 - [HDR Histogram](http://hdrhistogram.net/)
 
 ## Machine Learning / A.I.
@@ -237,23 +244,19 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 ## Languages
 
 #### Elm
-
 - [Functional Sets, Part 1: Construction](https://www.brianthicks.com/post/2016/11/13/functional-sets-part-1-construction/)
 - [Introduction to data structures](http://ohanhi.com/master-elm-2-data-structures.html)
 
 #### Smalltalk
-
 - [Smalltalk Overview](http://web.cecs.pdx.edu/~harry/musings/SmalltalkOverview.html)
 
 #### JavaScript
-
 - [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 - [Async iterators and generators](https://jakearchibald.com/2017/async-iterators-and-generators)
 - [How To \*Be A Compiler](https://kosamari.com/presentation/jsconfcolombia-2016)
 - [HT\*BAC (blog post)](https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4)
 
 #### Go
-
 - [I tried Go and I liked it](https://dev.mikamai.com/2013/11/04/i-tried-go-and-i-liked-it/)
 - [Go By Example](https://gobyexample.com/)
 - [Introducing the Developer Experience Working Group - The Go Blog](https://blog.golang.org/developer-experience)
@@ -263,11 +266,9 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [`time` Package](https://golang.org/pkg/time/)
 
 ## Astronomy
-
 - [WR 104](https://en.wikipedia.org/wiki/WR_104)
 - [R136a1](https://en.wikipedia.org/wiki/R136a1)
 
 ## Books
-
 - [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
 - [Web Push Book](https://web-push-book.gauntface.com/) ("This website has a whole mess of content on implementing push for the web." - [Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API))

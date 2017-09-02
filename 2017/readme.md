@@ -131,7 +131,11 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [gpujs/gpu.js - GPU Accelerated JavaScript](https://github.com/gpujs/gpu.js)
 - [http://gpu.rocks](http://gpu.rocks/)
 - [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
-- []()
+- [Hash based signatures (ImperialViolet, 18 Jul 2013)](https://www.imperialviolet.org/2013/07/18/hashsig.html)
+- [Hat Guessing Game: The Answer](http://www.relisoft.com/Science/hats3.html)
+- [Reliable Software Blog (Bartosz Milewski)](http://www.relisoft.com/blog.html)
+- [Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/) -- Much ado about multithreading
+- [React Chat Tutorial: Storing Message History (2/4) (PubNub)](https://www.pubnub.com/tutorials/react/chat-message-history-and-infinite-scroll/)
 
 
 ## React/Redux/ReWhatever

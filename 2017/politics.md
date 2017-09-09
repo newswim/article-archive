@@ -1,0 +1,1 @@
+- [Rebecca Solnit: The Loneliness of Donald Trump | Literary Hub](http://lithub.com/rebecca-solnit-the-loneliness-of-donald-trump/)

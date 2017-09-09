@@ -136,7 +136,30 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Reliable Software Blog (Bartosz Milewski)](http://www.relisoft.com/blog.html)
 - [Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/) -- Much ado about multithreading
 - [React Chat Tutorial: Storing Message History (2/4) (PubNub)](https://www.pubnub.com/tutorials/react/chat-message-history-and-infinite-scroll/)
+- [mr-mig/every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know)
+- [How to write async await without try-catch blocks in Javascript](http://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
+- [How to make an OAuth 2 server with Node.js](https://blog.cloudboost.io/how-to-make-an-oauth-2-server-with-node-js-a6db02dc2ce7)
+- [Thoughts about JavaScript linters and “lint driven development”](https://medium.com/@danielsternlicht/thoughts-about-javascript-linters-and-lint-driven-development-7c8f17e7e1a0)
+- [React and The Mythical Man-Month](https://hackernoon.com/react-and-the-mythical-man-month-5ac12ba91f34)
+- [Arcadia - Write Unity with Clojure](https://github.com/arcadia-unity/Arcadia)
+- [Arcadia (website)](https://arcadia-unity.github.io/)
+- [Set-theoretic definition of natural numbers](https://en.wikipedia.org/wiki/Set-theoretic_definition_of_natural_numbers)
+- [Von Neumann definition of ordinals](https://en.wikipedia.org/wiki/Ordinal_number#Von_Neumann_definition_of_ordinals)
 
+
+## Vim and Vim-like things
+
+- [rafi/vim-config](https://github.com/rafi/vim-config)
+- [prettier/vim-prettier](https://github.com/prettier/vim-prettier)
+- [Kakoune code editor](http://kakoune.org/)
+- [Oni: An IDE powered by Neovim](https://github.com/extr0py/oni)
+- [Tmux - Learn X in Y](https://learnxinyminutes.com/docs/tmux/)
+
+## Tmux
+
+- [zolrath/wemux](https://github.com/zolrath/wemux)
+- [tmate](https://tmate.io/)
+- [tmuxinator](https://github.com/tmuxinator/tmuxinator)
 
 ## React/Redux/ReWhatever
 - [Top Resources to Explore React Fiber](https://hackernoon.com/top-resources-to-explore-react-fiber-9a2b19114520)
@@ -153,6 +176,12 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Build Yourself a Redux - Zapier](https://zapier.com/engineering/how-to-build-redux/)
 - [Redux Data Structures: Creator functions for common reducers](https://redux-data-structures.js.org/)
 - [React > SyntheticEvent - Event Pooling](https://facebook.github.io/react/docs/events.html#event-pooling)
+- [Function as Child Components Are an Anti-Pattern](http://americanexpress.io/faccs-are-an-antipattern)
+- [Build App with React - Live Coding Series](https://www.youtube.com/playlist?list=PLuNEz8XtB51KthRFiVtI8cmXNL9qlQJ5U)
+- [Building interactive visualizations with React, D3, and TypeScript](https://blog.lucify.com/building-interactive-visualizations-with-react-d3-and-typescript-206c7172b0d2)
+
+#### React 16
+- [What’s New in React 16 and Fiber Explanation](https://edgecoders.com/react-16-features-and-fiber-explanation-e779544bb1b7)
 
 ## React Native
 - [Full Stack React Native Development using GraphCool and Apollo Subscriptions + React Navigation](https://medium.com/react-native-training/full-stack-react-native-development-using-graphcool-and-apollo-subscriptions-react-navigation-cdb3e1374c05)
@@ -168,6 +197,8 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [A stronger (typed) React Apollo](https://dev-blog.apollodata.com/a-stronger-typed-react-apollo-c43bd52be0d8)
 - [apollographql/Apollo-Codegen (generate an API based on schema)](https://github.com/apollographql/apollo-codegen)
 - [Freecom Tutorial: Realtime Updates with GraphQL Subscriptions (3/6)](https://www.graph.cool/docs/tutorials/freecom-3-subscriptions-die6mewitu/)
+- [Dive Into GraphQL Part I: What's Wrong With REST?](https://marmelab.com/blog/2017/09/04/dive-into-graphql-part-i-what-s-wrong-with-rest.html)
+- [Using GraphQL? Why Facebook Now Owns You 🐲](https://medium.com/@dwalsh.sdlr/using-graphql-why-facebook-now-owns-you-3182751028c9)
 
 ## Sketch / Vector stuff
 - [SketchApp.rocks](http://sketchapp.rocks/)

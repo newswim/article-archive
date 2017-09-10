@@ -145,7 +145,11 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Arcadia (website)](https://arcadia-unity.github.io/)
 - [Set-theoretic definition of natural numbers](https://en.wikipedia.org/wiki/Set-theoretic_definition_of_natural_numbers)
 - [Von Neumann definition of ordinals](https://en.wikipedia.org/wiki/Ordinal_number#Von_Neumann_definition_of_ordinals)
-
+- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A subset of TypeScript that compiles to WebAssembly.
+- [assemblyscript.org](http://assemblyscript.org)
+- [State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md)
+- [Between the Wires: An interview with open source developer Sindre Sorhus](https://medium.freecodecamp.org/sindre-sorhus-8426c0ed785d)
+- [Breaking the x86 Instruction Set (video)](https://www.youtube.com/watch?v=KrksBdWcZgQ)
 
 ## Vim and Vim-like things
 
@@ -179,6 +183,7 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Function as Child Components Are an Anti-Pattern](http://americanexpress.io/faccs-are-an-antipattern)
 - [Build App with React - Live Coding Series](https://www.youtube.com/playlist?list=PLuNEz8XtB51KthRFiVtI8cmXNL9qlQJ5U)
 - [Building interactive visualizations with React, D3, and TypeScript](https://blog.lucify.com/building-interactive-visualizations-with-react-d3-and-typescript-206c7172b0d2)
+- [Type-safe monads and React](https://medium.com/@giuseppemaggiore/type-safe-monads-and-react-499b4a2f56d7)
 
 #### React 16
 - [What’s New in React 16 and Fiber Explanation](https://edgecoders.com/react-16-features-and-fiber-explanation-e779544bb1b7)

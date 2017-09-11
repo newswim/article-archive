@@ -151,6 +151,7 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Between the Wires: An interview with open source developer Sindre Sorhus](https://medium.freecodecamp.org/sindre-sorhus-8426c0ed785d)
 - [Breaking the x86 Instruction Set (video)](https://www.youtube.com/watch?v=KrksBdWcZgQ)
 
+
 ## Vim and Vim-like things
 
 - [rafi/vim-config](https://github.com/rafi/vim-config)

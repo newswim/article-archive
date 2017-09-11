@@ -1,1 +1,2 @@
 - [Rebecca Solnit: The Loneliness of Donald Trump | Literary Hub](http://lithub.com/rebecca-solnit-the-loneliness-of-donald-trump/)
+- [What the Rich Won’t Tell You - The New York Times, Sept 10 2017](https://www.nytimes.com/2017/09/08/opinion/sunday/what-the-rich-wont-tell-you.html)

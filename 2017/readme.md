@@ -150,6 +150,16 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md)
 - [Between the Wires: An interview with open source developer Sindre Sorhus](https://medium.freecodecamp.org/sindre-sorhus-8426c0ed785d)
 - [Breaking the x86 Instruction Set (video)](https://www.youtube.com/watch?v=KrksBdWcZgQ)
+- [Imaginary Numbers Are Real [Part 1: Introduction] - YouTube](https://www.youtube.com/watch?v=T647CGsuOVU)
+- [Going real time with Socket.IO, Node.Js, and React – codeburst](https://codeburst.io/going-real-time-with-socket-io-node-js-and-react-3e0f02d3d447)
+- [An Intro to Music Theory for Hackers](https://medium.com/@alwaysbcoding/an-intro-to-music-theory-for-hackers-8969ad4c1231)
+- [Get to know the Actor Model](https://monades.roperzh.com/get-to-know-the-actor-model/)
+
+
+## SQL
+- [The SQL Tutorial for Data Analysis (by Mode)](https://community.modeanalytics.com/sql/)
+- [PostgreSQL: Documentation: 8.2: Schemas](https://www.postgresql.org/docs/8.2/static/ddl-schemas.html)
+- [Third normal form - Wikipedia](https://en.wikipedia.org/wiki/Third_normal_form)
 
 
 ## Vim and Vim-like things
@@ -186,6 +196,7 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Building interactive visualizations with React, D3, and TypeScript](https://blog.lucify.com/building-interactive-visualizations-with-react-d3-and-typescript-206c7172b0d2)
 - [Type-safe monads and React](https://medium.com/@giuseppemaggiore/type-safe-monads-and-react-499b4a2f56d7)
 
+
 #### React 16
 - [What’s New in React 16 and Fiber Explanation](https://edgecoders.com/react-16-features-and-fiber-explanation-e779544bb1b7)
 
@@ -205,6 +216,8 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Freecom Tutorial: Realtime Updates with GraphQL Subscriptions (3/6)](https://www.graph.cool/docs/tutorials/freecom-3-subscriptions-die6mewitu/)
 - [Dive Into GraphQL Part I: What's Wrong With REST?](https://marmelab.com/blog/2017/09/04/dive-into-graphql-part-i-what-s-wrong-with-rest.html)
 - [Using GraphQL? Why Facebook Now Owns You 🐲](https://medium.com/@dwalsh.sdlr/using-graphql-why-facebook-now-owns-you-3182751028c9)
+- [What’s coming in Apollo Client 2.0 – Apollo GraphQL](https://dev-blog.apollodata.com/whats-coming-in-apollo-client-2-0-bcd8ea64acbd)
+
 
 ## Sketch / Vector stuff
 - [SketchApp.rocks](http://sketchapp.rocks/)

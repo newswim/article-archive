@@ -1,5 +1,3 @@
-###  Mostly a giant list of articles whose titles were titillating.
-
 # - [2016 archive](https://github.com/newswim/article-archive/blob/master/Feb%202016%20-%20Dec%202016/readme.md)
 # - [2017 archive](https://github.com/newswim/article-archive/tree/master/2017)
 

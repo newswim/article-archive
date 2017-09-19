@@ -154,6 +154,7 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Going real time with Socket.IO, Node.Js, and React – codeburst](https://codeburst.io/going-real-time-with-socket-io-node-js-and-react-3e0f02d3d447)
 - [An Intro to Music Theory for Hackers](https://medium.com/@alwaysbcoding/an-intro-to-music-theory-for-hackers-8969ad4c1231)
 - [Get to know the Actor Model](https://monades.roperzh.com/get-to-know-the-actor-model/)
+- [What Sounds Extremely Wrong But Is Actually Correct? - Quora](https://www.quora.com/What-sounds-extremely-wrong-but-is-actually-correct-1)
 
 
 ## SQL
@@ -195,6 +196,7 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Build App with React - Live Coding Series](https://www.youtube.com/playlist?list=PLuNEz8XtB51KthRFiVtI8cmXNL9qlQJ5U)
 - [Building interactive visualizations with React, D3, and TypeScript](https://blog.lucify.com/building-interactive-visualizations-with-react-d3-and-typescript-206c7172b0d2)
 - [Type-safe monads and React](https://medium.com/@giuseppemaggiore/type-safe-monads-and-react-499b4a2f56d7)
+- [Events Live Cheatsheet](https://reactarmory.com/guides/react-events-cheatsheet)
 
 
 #### React 16

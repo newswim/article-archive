@@ -155,6 +155,7 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [An Intro to Music Theory for Hackers](https://medium.com/@alwaysbcoding/an-intro-to-music-theory-for-hackers-8969ad4c1231)
 - [Get to know the Actor Model](https://monades.roperzh.com/get-to-know-the-actor-model/)
 - [What Sounds Extremely Wrong But Is Actually Correct? - Quora](https://www.quora.com/What-sounds-extremely-wrong-but-is-actually-correct-1)
+- [Data 61 - Future Cities](http://data61.csiro.au/en/Our-Work/Future-Cities)
 
 
 ## SQL
@@ -298,6 +299,9 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Google CEO Sergey Brin, "I didn't see Artificial Intelligence coming.](https://youtu.be/30rx3dBPbIs)
 
 ## Languages
+
+### Haskell
+- [Pinpointing space leaks in big programs](http://blog.ezyang.com/2011/06/pinpointing-space-leaks-in-big-programs/)
 
 #### Elm
 - [Functional Sets, Part 1: Construction](https://www.brianthicks.com/post/2016/11/13/functional-sets-part-1-construction/)

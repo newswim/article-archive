@@ -156,6 +156,8 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Get to know the Actor Model](https://monades.roperzh.com/get-to-know-the-actor-model/)
 - [What Sounds Extremely Wrong But Is Actually Correct? - Quora](https://www.quora.com/What-sounds-extremely-wrong-but-is-actually-correct-1)
 - [Data 61 - Future Cities](http://data61.csiro.au/en/Our-Work/Future-Cities)
+- [What’s coming in Apollo Client 2.0](https://dev-blog.apollodata.com/whats-coming-in-apollo-client-2-0-bcd8ea64acbd)
+- [Apollo Link: The modular GraphQL network stack](https://dev-blog.apollodata.com/apollo-link-the-modular-graphql-network-stack-3b6d5fcf9244)
 
 
 ## SQL
@@ -198,6 +200,8 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Building interactive visualizations with React, D3, and TypeScript](https://blog.lucify.com/building-interactive-visualizations-with-react-d3-and-typescript-206c7172b0d2)
 - [Type-safe monads and React](https://medium.com/@giuseppemaggiore/type-safe-monads-and-react-499b4a2f56d7)
 - [Events Live Cheatsheet](https://reactarmory.com/guides/react-events-cheatsheet)
+- [Type-safe monads and React](https://medium.com/@giuseppemaggiore/type-safe-monads-and-react-499b4a2f56d7)
+- [monadic_react](https://www.npmjs.com/package/monadic_react)
 
 
 #### React 16
@@ -302,6 +306,8 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 
 ### Haskell
 - [Pinpointing space leaks in big programs](http://blog.ezyang.com/2011/06/pinpointing-space-leaks-in-big-programs/)
+- [Haskell/The Curry–Howard isomorphism (Haskell wikibook)](https://en.wikibooks.org/wiki/Haskell/The_Curry%E2%80%93Howard_isomorphism)
+- [Curry–Howard correspondence (wiki)](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)
 
 #### Elm
 - [Functional Sets, Part 1: Construction](https://www.brianthicks.com/post/2016/11/13/functional-sets-part-1-construction/)

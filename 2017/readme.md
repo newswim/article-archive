@@ -159,6 +159,13 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [What’s coming in Apollo Client 2.0](https://dev-blog.apollodata.com/whats-coming-in-apollo-client-2-0-bcd8ea64acbd)
 - [Apollo Link: The modular GraphQL network stack](https://dev-blog.apollodata.com/apollo-link-the-modular-graphql-network-stack-3b6d5fcf9244)
 
+## October
+
+- [FireFox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+- [Dirac delta function](https://en.wikipedia.org/wiki/Dirac_delta_function)
+- [ObservableHQ](https://observablehq.com/)
+- [Analyzing the ZRX Token Sale](https://blog.0xproject.com/analyzing-the-zrx-token-sale-a94b8642c78e)
+
 
 ## SQL
 - [The SQL Tutorial for Data Analysis (by Mode)](https://community.modeanalytics.com/sql/)

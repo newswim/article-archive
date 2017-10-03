@@ -165,6 +165,13 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Dirac delta function](https://en.wikipedia.org/wiki/Dirac_delta_function)
 - [ObservableHQ](https://observablehq.com/)
 - [Analyzing the ZRX Token Sale](https://blog.0xproject.com/analyzing-the-zrx-token-sale-a94b8642c78e)
+- [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+- [Learn JavaScript Promises by Building a Promise from Scratch](https://medium.com/gitconnected/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
+- [Asynchronous stack traces: why await beats .then()](https://mathiasbynens.be/notes/async-stack-traces)
+- [The State of Internationalization in JavaScript](https://www.sitepen.com/blog/2017/07/19/the-state-of-internationalization-in-javascript/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-10-03)
+- [A tour of Abstract Syntax Trees](https://blog.buildo.io/a-tour-of-abstract-syntax-trees-906c0574a067)
+- [ES6 Promises: Patterns and Anti-Patterns](https://medium.com/datafire-io/es6-promises-patterns-and-anti-patterns-bbb21a5d0918)
+- [The power JavaScript: 'Gandalf of JS' Wirfs-Brock on ECMAscript 2017](https://www.theregister.co.uk/2017/09/26/allen_wirfs_brock_interview/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-10-03)
 
 
 ## SQL

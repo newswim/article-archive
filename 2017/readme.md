@@ -264,6 +264,7 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [JavaScript Optimization Patterns (Part 2)](http://benediktmeurer.de/2017/06/29/javascript-optimization-patterns-part2)
 - [Pony Foo Weekly](https://ponyfoo.com/weekly)
 - [How JavaScript works: inside the V8 engine](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) - Aug 21, 11 min read
+- [Parser API (mdn)](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API)
 
 
 

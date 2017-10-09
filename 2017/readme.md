@@ -172,6 +172,13 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [A tour of Abstract Syntax Trees](https://blog.buildo.io/a-tour-of-abstract-syntax-trees-906c0574a067)
 - [ES6 Promises: Patterns and Anti-Patterns](https://medium.com/datafire-io/es6-promises-patterns-and-anti-patterns-bbb21a5d0918)
 - [The power JavaScript: 'Gandalf of JS' Wirfs-Brock on ECMAscript 2017](https://www.theregister.co.uk/2017/09/26/allen_wirfs_brock_interview/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-10-03)
+- [From design patterns to category theory by Mark Seemann](http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
+
+
+## Stripe
+- [Stripe Elements](https://stripe.com/elements)
+- [Creating Charges (Connect)](https://stripe.com/docs/connect/charges)
+- [Stripe.js Reference](https://stripe.com/docs/stripe.js)
 
 
 ## SQL
@@ -238,6 +245,7 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Dive Into GraphQL Part I: What's Wrong With REST?](https://marmelab.com/blog/2017/09/04/dive-into-graphql-part-i-what-s-wrong-with-rest.html)
 - [Using GraphQL? Why Facebook Now Owns You 🐲](https://medium.com/@dwalsh.sdlr/using-graphql-why-facebook-now-owns-you-3182751028c9)
 - [What’s coming in Apollo Client 2.0 – Apollo GraphQL](https://dev-blog.apollodata.com/whats-coming-in-apollo-client-2-0-bcd8ea64acbd)
+- [Explaining GraphQL Connections – Apollo GraphQL (@calebmer)](https://dev-blog.apollodata.com/explaining-graphql-connections-c48b7c3d6976)
 
 
 ## Sketch / Vector stuff

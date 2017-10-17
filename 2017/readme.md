@@ -173,6 +173,9 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [ES6 Promises: Patterns and Anti-Patterns](https://medium.com/datafire-io/es6-promises-patterns-and-anti-patterns-bbb21a5d0918)
 - [The power JavaScript: 'Gandalf of JS' Wirfs-Brock on ECMAscript 2017](https://www.theregister.co.uk/2017/09/26/allen_wirfs_brock_interview/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-10-03)
 - [From design patterns to category theory by Mark Seemann](http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
+- [The whole web at maximum FPS: How WebRender gets rid of jank](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
+- [Real-Time React with Socket.io: Building a Pair Programming App](http://www.thegreatcodeadventure.com/real-time-react-with-socket-io-building-a-pair-programming-app/)
+- [Combining React with Socket.io for real-time goodness](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
 
 
 ## Stripe
@@ -223,6 +226,9 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Events Live Cheatsheet](https://reactarmory.com/guides/react-events-cheatsheet)
 - [Type-safe monads and React](https://medium.com/@giuseppemaggiore/type-safe-monads-and-react-499b4a2f56d7)
 - [monadic_react](https://www.npmjs.com/package/monadic_react)
+
+## Structuring React
+- [Writing Scalable React Apps with the Component Folder Pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
 
 
 #### React 16

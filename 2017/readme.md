@@ -177,6 +177,27 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Real-Time React with Socket.io: Building a Pair Programming App](http://www.thegreatcodeadventure.com/real-time-react-with-socket-io-building-a-pair-programming-app/)
 - [Combining React with Socket.io for real-time goodness](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
 
+## November
+
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js)
+- [Stefan Judis' blog - TIL](https://www.stefanjudis.com/today-i-learned/)
+- [Y Combinators Paul Graham: The Fundamentals Of Startups](https://youtu.be/4zdDaM--RgU)
+- [Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+## Teaching / Mentoring
+- [Teaching Code: A Getting Started Guide](https://www.shopify.com/partners/blog/teaching-coding-a-getting-started-guide)
+
+
+## Scuttlebutt / SSB
+- [The Nomad Who’s Exploding the Internet Into Pieces](https://www.theatlantic.com/technology/archive/2017/05/meet-the-counterantidisintermediationists/527553/)
+
 
 ## Stripe
 - [Stripe Elements](https://stripe.com/elements)
@@ -229,7 +250,7 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 
 ## Structuring React
 - [Writing Scalable React Apps with the Component Folder Pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
-
+- [The 100% correct way to structure a React app (or why there’s no such thing)](https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed)
 
 #### React 16
 - [What’s New in React 16 and Fiber Explanation](https://edgecoders.com/react-16-features-and-fiber-explanation-e779544bb1b7)
@@ -252,6 +273,8 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Using GraphQL? Why Facebook Now Owns You 🐲](https://medium.com/@dwalsh.sdlr/using-graphql-why-facebook-now-owns-you-3182751028c9)
 - [What’s coming in Apollo Client 2.0 – Apollo GraphQL](https://dev-blog.apollodata.com/whats-coming-in-apollo-client-2-0-bcd8ea64acbd)
 - [Explaining GraphQL Connections – Apollo GraphQL (@calebmer)](https://dev-blog.apollodata.com/explaining-graphql-connections-c48b7c3d6976)
+- [How to use GraphQL in your Redux app](https://medium.freecodecamp.org/tutorial-how-to-use-graphql-in-your-redux-app-9bf8ebbeb362)
+- [RStankov/SearchObjectGraphQL (ruby gem)](https://github.com/RStankov/SearchObjectGraphQL)
 
 
 ## Sketch / Vector stuff
@@ -338,20 +361,25 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Haskell/The Curry–Howard isomorphism (Haskell wikibook)](https://en.wikibooks.org/wiki/Haskell/The_Curry%E2%80%93Howard_isomorphism)
 - [Curry–Howard correspondence (wiki)](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)
 
-#### Elm
+### Elm
 - [Functional Sets, Part 1: Construction](https://www.brianthicks.com/post/2016/11/13/functional-sets-part-1-construction/)
 - [Introduction to data structures](http://ohanhi.com/master-elm-2-data-structures.html)
 
-#### Smalltalk
+### Smalltalk
 - [Smalltalk Overview](http://web.cecs.pdx.edu/~harry/musings/SmalltalkOverview.html)
 
-#### JavaScript
+### JavaScript
 - [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
+- [How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+- [Await and Async Explained with Diagrams and Examples – Nikolay Grozev](http://nikgrozev.com/2017/10/01/async-await/)
 - [Async iterators and generators](https://jakearchibald.com/2017/async-iterators-and-generators)
 - [How To \*Be A Compiler](https://kosamari.com/presentation/jsconfcolombia-2016)
 - [HT\*BAC (blog post)](https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4)
 
-#### Go
+### Ruby
+- [Why's Poignant Guide To Ruby](https://poignant.guide/book/)
+
+### Go
 - [I tried Go and I liked it](https://dev.mikamai.com/2013/11/04/i-tried-go-and-i-liked-it/)
 - [Go By Example](https://gobyexample.com/)
 - [Introducing the Developer Experience Working Group - The Go Blog](https://blog.golang.org/developer-experience)
@@ -359,6 +387,8 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [`adjust/rmq` - Message queue system written in Go and backed by Redis](https://github.com/adjust/rmq)
 - [Go Concurrency Patterns: Context](https://blog.golang.org/context)
 - [`time` Package](https://golang.org/pkg/time/)
+
+# Other
 
 ## Astronomy
 - [WR 104](https://en.wikipedia.org/wiki/WR_104)

@@ -184,11 +184,9 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Stefan Judis' blog - TIL](https://www.stefanjudis.com/today-i-learned/)
 - [Y Combinators Paul Graham: The Fundamentals Of Startups](https://youtu.be/4zdDaM--RgU)
 - [Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Gentle introduction into compilers. Part 1: Lexical analysis and Scanner (DailyJS)](https://medium.com/dailyjs/gentle-introduction-into-compilers-part-1-lexical-analysis-and-scanner-733246be6738)
+- [Podcast Interview with creator of TimeScaleDB](https://www.oreilly.com/ideas/a-scalable-time-series-database-that-supports-sql)
+- [TimeScaleDB - How It Works](http://www.timescale.com/how-it-works)
 
 
 ## Teaching / Mentoring
@@ -292,18 +290,6 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 ## Testing
 - [HTTP Mocking Made Easy With Nock](http://metaduck.com/04-nock.html)
 
-## JavaScript
-- [Our entire team of engineers use this front end development guide (rundown of modern webdev stack)](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
-- [stdlib/lib (microservice as a service)](https://github.com/stdlib/lib)
-- [docs.stdlib.com](https://docs.stdlib.com/main/#/introduction)
-- [stdlib.com](https://stdlib.com/)
-- [WebAssembly cut Figma’s load time by 3x](https://blog.figma.com/webassembly-cut-figmas-load-time-by-3x-76f3f2395164)
-- [JavaScript Optimization Patterns (Part 2)](http://benediktmeurer.de/2017/06/29/javascript-optimization-patterns-part2)
-- [Pony Foo Weekly](https://ponyfoo.com/weekly)
-- [How JavaScript works: inside the V8 engine](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) - Aug 21, 11 min read
-- [Parser API (mdn)](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API)
-
-
 
 ## Crypto / Eth / Btc altcoin jungle
 - [Lamport Signature - a quantum resistant key](https://en.wikipedia.org/wiki/Lamport_signature)
@@ -360,13 +346,22 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Pinpointing space leaks in big programs](http://blog.ezyang.com/2011/06/pinpointing-space-leaks-in-big-programs/)
 - [Haskell/The Curry–Howard isomorphism (Haskell wikibook)](https://en.wikibooks.org/wiki/Haskell/The_Curry%E2%80%93Howard_isomorphism)
 - [Curry–Howard correspondence (wiki)](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)
+- [Persistent Red Black Trees in Haskell](https://abhiroop.github.io/Haskell-Red-Black-Tree/)
+- [Motor: Finite-State Machines in Haskell](https://wickstrom.tech/programming/2017/10/27/motor-finite-state-machines-haskell.html)
+- [Building GHC: The package database](https://medium.com/@zw3rk/building-ghc-the-package-database-50c37cf6ce33)
+- [Contributing to GHC](http://www.parsonsmatt.org/2017/10/29/contributing_to_ghc.html)
+- [Dueling Rhetoric of Clojure and Haskell](http://tech.frontrowed.com/2017/11/01/rhetoric-of-clojure-and-haskell/)
+- [The Exodus To Streamgard, An Epic Poem](https://www.tweag.io/posts/2017-11-01-streaming-and-foldl.html)
+
 
 ### Elm
 - [Functional Sets, Part 1: Construction](https://www.brianthicks.com/post/2016/11/13/functional-sets-part-1-construction/)
 - [Introduction to data structures](http://ohanhi.com/master-elm-2-data-structures.html)
 
+
 ### Smalltalk
 - [Smalltalk Overview](http://web.cecs.pdx.edu/~harry/musings/SmalltalkOverview.html)
+
 
 ### JavaScript
 - [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
@@ -375,9 +370,22 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Async iterators and generators](https://jakearchibald.com/2017/async-iterators-and-generators)
 - [How To \*Be A Compiler](https://kosamari.com/presentation/jsconfcolombia-2016)
 - [HT\*BAC (blog post)](https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4)
+- [Our entire team of engineers use this front end development guide (rundown of modern webdev stack)](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
+- [stdlib/lib (microservice as a service)](https://github.com/stdlib/lib)
+- [docs.stdlib.com](https://docs.stdlib.com/main/#/introduction)
+- [stdlib.com](https://stdlib.com/)
+- [WebAssembly cut Figma’s load time by 3x](https://blog.figma.com/webassembly-cut-figmas-load-time-by-3x-76f3f2395164)
+- [JavaScript Optimization Patterns (Part 2)](http://benediktmeurer.de/2017/06/29/javascript-optimization-patterns-part2)
+- [Pony Foo Weekly](https://ponyfoo.com/weekly)
+- [How JavaScript works: inside the V8 engine](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) - Aug 21, 11 min read
+- [Parser API (mdn)](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API)
+- [A bunch of JS CheatSheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 
 ### Ruby
-- [Why's Poignant Guide To Ruby](https://poignant.guide/book/)
+- [Why's Poignant Guide To Ruby](https://poignant.guide/book)
+- [Web Scraping With RoR](https://blog.devcenter.co/web-scraping-with-ruby-on-rails-67c5d3d133ff)
+- [RoR - Guides](http://guides.rubyonrails.org/)
+
 
 ### Go
 - [I tried Go and I liked it](https://dev.mikamai.com/2013/11/04/i-tried-go-and-i-liked-it/)

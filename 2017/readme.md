@@ -187,6 +187,29 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Gentle introduction into compilers. Part 1: Lexical analysis and Scanner (DailyJS)](https://medium.com/dailyjs/gentle-introduction-into-compilers-part-1-lexical-analysis-and-scanner-733246be6738)
 - [Podcast Interview with creator of TimeScaleDB](https://www.oreilly.com/ideas/a-scalable-time-series-database-that-supports-sql)
 - [TimeScaleDB - How It Works](http://www.timescale.com/how-it-works)
+- [Simple and Happy; is Clojure dying, and what has Ruby got to do with it?](https://lambdaisland.com/blog/25-05-2017-simple-and-happy-is-clojure-dying-and-what-has-ruby-got-to-do-with-it)
+- [Lambda Island (clojure courses)](https://lambdaisland.com/)
+- [GOTO 2017 • Idée Fixe • David Nolen](https://youtu.be/lzXHMy4ewtM)
+- [Auth0 - Client Grants](https://auth0.com/docs/api/management/v2#!/Client_Grants/get_client_grants)
+- [Confused about Stack and Heap? – Fhinkel](https://medium.com/fhinkel/confused-about-stack-and-heap-2cf3e6adb771)
+
+
+## SQL > Data Design
+- [What is an Entity Relationship Diagram](https://www.lucidchart.com/pages/er-diagrams)
+- [The SQL Tutorial for Data Analysis (by Mode)](https://community.modeanalytics.com/sql/)
+- [PostgreSQL: Documentation: 8.2: Schemas](https://www.postgresql.org/docs/8.2/static/ddl-schemas.html)
+- [Third normal form - Wikipedia](https://en.wikipedia.org/wiki/Third_normal_form)
+
+## SQL > Postgres
+- [Massive.js 3.0: A Postgres-centric Data Access Tool](https://github.com/dmfay/massive-js)
+- [brianc/node-postgres](https://github.com/brianc/node-postgres)
+- https://node-postgres.com
+- [PostgreSQL - create materialized view](https://www.postgresql.org/docs/9.3/static/sql-creatematerializedview.html)
+- [PostgreSQL Tutorial - 3.2. Views](https://www.postgresql.org/docs/9.5/static/tutorial-views.html)
+- [Materialized View Strategies Using PostgreSQL](https://hashrocket.com/blog/posts/materialized-view-strategies-using-postgresql)
+- [Advanced Postgres Performance Tips](https://robots.thoughtbot.com/advanced-postgres-performance-tips)
+- [Data modeling basics: Materialized views](http://exponential.io/blog/2015/01/06/data-modeling-basics-materialized-views/)
+- [TDS - Tabular Data Stream](https://en.wikipedia.org/wiki/Tabular_Data_Stream)
 
 
 ## Teaching / Mentoring
@@ -201,12 +224,6 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Stripe Elements](https://stripe.com/elements)
 - [Creating Charges (Connect)](https://stripe.com/docs/connect/charges)
 - [Stripe.js Reference](https://stripe.com/docs/stripe.js)
-
-
-## SQL
-- [The SQL Tutorial for Data Analysis (by Mode)](https://community.modeanalytics.com/sql/)
-- [PostgreSQL: Documentation: 8.2: Schemas](https://www.postgresql.org/docs/8.2/static/ddl-schemas.html)
-- [Third normal form - Wikipedia](https://en.wikipedia.org/wiki/Third_normal_form)
 
 
 ## Vim and Vim-like things
@@ -300,18 +317,6 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [How can I securely generate a random number in my smart contract?](https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-random-number-in-my-smart-contract)
 - [Coursera: Cryptography I](https://www.class-central.com/mooc/616/coursera-cryptography-i)
 - [Ever wonder how Bitcoin (and other cryptocurrencies) actually work? (3blue1brown)](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-
-
-## SQL / Postgres
-- [Massive.js 3.0: A Postgres-centric Data Access Tool](https://github.com/dmfay/massive-js)
-- [brianc/node-postgres](https://github.com/brianc/node-postgres)
-- https://node-postgres.com
-- [PostgreSQL - create materialized view](https://www.postgresql.org/docs/9.3/static/sql-creatematerializedview.html)
-- [PostgreSQL Tutorial - 3.2. Views](https://www.postgresql.org/docs/9.5/static/tutorial-views.html)
-- [Materialized View Strategies Using PostgreSQL](https://hashrocket.com/blog/posts/materialized-view-strategies-using-postgresql)
-- [Advanced Postgres Performance Tips](https://robots.thoughtbot.com/advanced-postgres-performance-tips)
-- [Data modeling basics: Materialized views](http://exponential.io/blog/2015/01/06/data-modeling-basics-materialized-views/)
-- [TDS - Tabular Data Stream](https://en.wikipedia.org/wiki/Tabular_Data_Stream)
 
 
 ## UI/UX

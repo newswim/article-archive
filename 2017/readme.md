@@ -192,6 +192,11 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [GOTO 2017 • Idée Fixe • David Nolen](https://youtu.be/lzXHMy4ewtM)
 - [Auth0 - Client Grants](https://auth0.com/docs/api/management/v2#!/Client_Grants/get_client_grants)
 - [Confused about Stack and Heap? – Fhinkel](https://medium.com/fhinkel/confused-about-stack-and-heap-2cf3e6adb771)
+- [Fredkin gate - Wikipedia](https://en.wikipedia.org/wiki/Fredkin_gate)
+- [A quantum Fredkin gate](http://advances.sciencemag.org/content/2/3/e1501531)
+- [(Quora) Do you agree with John Backus in "Can Programming Be Liberated from the Von Neumann Style?" regarding functional style programming?](https://www.quora.com/Do-you-agree-with-John-Backus-in-Can-Programming-Be-Liberated-from-the-Von-Neumann-Style-regarding-functional-style-programming)
+- [What is the difference between a block, a proc, and a lambda in ruby? - Build, Break, Learn.](http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/)
+- [Rails and Merb Merge](http://yehudakatz.com/2008/12/23/rails-and-merb-merge/)
 
 
 ## SQL > Data Design

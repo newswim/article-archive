@@ -197,6 +197,9 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [(Quora) Do you agree with John Backus in "Can Programming Be Liberated from the Von Neumann Style?" regarding functional style programming?](https://www.quora.com/Do-you-agree-with-John-Backus-in-Can-Programming-Be-Liberated-from-the-Von-Neumann-Style-regarding-functional-style-programming)
 - [What is the difference between a block, a proc, and a lambda in ruby? - Build, Break, Learn.](http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/)
 - [Rails and Merb Merge](http://yehudakatz.com/2008/12/23/rails-and-merb-merge/)
+- [What to learn in 2017 if you’re a frontend developer](http://blog.sapegin.me/all/what-to-learn-in-2017)
+- [Flight rules for git - k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules)
+- [Up-For-Grabs - search for 'help wanted' issues on github](http://up-for-grabs.net/)
 
 
 ## SQL > Data Design

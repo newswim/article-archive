@@ -200,6 +200,10 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [What to learn in 2017 if you’re a frontend developer](http://blog.sapegin.me/all/what-to-learn-in-2017)
 - [Flight rules for git - k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules)
 - [Up-For-Grabs - search for 'help wanted' issues on github](http://up-for-grabs.net/)
+- [Uber AI Labs Open Sources Pyro, a Deep Probabilistic Programming Language](https://eng.uber.com/pyro/)
+- [Giving Open-Source Projects Life After A Developer's Death](https://refind.com/link/8711455?tb=true#https://www.wired.com/story/giving-open-source-projects-life-after-a-developers-death)
+- [Julia set - wiki](https://en.wikipedia.org/wiki/Julia_set)
+- []()
 
 
 ## SQL > Data Design
@@ -411,10 +415,15 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 
 # Other
 
-## Astronomy
+### Astronomy
 - [WR 104](https://en.wikipedia.org/wiki/WR_104)
 - [R136a1](https://en.wikipedia.org/wiki/R136a1)
 
-## Books
+### Constructor Theory
+- ['Constructor Theory' - Diego Mesa's Blog](http://diego898.github.io/2014/05/27/constructor_theory/)
+- [Deeper Than Quantum Mechanics — David Deutsch’s New Theory of Reality](https://medium.com/the-physics-arxiv-blog/deeper-than-quantum-mechanics-david-deutschs-new-theory-of-reality-9b8281bc793a)
+- [A Meta-Law to Rule Them All: Physicists Devise a “Theory of Everything” ](https://www.scientificamerican.com/article/a-meta-law-to-rule-them-all-physicists-devise-a-theory-of-everything/) - Scientific American
+
+### Books
 - [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
 - [Web Push Book](https://web-push-book.gauntface.com/) ("This website has a whole mess of content on implementing push for the web." - [Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API))

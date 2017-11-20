@@ -203,7 +203,7 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 - [Uber AI Labs Open Sources Pyro, a Deep Probabilistic Programming Language](https://eng.uber.com/pyro/)
 - [Giving Open-Source Projects Life After A Developer's Death](https://refind.com/link/8711455?tb=true#https://www.wired.com/story/giving-open-source-projects-life-after-a-developers-death)
 - [Julia set - wiki](https://en.wikipedia.org/wiki/Julia_set)
-- []()
+- [Intercom's Product Management Book](https://marketing.intercomcdn.com/assets/pm-book/v3/Intercom_on_Product_Management.pdf)
 
 
 ## SQL > Data Design

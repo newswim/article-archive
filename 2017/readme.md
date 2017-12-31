@@ -211,8 +211,12 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 * [The Curse of Dimensionality - And how we can save Big Data from itself](https://medium.freecodecamp.org/the-curse-of-dimensionality-how-we-can-save-big-data-from-itself-d9fa0f872335)
 * [MDN - Media Events](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Media_events)
 * [Building a React Audio Player](http://nael.io/2017-03-11-building-a-react-audio-player/)
-* []()
-* []()
+* [Phil Freeman's blog - blog.functorial.com](http://blog.functorial.com/)
+* [Conal Elliott's blog - http://conal.net/blog](http://conal.net/blog/)
+* [Semantic editor combinators](http://conal.net/blog/posts/semantic-editor-combinators)
+* [I’ve spent 2 years living abroad in Airbnbs. Here’s what I’ve learned.](https://lengstorf.com/two-years-in-airbnbs/)
+* [The Vietnam of Computer Science - Ted Neward's Blog](http://blogs.tedneward.com/post/the-vietnam-of-computer-science/)
+* [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * []()
 
 ## SQL > Data Design
@@ -221,6 +225,7 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 * [The SQL Tutorial for Data Analysis (by Mode)](https://community.modeanalytics.com/sql/)
 * [PostgreSQL: Documentation: 8.2: Schemas](https://www.postgresql.org/docs/8.2/static/ddl-schemas.html)
 * [Third normal form - Wikipedia](https://en.wikipedia.org/wiki/Third_normal_form)
+* [What ORMs have taught me: just learn SQL](http://woz.posthaven.com/what-orms-have-taught-me-just-learn-sql)
 
 ## SQL > Postgres
 
@@ -395,6 +400,10 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 
 * [Functional Sets, Part 1: Construction](https://www.brianthicks.com/post/2016/11/13/functional-sets-part-1-construction/)
 * [Introduction to data structures](http://ohanhi.com/master-elm-2-data-structures.html)
+
+### Clojure / ClojureScript
+
+* [Straightforward (Live) Functional JavaScript: Building the Yome Widget](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html)
 
 ### Smalltalk
 

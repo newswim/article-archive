@@ -217,7 +217,9 @@ days, I'll categorize everything and put them all into a big resource bucket. Ri
 * [I’ve spent 2 years living abroad in Airbnbs. Here’s what I’ve learned.](https://lengstorf.com/two-years-in-airbnbs/)
 * [The Vietnam of Computer Science - Ted Neward's Blog](http://blogs.tedneward.com/post/the-vietnam-of-computer-science/)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
-* []()
+* [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph)
+* [A Better Way to Code: Introducing d3.express]()
+* [Learnable Programming](http://worrydream.com/LearnableProgramming/)
 
 ## SQL > Data Design
 

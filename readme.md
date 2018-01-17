@@ -1,5 +1,6 @@
-# - [2016 archive](https://github.com/newswim/article-archive/blob/master/Feb%202016%20-%20Dec%202016/readme.md)
-# - [2017 archive](https://github.com/newswim/article-archive/tree/master/2017)
+## • [2016 archive](https://github.com/newswim/article-archive/blob/master/Feb%202016%20-%20Dec%202016/readme.md)
+## • [2017 archive](https://github.com/newswim/article-archive/tree/master/2017)
+## • [2018 archive](https://github.com/newswim/article-archive/tree/master/2018)
 
 The plan is to turn this into an actual website with ratings/summaries eventually, but for now it's
 just an overwhelming list (but searchable! Thanks, github!). This repo is mainly a means of tracking
